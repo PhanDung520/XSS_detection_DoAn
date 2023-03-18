@@ -506,3 +506,70 @@ def ftrExtract(script, label):
     features.append(label)  #label
 
     return features
+
+
+def ftrExtract2(script):
+    features = []
+    features.append(hasLt(script))  # F1
+    features.append(hasScript(script))  # F2
+    features.append(hasAlert(script))  # F3
+    features.append(hasBigSmallSign2(script))  # F4
+    features.append(hasBigSmallSign1(script))   # F5
+    features.append(hasAnd(script))  # F6
+    features.append(hasPercentage(script))  # F7
+    features.append(hasSlash(script))  # F8
+    features.append(hasBackSlash(script))  # F9
+    features.append(hasPlus(script))  # F10
+    features.append(hasDocument(script))  # F11
+    features.append(hasWindow(script))  # F12
+    features.append(hasOnload(script))  # F13
+    features.append(hasOnError(script))  # F14
+    features.append(hasDiv(script))  # F15
+    features.append(hasIframe(script))  # F16
+    features.append(hasImg(script))  # F17
+    features.append(hasSRC(script))  # F18
+    features.append(hasVar(script))  # F19
+    features.append(hasEval(script))  # F20
+    features.append(hasHref(script))  # F21
+    features.append(hasCookie(script))  # F22
+    features.append(hasStringfromCharCode(script))  # F23
+    features.append(hasSingleQoute(script))  # F24
+    features.append(hasQuestionMark(script))  # F25
+    features.append(hasExclamationMark(script))  # F26
+    features.append(hasSemicolon(script))  # F27
+    features.append(hasHTTP(script))  # F28
+    features.append(hasJS(script))  # F29
+    features.append(hasHash(script))  # F30
+    features.append(hasEqual(script))  # F31
+    features.append(hasOpenBracket(script))  # F32
+    features.append(hasCloseBracket(script))  # F33
+    features.append(hasDoubleBracket(script))  # F34
+    features.append(hasDollar(script))  # F35
+    features.append(hasOpenParenthesis(script))  # F36
+    features.append(hasCloseParenthesis(script))  # F37
+    features.append(hasAsterisk(script))  # F38
+    features.append(hasComma(script))  # F39
+    features.append(hasHyphen(script))  # F40
+    features.append(hasLessThan(script))  # F41
+    features.append(hasGreaterThan(script))  # F42
+    features.append(hasAt(script))  # F43
+    features.append(hasUnderscore(script))  # F44
+    features.append(hasLocation(script))  # F45
+    features.append(hasSearch(script))  # F46
+    features.append(hasAndHash(script))  # F47
+    features.append(hasColon(script))  # F48
+    features.append(hasDots(script))  # F49
+    features.append(hasOpenBrace(script))  # F50
+    features.append(hasCloseBrace(script))  # F51
+    features.append(hasTilde(script))  # F52
+    features.append(hasSpace(script))  # F53
+    features.append(hasGrave(script))  # F54
+    features.append(hasDoubleEquals(script))  # F55
+    features.append(hasDoubleSlash(script))  # F56
+    features.append(hasVerticalBar(script))  # F57
+    features.append(hasPower(script))  # F58
+    features.append(lettersRatio(script))  # F59
+    features.append(numbersRatio(script))  # F60
+    features.append(symbolsRatio(script))  # F61
+
+    return features
