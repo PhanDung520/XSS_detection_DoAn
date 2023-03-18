@@ -20,9 +20,9 @@ X = df[utils.column_name_without_label]
 y = df['Label']
 
 # Chia dữ liệu thành 2 tập huấn luyện. Tập huấn luyện chiếm 80% và tập test chiếm 20%
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.01, random_state=0)
 
-clf = RandomForestClassifier(n_estimators=100)  # - So cay: 40 cay
+clf = RandomForestClassifier(n_estimators=100)  # - So cay: 100 cay
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 
