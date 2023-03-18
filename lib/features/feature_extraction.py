@@ -440,7 +440,7 @@ def symbolsRatio(script):
 
 
 # Trích xuất đặc trưng
-def ftrExtract(script):
+def ftrExtract(script, label):
     features = []
     features.append(hasLt(script))  # F1
     features.append(hasScript(script))  # F2
@@ -503,5 +503,6 @@ def ftrExtract(script):
     features.append(lettersRatio(script))  # F59
     features.append(numbersRatio(script))  # F60
     features.append(symbolsRatio(script))  # F61
+    features.append(label)  #label
 
     return features
