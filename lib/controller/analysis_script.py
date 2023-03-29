@@ -31,7 +31,21 @@ import lib.model.utils as utils
 # output_processed.to_csv(r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\final_ds\output_raw2.csv',
 #                         index=False,
 #                         )
-
+#   -------------------------------------------------------------------------------------------------------------------
+# xss_features = []
+# k = 1
+# label = 1
+# with open(r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\raw_dataset\XSS_dataset_payloads_raw_malicious.txt', encoding='utf8') as file:
+#     for line in file:
+#         line = line.strip()
+#         xss_features.append(feauture_extraction.ftrExtract(line, label))
+#         print('x' + str(k))
+#         k += 1
+#
+# output_processed = pd.DataFrame(xss_features, columns=utils.column_name)
+# output_processed.to_csv(r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\final_ds\output_raw3_malicious.csv',
+#                         index=False,
+#                         )
 #   -------------------------------------------------------------------------------------------------------------------
 #
 # df1 = pd.read_csv(r"C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\raw_dataset\XSS_dataset_processed1.csv")

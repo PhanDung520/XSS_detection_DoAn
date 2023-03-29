@@ -503,13 +503,13 @@ def ftrExtract(script, label):
     features.append(lettersRatio(script))  # F59
     features.append(numbersRatio(script))  # F60
     features.append(symbolsRatio(script))  # F61
-    features.append(label)  #label
+    features.append(label)  # label
 
     return features
 
 
 def ftrExtract2(script):
-    features = []
+    features =[]
     features.append(hasLt(script))  # F1
     features.append(hasScript(script))  # F2
     features.append(hasAlert(script))  # F3

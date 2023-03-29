@@ -3,7 +3,7 @@ import pandas as pd
 import lib.model.utils as utils
 import _pickle as cPickle
 
-# Đọc dữ liệu từ tệp của bạn
+# Đọc dữ liệu từ tệp
 data = pd.read_csv(utils.training_dataset_file_name)
 
 # Chuyển đổi dữ liệu thành mảng NumPy
