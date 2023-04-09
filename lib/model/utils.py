@@ -28,5 +28,5 @@ training_dataset_file_name = r'C:\Users\phand\OneDrive\Tài liệu\XSS_detecti
 
 training_model_file_name = r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\trainingModel'
 
-training_dataset_file_name_sfs = r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\lib\sfs\selected_features_SFS.csv'
+training_dataset_file_name_sfs = r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\dataset_for_training\dataset_for_training.csv'
 
