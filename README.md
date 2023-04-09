@@ -13,7 +13,9 @@ lưu ý: file final_ds.output_raw3_malicious chứa các scipt, url độc hại
 *File trích chọn:
 - thư mục bao gồm các đặc trưng: lib/features/features.py
 - thư mục để trích chọn: lib/features/feature_extraction.py (14 đặc trung) và lib/features/feature_extraction_old.py (với 61 đặc trưng)
+
 *File lib/model/utils.py gồm tên cột, tên file, thay đổi tên file trong này
+
 *Thư mục sfs
 - lib/sfs/SFS.py: dùng để giảm trừ các đặc trưng từ 61 đặc trung còn 14 đặc trưng và xuất ra file test cuối cùng
 *Thư mục controller
