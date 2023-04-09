@@ -22,7 +22,7 @@ lưu ý: file final_ds.output_raw3_malicious chứa các scipt, url độc hại
 - lib/controller/create_training.py: file này để huấn luyện 100% dataset và lưu model sử dụng cho file lib/UI/test_app.py sử dụng
 
 ****Các bước để chạy chương trình****
-bước 1 - Thống kê: chạy chương trình lib/controller/create_traning_model.py
-bước 2 - Tạo model huấn luyện: lib/controller/create_training.py
-bước 3 - Chạy chương trình: lib/UI/test_app.py
-nên nhớ file XSS thô chưa huấn luyện có thể dùng để test ở XSS_dataset_payloads_raw_malicious.txt 
+	bước 1 - Thống kê: chạy chương trình lib/controller/create_traning_model.py
+	bước 2 - Tạo model huấn luyện: lib/controller/create_training.py
+	bước 3 - Chạy chương trình: lib/UI/test_app.py
+	-nên nhớ file XSS thô chưa huấn luyện có thể dùng để test ở XSS_dataset_payloads_raw_malicious.txt 
