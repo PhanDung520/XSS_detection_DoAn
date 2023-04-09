@@ -4,7 +4,7 @@ import lib.model.utils as utils
 import _pickle as cPickle
 
 # Đọc dữ liệu từ tệp
-data = pd.read_csv(utils.training_dataset_file_name)
+data = pd.read_csv(utils.training_dataset_file_name_sfs)
 
 # Chuyển đổi dữ liệu thành mảng NumPy
 X = data.iloc[:, :-1].values

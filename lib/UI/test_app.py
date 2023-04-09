@@ -27,11 +27,11 @@ def values():
     Script = str(entry.get())
 
     if loaded_clf.predict([featureExtraction.ftrExtract2(Script)]) == 0:
-        Prediction_result = "SCRIPT vừa nhập là Lành tính!"
+        Prediction_result = "     SCRIPT vừa nhập là Lành tính!     "
         label_Prediction = Label(root, text=Prediction_result, fg='green', font=1)
     else:
 
-        Prediction_result = "SCRIPT vừa nhập là XSS!"
+        Prediction_result = "      SCRIPT vừa nhập là XSS!      "
         label_Prediction = Label(root, text=Prediction_result, fg='red', font=1)
     canvas.create_window(300, 160, window=label_Prediction)
 
