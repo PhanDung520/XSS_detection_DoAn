@@ -18,6 +18,7 @@ lưu ý: file final_ds.output_raw3_malicious chứa các scipt, url độc hại
 
 *Thư mục sfs
 - lib/sfs/SFS.py: dùng để giảm trừ các đặc trưng từ 61 đặc trung còn 14 đặc trưng và xuất ra file test cuối cùng
+
 *Thư mục controller
 - lib/controller/analysis_script.py: file này dùng các trích chọn để trích chọn dataset thô thành dataset đã trích chọn, và ghép chúng lại
 - lib/controller/create_traning_model.py: File này để huấn luyện và thống kê số liệu với 20% dataset để test
