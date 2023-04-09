@@ -2,7 +2,8 @@
 This ad includes content that may be off-putting to some, but to others just what they need.
 1. Tổng quan
 Đây là chương trình phát hiện XSS bằng học máy kết hợp.
-2. Cấu tạo thư mục
+2. Cấu tạo thư mục:
+
 *File dataset:
 	- raw_dataset là thư mục chứa các dataset thô ban đầu, chưa trích chọn
 	- final_ds là thư mục chưa các dataset sau khi được trích chọn (61 đặc trưng)
