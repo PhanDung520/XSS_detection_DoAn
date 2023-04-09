@@ -1,5 +1,4 @@
 # XSS Detection using python
-This ad includes content that may be off-putting to some, but to others just what they need.
 1. Tổng quan
 Đây là chương trình phát hiện XSS bằng học máy kết hợp.
 2. Cấu tạo thư mục:
