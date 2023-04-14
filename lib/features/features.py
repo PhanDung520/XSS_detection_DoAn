@@ -296,7 +296,7 @@ def hasGreaterThan(script):
 
 # F43: Trả về giá trị 1 nếu tồn tại từ khóa At, ngược lại trả về giá trị 0
 def hasAt(script):
-    if "At" in script:
+    if "@" in script:
         return 1
     return 0
 

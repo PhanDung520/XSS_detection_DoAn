@@ -28,7 +28,7 @@ def sfs(df,k):
     return df.loc[:, selected + [label.name]]
 
 if __name__ == '__main__':
-    input_file = utils.training_dataset_file_name
+    input_file = r'C:\Users\phand\OneDrive\Tài liệu\XSS_detection_DoAn\Dataset\final_ds\output_full_old.csv'
     output_file = 'selected_features_SFS.csv'
 
     df = pd.read_csv(input_file)
